@@ -1,0 +1,33 @@
+{
+  "produto_id": "exemplo-001",
+  "hub_slug": "musica",
+  "titulo": "Checklist prático: primeiros passos com musica instrumentos",
+  "conteudo": {
+    "titulo": "Checklist prático: primeiros passos com musica instrumentos",
+    "intro": "Sabemos que começar em musica instrumentos pode travar — esse checklist é o empurrão prático pra sair do zero hoje.",
+    "passos": [
+      {
+        "titulo": "Defina seu ponto de partida",
+        "detalhe": "Anote em uma frase onde você está hoje com musica instrumentos — isso evita perder tempo com conteúdo que não serve pro seu nível."
+      },
+      {
+        "titulo": "Separe 15 minutos por dia",
+        "detalhe": "Constância curta e diária bate sessão longa esporádica — bloqueia esse horário na agenda antes de qualquer coisa."
+      },
+      {
+        "titulo": "Escolha 1 fonte confiável",
+        "detalhe": "Evite pular entre vários materiais diferentes ao mesmo tempo — isso é o que mais trava iniciante."
+      },
+      {
+        "titulo": "Registre o progresso",
+        "detalhe": "Um caderno ou nota no celular já resolve — o objetivo é conseguir olhar pra trás e ver que avançou."
+      }
+    ],
+    "fechamento": "Quer ir mais fundo? O guia completo cobre cada um desses pontos com mais profundidade."
+  },
+  "texto_telegram_html": "<b>Checklist prático: primeiros passos com musica instrumentos</b>\n\n<i>Sabemos que começar em musica instrumentos pode travar — esse checklist é o empurrão prático pra sair do zero hoje.</i>\n\n<b>1. Defina seu ponto de partida</b>\n<code>Anote em uma frase onde você está hoje com musica instrumentos — isso evita perder tempo com conteúdo que não serve pro seu nível.</code>\n\n<b>2. Separe 15 minutos por dia</b>\n<code>Constância curta e diária bate sessão longa esporádica — bloqueia esse horário na agenda antes de qualquer coisa.</code>\n\n<b>3. Escolha 1 fonte confiável</b>\n<code>Evite pular entre vários materiais diferentes ao mesmo tempo — isso é o que mais trava iniciante.</code>\n\n<b>4. Registre o progresso</b>\n<code>Um caderno ou nota no celular já resolve — o objetivo é conseguir olhar pra trás e ver que avançou.</code>\n\n<i>Quer ir mais fundo? O guia completo cobre cada um desses pontos com mais profundidade.</i>",
+  "parse_mode": "HTML",
+  "dor_principal_ancorada": "Curso Online do Arthur Endo - Vale a pena? : r/Violao",
+  "fonte_geracao": "fallback_template_api_falhou",
+  "gerado_em": "2026-08-02T09:53:14"
+}
