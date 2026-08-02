@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://robasidev.github.io/AutoNexus-OS-site/sitemap.xml

@@ -1,0 +1,41 @@
+{
+  "produto_id": "teste-etapa3-culinaria",
+  "hub_slug": "culinaria",
+  "titulo": "Checklist: montar 1 receita que rende a semana",
+  "conteudo": {
+    "titulo": "Checklist: montar 1 receita que rende a semana",
+    "intro": "Você quer cozinhar uma vez e comer a semana toda, mas fica na dúvida se aquela receita aguenta 5 dias sem virar gororoba. Bora resolver isso agora, do jeito prático.",
+    "passos": [
+      {
+        "titulo": "Escolha a base certa",
+        "detalhe": "Prefira grãos e proteínas que aguentam geladeira: arroz, frango desfiado, ovo cozido, grão-de-bico. Fuja de folhas cruas e coisas que soltam água."
+      },
+      {
+        "titulo": "Cozinhe em dose tripla",
+        "detalhe": "Pegue uma receita de 15 min e multiplique os ingredientes por 3. O tempo de fogão é quase o mesmo, mas o rendimento salta pra 4-5 porções."
+      },
+      {
+        "titulo": "Monte por partes, não pronto",
+        "detalhe": "Guarde base, proteína e molho separados. Assim você mistura na hora e cada refeição parece nova, sem enjoar do mesmo prato."
+      },
+      {
+        "titulo": "Porcione na hora de guardar",
+        "detalhe": "Divida em potes individuais já com a quantidade da sua refeição. Nada de tirar da panela grande todo dia — isso é o que faz você desistir."
+      },
+      {
+        "titulo": "Etiquete com a data",
+        "detalhe": "Escreva o dia que preparou num pedacinho de fita. Base cozida dura tranquila 3-4 dias na geladeira; o que passar disso, vai pro freezer."
+      },
+      {
+        "titulo": "Separe 1 item coringa",
+        "detalhe": "Deixe algo cru e rápido à mão (tomate, pepino, folha) pra jogar na hora. Isso quebra a monotonia sem estragar antes do tempo."
+      }
+    ],
+    "fechamento": "Esse é o esqueleto — se quiser ir mais fundo e ver as combinações que aguentam a semana inteira sem enjoo, o guia completo destrincha receita por receita."
+  },
+  "texto_telegram_html": "<b>Checklist: montar 1 receita que rende a semana</b>\n\n<i>Você quer cozinhar uma vez e comer a semana toda, mas fica na dúvida se aquela receita aguenta 5 dias sem virar gororoba. Bora resolver isso agora, do jeito prático.</i>\n\n<b>1. Escolha a base certa</b>\n<code>Prefira grãos e proteínas que aguentam geladeira: arroz, frango desfiado, ovo cozido, grão-de-bico. Fuja de folhas cruas e coisas que soltam água.</code>\n\n<b>2. Cozinhe em dose tripla</b>\n<code>Pegue uma receita de 15 min e multiplique os ingredientes por 3. O tempo de fogão é quase o mesmo, mas o rendimento salta pra 4-5 porções.</code>\n\n<b>3. Monte por partes, não pronto</b>\n<code>Guarde base, proteína e molho separados. Assim você mistura na hora e cada refeição parece nova, sem enjoar do mesmo prato.</code>\n\n<b>4. Porcione na hora de guardar</b>\n<code>Divida em potes individuais já com a quantidade da sua refeição. Nada de tirar da panela grande todo dia — isso é o que faz você desistir.</code>\n\n<b>5. Etiquete com a data</b>\n<code>Escreva o dia que preparou num pedacinho de fita. Base cozida dura tranquila 3-4 dias na geladeira; o que passar disso, vai pro freezer.</code>\n\n<b>6. Separe 1 item coringa</b>\n<code>Deixe algo cru e rápido à mão (tomate, pepino, folha) pra jogar na hora. Isso quebra a monotonia sem estragar antes do tempo.</code>\n\n<i>Esse é o esqueleto — se quiser ir mais fundo e ver as combinações que aguentam a semana inteira sem enjoo, o guia completo destrincha receita por receita.</i>",
+  "parse_mode": "HTML",
+  "dor_principal_ancorada": "rende pra semana toda ou é só pra um dia?",
+  "fonte_geracao": "anthropic_ia",
+  "gerado_em": "2026-08-01T22:43:21"
+}

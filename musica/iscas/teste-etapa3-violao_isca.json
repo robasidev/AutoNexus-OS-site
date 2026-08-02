@@ -1,0 +1,41 @@
+{
+  "produto_id": "teste-etapa3-violao",
+  "hub_slug": "musica",
+  "titulo": "Checklist: seu 1º violão sozinho",
+  "conteudo": {
+    "titulo": "Checklist: seu 1º violão sozinho",
+    "intro": "Dá sim pra começar sem professor particular — o segredo é ter um caminho claro nos primeiros dias, em vez de ficar pulando de vídeo em vídeo. Segue esse roteiro que eu queria ter tido quando comecei.",
+    "passos": [
+      {
+        "titulo": "Afine antes de tudo",
+        "detalhe": "Baixe um app afinador grátis (GuitarTuna serve) e afine as 6 cordas. Tocar desafinado desanima qualquer iniciante e você nem percebe que o problema é esse."
+      },
+      {
+        "titulo": "Aprenda só 2 acordes",
+        "detalhe": "Comece com Em e G — são os mais fáceis pra mão. Fixe cada dedo no lugar certo e toque corda por corda até sair limpo, sem pressa."
+      },
+      {
+        "titulo": "Treine a troca lenta",
+        "detalhe": "Alterne Em e G bem devagar, sem ligar pro ritmo. O objetivo é a mão memorizar o movimento; a velocidade vem sozinha depois."
+      },
+      {
+        "titulo": "Cuide dos dedos doloridos",
+        "detalhe": "Doer a ponta dos dedos no início é normal. Pratique 10-15 min por dia e pare quando incomodar — a pele engrossa em poucos dias."
+      },
+      {
+        "titulo": "Grave você tocando",
+        "detalhe": "Use o celular pra gravar 30 segundos tocando. Ouvir de fora mostra o que ajustar muito melhor do que confiar só no que você sente na hora."
+      },
+      {
+        "titulo": "Marque horário fixo",
+        "detalhe": "Escolha um momento fixo do dia pra praticar, mesmo que curto. Constância diária vale muito mais que uma maratona no fim de semana."
+      }
+    ],
+    "fechamento": "Esses passos já te tiram do zero — e se quiser um caminho completo, com sequência de músicas e ritmos, o guia completo continua daqui pra frente."
+  },
+  "texto_telegram_html": "<b>Checklist: seu 1º violão sozinho</b>\n\n<i>Dá sim pra começar sem professor particular — o segredo é ter um caminho claro nos primeiros dias, em vez de ficar pulando de vídeo em vídeo. Segue esse roteiro que eu queria ter tido quando comecei.</i>\n\n<b>1. Afine antes de tudo</b>\n<code>Baixe um app afinador grátis (GuitarTuna serve) e afine as 6 cordas. Tocar desafinado desanima qualquer iniciante e você nem percebe que o problema é esse.</code>\n\n<b>2. Aprenda só 2 acordes</b>\n<code>Comece com Em e G — são os mais fáceis pra mão. Fixe cada dedo no lugar certo e toque corda por corda até sair limpo, sem pressa.</code>\n\n<b>3. Treine a troca lenta</b>\n<code>Alterne Em e G bem devagar, sem ligar pro ritmo. O objetivo é a mão memorizar o movimento; a velocidade vem sozinha depois.</code>\n\n<b>4. Cuide dos dedos doloridos</b>\n<code>Doer a ponta dos dedos no início é normal. Pratique 10-15 min por dia e pare quando incomodar — a pele engrossa em poucos dias.</code>\n\n<b>5. Grave você tocando</b>\n<code>Use o celular pra gravar 30 segundos tocando. Ouvir de fora mostra o que ajustar muito melhor do que confiar só no que você sente na hora.</code>\n\n<b>6. Marque horário fixo</b>\n<code>Escolha um momento fixo do dia pra praticar, mesmo que curto. Constância diária vale muito mais que uma maratona no fim de semana.</code>\n\n<i>Esses passos já te tiram do zero — e se quiser um caminho completo, com sequência de músicas e ritmos, o guia completo continua daqui pra frente.</i>",
+  "parse_mode": "HTML",
+  "dor_principal_ancorada": "dá pra aprender sozinho sem professor particular?",
+  "fonte_geracao": "anthropic_ia",
+  "gerado_em": "2026-08-01T22:42:49"
+}
