@@ -31,6 +31,77 @@
     };
   </script>
   
+  <style>
+    .prose .callout {
+      background: #faf5ff; border-left: 4px solid #7c3aed;
+      border-radius: 0.75rem; padding: 1rem 1.25rem; margin: 1.5rem 0;
+    }
+    .prose table.comparativo {
+      width: 100%; border-collapse: collapse; margin: 1.5rem 0; font-size: 0.9rem;
+    }
+    .prose table.comparativo th, .prose table.comparativo td {
+      border: 1px solid #7c3aed33; padding: 0.6rem 0.85rem; text-align: left;
+    }
+    .prose table.comparativo th { background: #7c3aed; color: #fff; }
+    .prose table.comparativo tr:nth-child(even) td { background: #faf5ff; }
+    .prose .faq { margin: 1.5rem 0; }
+    .prose .faq dt { font-weight: 700; color: #1e1b2e; margin-top: 1rem; }
+    .prose .faq dd { margin: 0.25rem 0 0; color: #1e1b2e; opacity: 0.85; }
+    .prose blockquote, .prose .depoimento-card, .prose .depoimento, .prose .card-depoimento {
+      background: #faf5ff; border-left: 4px solid #7c3aed; border-radius: 0.75rem;
+      padding: 1rem 1.25rem; margin: 1rem 0; font-style: normal;
+    }
+    .autonexus-popup {
+      position: fixed; left: 50%; top: 50%; transform: translate(-50%, -50%);
+      z-index: 60; width: min(90vw, 380px); background: #fff; border-radius: 1rem;
+      padding: 1.75rem 1.5rem 1.5rem; box-shadow: 0 20px 50px rgba(0,0,0,0.28);
+      border-top: 4px solid #7c3aed;
+    }
+    .autonexus-popup[hidden] { display: none; }
+    .autonexus-popup h3 { font-weight: 800; font-size: 1.1rem; color: #1e1b2e; margin: 0 0 0.5rem; }
+    .autonexus-popup p { color: #1e1b2e; opacity: .85; font-size: .9rem; margin: 0 0 1.1rem; line-height: 1.4; }
+    .autonexus-popup a {
+      display: inline-block; background: #7c3aed; color: #fff; font-weight: 700;
+      padding: .65rem 1.25rem; border-radius: 9999px; text-decoration: none; font-size: .9rem;
+    }
+    .autonexus-popup button[data-autonexus-close] {
+      position: absolute; top: .65rem; right: .65rem; width: 1.75rem; height: 1.75rem;
+      border: none; background: rgba(0,0,0,0.06); border-radius: 9999px; cursor: pointer;
+      font-size: 0; color: transparent;
+    }
+    .autonexus-popup button[data-autonexus-close]::before { content: "✕"; font-size: .8rem; color: #1e1b2e; opacity: .6; }
+    .autonexus-push-cta {
+      position: fixed; left: 1rem; right: 1rem; bottom: 5.5rem; z-index: 55;
+      display: flex; align-items: center; justify-content: space-between; gap: .75rem;
+      background: #1e1b2e; color: #fff; padding: .85rem 1rem; border-radius: .9rem;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.2); max-width: 420px; margin: 0 auto;
+      opacity: 0; transform: translateY(1rem); pointer-events: none;
+      transition: opacity .3s ease, transform .3s ease;
+    }
+    .autonexus-push-cta.autonexus-visible { opacity: 1; transform: translateY(0); pointer-events: auto; }
+    .autonexus-push-cta span { font-size: .85rem; line-height: 1.35; }
+    .autonexus-push-cta a {
+      flex-shrink: 0; background: #f59e0b; color: #1e1b2e; font-weight: 700; font-size: .8rem;
+      padding: .5rem .9rem; border-radius: 9999px; text-decoration: none; white-space: nowrap;
+    }
+    @media (min-width: 640px) {
+      .autonexus-push-cta { left: auto; right: 1.5rem; bottom: 1.5rem; width: 360px; }
+    }
+  </style>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PRNWQTZZEL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-PRNWQTZZEL');
+  </script>
+  <script>
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "xx9fv1dquv");
+  </script>
 </head>
 <body class="bg-hubbg text-texto font-sans antialiased pb-24 sm:pb-0">
 
@@ -62,11 +133,11 @@
       <ol class="px-5 pb-5 space-y-1.5 list-decimal list-inside text-sm"><li><a href="#voce-senta-pra-estudar-se-enrola-nos-dedos-e-desiste-em-5-minutos" class="text-hubprimary hover:underline">Você senta pra estudar, se enrola nos dedos e desiste em 5 minutos</a></li><li><a href="#quantos-minutos-por-dia-realmente-bastam-pra-evoluir" class="text-hubprimary hover:underline">Quantos minutos por dia realmente bastam pra evoluir?</a></li><li><a href="#os-3-erros-que-travam-quase-todo-iniciante" class="text-hubprimary hover:underline">Os 3 erros que travam quase todo iniciante</a></li><li><a href="#mas-sera-que-curso-online-de-violao-funciona-mesmo" class="text-hubprimary hover:underline">"Mas será que curso online de violão funciona mesmo?"</a></li></ol>
     </details>
       <div class="prose sm:prose-lg max-w-none prose-headings:text-hubtext prose-a:text-hubprimary prose-strong:text-hubtext">
-        <h2 id="voce-senta-pra-estudar-se-enrola-nos-dedos-e-desiste-em-5-minutos">Você senta pra estudar, se enrola nos dedos e desiste em 5 minutos</h2><p>Já perdi a conta de quantos alunos chegaram até mim dizendo a mesma frase: "eu tento sozinho pelo YouTube, mas nunca saio do lugar". A pessoa pega o violão animada, tenta um acorde, os dedos não obedecem, dói a ponta do dedo, o som sai abafado e chiado — e em uma semana o instrumento vira enfeite em cima do guarda-roupa. Não é falta de talento. É falta de uma rotina que faça sentido pro seu dia real.</p><p>Se você ainda não viu, o guia completo cobre isso com mais profundidade: <a href="metodo-violao-100-arthur-endo-vale-a-pena-analise-real.html" class="text-blue-600 underline font-semibold">Método Violão 100 (Arthur Endo) vale a pena? Análise real</a>.</p><p>Depois de 13 anos ensinando, posso te dizer com tranquilidade: o problema quase nunca é a sua mão. É a ausência de uma sequência clara do que praticar hoje, amanhã e depois. Sem isso, você fica pulando de música em música sem nunca dominar o básico.</p><h2 id="quantos-minutos-por-dia-realmente-bastam-pra-evoluir">Quantos minutos por dia realmente bastam pra evoluir?</h2><p>Essa é a dúvida que mais escuto. E a resposta honesta vai te aliviar: 15 a 20 minutos por dia, com constância, rendem MUITO mais que duas horas maratonadas só no domingo. O cérebro e a memória muscular aprendem por repetição espaçada, não por esforço concentrado.</p><p>É exatamente por isso que a proposta de "poucos minutos por dia" do Método Violão 100 (Arthur Endo) faz sentido na prática — não é jogada de marketing, é como o aprendizado de instrumento realmente acontece. A estrutura em 100 níveis, cada um um pouco mais desafiador que o anterior, resolve o problema de "não saber o que estudar hoje".</p><h3>Uma rotina simples que eu passo pra quem está começando</h3><ol><li><strong>2 min de aquecimento:</strong> abra e feche a mão, estique os dedos, sem violão.</li><li><strong>5 min de troca de acordes:</strong> escolha DOIS acordes só e troque um pelo outro, devagar, olhando pra mão.</li><li><strong>5 min de mão direita:</strong> dedilhado ou batida bem lenta, no mesmo par de acordes.</li><li><strong>5 min do que te dá prazer:</strong> tente um pedacinho de uma música que você ama. É isso que te faz voltar amanhã.</li></ol><h2 id="os-3-erros-que-travam-quase-todo-iniciante">Os 3 erros que travam quase todo iniciante</h2><ul><li><strong>Apertar o braço com força de mais:</strong> gera dor e cansaço à toa. A pressão certa é menor do que você imagina.</li><li><strong>Tentar tocar rápido cedo demais:</strong> velocidade vem da precisão, nunca o contrário.</li><li><strong>Mudar de música toda semana:</strong> você nunca fixa nada. Repetição chata é o que constrói base.</li></ul><h2 id="mas-sera-que-curso-online-de-violao-funciona-mesmo">"Mas será que curso online de violão funciona mesmo?"</h2><p>Essa pergunta ronda muito fórum — no Reddit, no r/Violao, é campeã. E é uma dúvida legítima. Curso online funciona, sim, desde que tenha três coisas: sequência lógica, professor que sabe o que faz e conteúdo que vá do básico ao avançado sem te abandonar no meio.</p><p>No caso do Método Violão 100, o Arthur Endo é violonista premiado e formado (Bacharelado em Violão na UNICAMP, Conservatório EMESP), e o último disco dele foi produzido pelo Yamandu Costa. Ou seja: você aprende com alguém que vive a música de verdade, não com um influencer que decorou quatro acordes. Os depoimentos falam justamente disso — gente que estava estagnada há anos e voltou a evoluir.</p><table class="comparativo"><thead><tr><th>Estudar por conta</th><th>Rotina guiada (tipo os 100 níveis)</th></tr></thead><tbody><tr><td>Você não sabe o que praticar hoje</td><td>Sabe exatamente o próximo passo</td></tr><tr><td>Pula de música em música</td><td>Progressão do básico ao avançado</td></tr><tr><td>Sem revisão do que já viu</td><td>Apostilas de revisão e organização</td></tr><tr><td>Desânimo em semanas</td><td>Cada nível puxa pro próximo</td></tr></tbody></table><div class="callout"><p>Um ponto sincero: nenhum método toca por você. Se você não separar aqueles 15 minutinhos diários, nem o melhor curso do mundo te faz evoluir. A boa notícia é que 15 minutos qualquer pessoa consegue.</p></div><div class="faq"><dl><dt>Preciso já saber alguma coisa pra começar?</dt><dd>Não. O conteúdo vai do zero absoluto, incluindo leitura de tablatura e primeiros dedilhados.</dd><dt>É confiável ou é enrolação?</dt><dd>Arthur Endo é premiado nacional e internacionalmente e tem formação acadêmica em violão. Há uma comunidade com mais de 10 mil alunos.</dd><dt>Quanto tempo até tocar minha primeira música?</dt><dd>Com prática diária, alguns alunos relatam dedilhar já nos primeiros dias — mas depende da sua constância, não prometo prazo mágico.</dd></dl></div><p>Se você está cansado de tentar sozinho e não ver progresso, comece pela rotina que deixei aqui em cima ainda hoje. E se quiser uma trilha pronta que te diga exatamente o que praticar em cada nível, dá uma olhada no material oficial.</p><p class="cta"><a href="https://go.hotmart.com/F101363350Q" rel="nofollow sponsored">Quero conhecer o Método Violão 100 (Arthur Endo)</a></p>
+        <h2 id="voce-senta-pra-estudar-se-enrola-nos-dedos-e-desiste-em-5-minutos">Você senta pra estudar, se enrola nos dedos e desiste em 5 minutos</h2><p>Já perdi a conta de quantos alunos chegaram até mim dizendo a mesma frase: "eu tento sozinho pelo YouTube, mas nunca saio do lugar". A pessoa pega o violão animada, tenta um acorde, os dedos não obedecem, dói a ponta do dedo, o som sai abafado e chiado — e em uma semana o instrumento vira enfeite em cima do guarda-roupa. Não é falta de talento. É falta de uma rotina que faça sentido pro seu dia real.</p><p>Se você ainda não viu, o guia completo cobre isso com mais profundidade: <a href="metodo-violao-100-arthur-endo-vale-a-pena-analise.html" class="text-blue-600 underline font-semibold">Método Violão 100 (Arthur Endo) vale a pena? Análise</a>.</p><p>Depois de 13 anos ensinando, posso te dizer com tranquilidade: o problema quase nunca é a sua mão. É a ausência de uma sequência clara do que praticar hoje, amanhã e depois. Sem isso, você fica pulando de música em música sem nunca dominar o básico.</p><h2 id="quantos-minutos-por-dia-realmente-bastam-pra-evoluir">Quantos minutos por dia realmente bastam pra evoluir?</h2><p>Essa é a dúvida que mais escuto. E a resposta honesta vai te aliviar: 15 a 20 minutos por dia, com constância, rendem MUITO mais que duas horas maratonadas só no domingo. O cérebro e a memória muscular aprendem por repetição espaçada, não por esforço concentrado.</p><p>É exatamente por isso que a proposta de "poucos minutos por dia" do Método Violão 100 (Arthur Endo) faz sentido na prática — não é jogada de marketing, é como o aprendizado de instrumento realmente acontece. A estrutura em 100 níveis, cada um um pouco mais desafiador que o anterior, resolve o problema de "não saber o que estudar hoje".</p><h3>Uma rotina simples que eu passo pra quem está começando</h3><ol><li><strong>2 min de aquecimento:</strong> abra e feche a mão, estique os dedos, sem violão.</li><li><strong>5 min de troca de acordes:</strong> escolha DOIS acordes só e troque um pelo outro, devagar, olhando pra mão.</li><li><strong>5 min de mão direita:</strong> dedilhado ou batida bem lenta, no mesmo par de acordes.</li><li><strong>5 min do que te dá prazer:</strong> tente um pedacinho de uma música que você ama. É isso que te faz voltar amanhã.</li></ol><h2 id="os-3-erros-que-travam-quase-todo-iniciante">Os 3 erros que travam quase todo iniciante</h2><ul><li><strong>Apertar o braço com força de mais:</strong> gera dor e cansaço à toa. A pressão certa é menor do que você imagina.</li><li><strong>Tentar tocar rápido cedo demais:</strong> velocidade vem da precisão, nunca o contrário.</li><li><strong>Mudar de música toda semana:</strong> você nunca fixa nada. Repetição chata é o que constrói base.</li></ul><h2 id="mas-sera-que-curso-online-de-violao-funciona-mesmo">"Mas será que curso online de violão funciona mesmo?"</h2><p>Essa pergunta ronda muito fórum — no Reddit, no r/Violao, é campeã. E é uma dúvida legítima. Curso online funciona, sim, desde que tenha três coisas: sequência lógica, professor que sabe o que faz e conteúdo que vá do básico ao avançado sem te abandonar no meio.</p><p>No caso do Método Violão 100, o Arthur Endo é violonista premiado e formado (Bacharelado em Violão na UNICAMP, Conservatório EMESP), e o último disco dele foi produzido pelo Yamandu Costa. Ou seja: você aprende com alguém que vive a música de verdade, não com um influencer que decorou quatro acordes. Os depoimentos falam justamente disso — gente que estava estagnada há anos e voltou a evoluir.</p><table class="comparativo"><thead><tr><th>Estudar por conta</th><th>Rotina guiada (tipo os 100 níveis)</th></tr></thead><tbody><tr><td>Você não sabe o que praticar hoje</td><td>Sabe exatamente o próximo passo</td></tr><tr><td>Pula de música em música</td><td>Progressão do básico ao avançado</td></tr><tr><td>Sem revisão do que já viu</td><td>Apostilas de revisão e organização</td></tr><tr><td>Desânimo em semanas</td><td>Cada nível puxa pro próximo</td></tr></tbody></table><div class="callout"><p>Um ponto sincero: nenhum método toca por você. Se você não separar aqueles 15 minutinhos diários, nem o melhor curso do mundo te faz evoluir. A boa notícia é que 15 minutos qualquer pessoa consegue.</p></div><div class="faq"><dl><dt>Preciso já saber alguma coisa pra começar?</dt><dd>Não. O conteúdo vai do zero absoluto, incluindo leitura de tablatura e primeiros dedilhados.</dd><dt>É confiável ou é enrolação?</dt><dd>Arthur Endo é premiado nacional e internacionalmente e tem formação acadêmica em violão. Há uma comunidade com mais de 10 mil alunos.</dd><dt>Quanto tempo até tocar minha primeira música?</dt><dd>Com prática diária, alguns alunos relatam dedilhar já nos primeiros dias — mas depende da sua constância, não prometo prazo mágico.</dd></dl></div><p>Se você está cansado de tentar sozinho e não ver progresso, comece pela rotina que deixei aqui em cima ainda hoje. E se quiser uma trilha pronta que te diga exatamente o que praticar em cada nível, dá uma olhada no material oficial.</p><p class="cta"><a href="https://go.hotmart.com/F101363350Q" rel="nofollow sponsored">Quero conhecer o Método Violão 100 (Arthur Endo)</a></p>
       </div>
       
     <div class="not-prose my-8 rounded-xl border-2 border-hubprimary/30 bg-hubprimary/5 p-5">
-      <a href="metodo-violao-100-arthur-endo-vale-a-pena-analise-real.html" class="font-bold text-hubprimary hover:underline">📖 Esse artigo é um complemento — veja o guia completo: Método Violão 100 (Arthur Endo) vale a pena? Análise real</a>
+      <a href="metodo-violao-100-arthur-endo-vale-a-pena-analise.html" class="font-bold text-hubprimary hover:underline">📖 Esse artigo é um complemento — veja o guia completo: Método Violão 100 (Arthur Endo) vale a pena? Análise</a>
     </div>
       
     <div class="not-prose my-10 rounded-2xl p-6 sm:p-8 text-white bg-gradient-to-br from-hubprimary to-hubsecondary shadow-xl">
@@ -75,7 +146,7 @@
       <a href="https://t.me/autonexus_leads_bot?start=musica___metodo-violao-100" target="_blank" rel="noopener"
          class="inline-block bg-white text-hubprimary font-bold px-6 py-3 rounded-full hover:opacity-90 transition">Quero o passo a passo</a>
     </div>
-      <p class="text-xs text-texto/60 border-t border-black/10 pt-4 mt-8">Este artigo contém links de afiliado. Podemos receber uma comissão por compras feitas através desses links, sem custo adicional para você.</p>
+      
     </article>
   </main>
 
@@ -86,7 +157,7 @@
         <a href="https://robasidev.github.io/AutoNexus-OS-site/musica/termos.html" class="hover:underline">Termos de Uso</a>
         <a href="https://robasidev.github.io/AutoNexus-OS-site/musica/privacidade.html" class="hover:underline">Política de Privacidade</a>
       </div>
-      <p class="mt-4 text-xs text-texto/50">&copy; 2026 Portal Afinado</p>
+      <p class="mt-4 text-xs text-texto/50">&copy; 2026 — Todos os direitos reservados.</p>
     </div>
   </footer>
 
