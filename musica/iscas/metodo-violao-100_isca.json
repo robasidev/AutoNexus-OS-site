@@ -1,41 +1,33 @@
 {
   "produto_id": "metodo-violao-100",
   "hub_slug": "musica",
-  "titulo": "Checklist: seus 3 primeiros dias no violão",
+  "titulo": "Checklist prático: primeiros passos com aprender violão do zero",
   "conteudo": {
-    "titulo": "Checklist: seus 3 primeiros dias no violão",
-    "intro": "Sei exatamente onde você travou: pesquisou se o método funciona, leu opinião de todo mundo no Reddit e ainda não pegou o violão hoje. Vamos resolver isso agora, com o que você já tem em mãos.",
+    "titulo": "Checklist prático: primeiros passos com aprender violão do zero",
+    "intro": "Sabemos que começar em aprender violão do zero pode travar — esse checklist é o empurrão prático pra sair do zero hoje.",
     "passos": [
       {
-        "titulo": "Afine antes de tudo",
-        "detalhe": "Baixe um afinador gratuito (GuitarTuna serve) e afine as 6 cordas. Violão desafinado faz qualquer iniciante achar que não tem talento — e o problema é só a afinação."
+        "titulo": "Defina seu ponto de partida",
+        "detalhe": "Anote em uma frase onde você está hoje com aprender violão do zero — isso evita perder tempo com conteúdo que não serve pro seu nível."
       },
       {
-        "titulo": "Postura e mão certa",
-        "detalhe": "Sente na ponta da cadeira, violão apoiado na perna direita, e deixe o polegar da mão esquerda atrás do braço, não por cima. Isso já libera seus dedos pra alcançar as casas."
+        "titulo": "Separe 15 minutos por dia",
+        "detalhe": "Constância curta e diária bate sessão longa esporádica — bloqueia esse horário na agenda antes de qualquer coisa."
       },
       {
-        "titulo": "Um acorde de cada vez",
-        "detalhe": "Comece só com Em (mi menor): dois dedos, som cheio. Toque 10 vezes seguidas até sair limpo, sem cordas abafadas, antes de pensar em qualquer outro."
+        "titulo": "Escolha 1 fonte confiável",
+        "detalhe": "Evite pular entre vários materiais diferentes ao mesmo tempo — isso é o que mais trava iniciante."
       },
       {
-        "titulo": "Batida simples pra baixo",
-        "detalhe": "Segurando o Em, faça só batidas pra baixo no tempo de uma música lenta que você goste. Nada de ritmo complicado hoje — constância vale mais que velocidade."
-      },
-      {
-        "titulo": "Troca entre dois acordes",
-        "detalhe": "Adicione o C (dó maior) e treine a troca Em → C bem devagar, olhando os dedos. Meça em quantos segundos você troca e tente reduzir amanhã."
-      },
-      {
-        "titulo": "15 minutos por dia",
-        "detalhe": "Marque um horário fixo e pratique 15 minutos, todo dia, mesmo cansado. A dor nos dedos passa em poucos dias e a memória muscular só vem com repetição diária."
+        "titulo": "Registre o progresso",
+        "detalhe": "Um caderno ou nota no celular já resolve — o objetivo é conseguir olhar pra trás e ver que avançou."
       }
     ],
-    "fechamento": "Se esses primeiros passos já fizeram o violão soar diferente na sua mão, o guia completo mostra como encadear tudo isso num caminho sem furos."
+    "fechamento": "Quer ir mais fundo? O guia completo cobre cada um desses pontos com mais profundidade."
   },
-  "texto_telegram_html": "<b>Checklist: seus 3 primeiros dias no violão</b>\n\n<i>Sei exatamente onde você travou: pesquisou se o método funciona, leu opinião de todo mundo no Reddit e ainda não pegou o violão hoje. Vamos resolver isso agora, com o que você já tem em mãos.</i>\n\n<b>1. Afine antes de tudo</b>\n<code>Baixe um afinador gratuito (GuitarTuna serve) e afine as 6 cordas. Violão desafinado faz qualquer iniciante achar que não tem talento — e o problema é só a afinação.</code>\n\n<b>2. Postura e mão certa</b>\n<code>Sente na ponta da cadeira, violão apoiado na perna direita, e deixe o polegar da mão esquerda atrás do braço, não por cima. Isso já libera seus dedos pra alcançar as casas.</code>\n\n<b>3. Um acorde de cada vez</b>\n<code>Comece só com Em (mi menor): dois dedos, som cheio. Toque 10 vezes seguidas até sair limpo, sem cordas abafadas, antes de pensar em qualquer outro.</code>\n\n<b>4. Batida simples pra baixo</b>\n<code>Segurando o Em, faça só batidas pra baixo no tempo de uma música lenta que você goste. Nada de ritmo complicado hoje — constância vale mais que velocidade.</code>\n\n<b>5. Troca entre dois acordes</b>\n<code>Adicione o C (dó maior) e treine a troca Em → C bem devagar, olhando os dedos. Meça em quantos segundos você troca e tente reduzir amanhã.</code>\n\n<b>6. 15 minutos por dia</b>\n<code>Marque um horário fixo e pratique 15 minutos, todo dia, mesmo cansado. A dor nos dedos passa em poucos dias e a memória muscular só vem com repetição diária.</code>\n\n<i>Se esses primeiros passos já fizeram o violão soar diferente na sua mão, o guia completo mostra como encadear tudo isso num caminho sem furos.</i>",
+  "texto_telegram_html": "<b>Checklist prático: primeiros passos com aprender violão do zero</b>\n\n<i>Sabemos que começar em aprender violão do zero pode travar — esse checklist é o empurrão prático pra sair do zero hoje.</i>\n\n<b>1. Defina seu ponto de partida</b>\n<code>Anote em uma frase onde você está hoje com aprender violão do zero — isso evita perder tempo com conteúdo que não serve pro seu nível.</code>\n\n<b>2. Separe 15 minutos por dia</b>\n<code>Constância curta e diária bate sessão longa esporádica — bloqueia esse horário na agenda antes de qualquer coisa.</code>\n\n<b>3. Escolha 1 fonte confiável</b>\n<code>Evite pular entre vários materiais diferentes ao mesmo tempo — isso é o que mais trava iniciante.</code>\n\n<b>4. Registre o progresso</b>\n<code>Um caderno ou nota no celular já resolve — o objetivo é conseguir olhar pra trás e ver que avançou.</code>\n\n<i>Quer ir mais fundo? O guia completo cobre cada um desses pontos com mais profundidade.</i>",
   "parse_mode": "HTML",
-  "dor_principal_ancorada": "Curso Online do Arthur Endo - Vale a pena? : r/Violao",
-  "fonte_geracao": "anthropic_ia",
-  "gerado_em": "2026-08-02T15:23:43"
+  "dor_principal_ancorada": "Curso Online de violão do Arthur Endo método 100",
+  "fonte_geracao": "fallback_template_api_falhou",
+  "gerado_em": "2026-08-04T02:32:06"
 }
