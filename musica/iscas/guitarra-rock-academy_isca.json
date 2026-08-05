@@ -1,0 +1,37 @@
+{
+  "produto_id": "guitarra-rock-academy",
+  "hub_slug": "musica",
+  "titulo": "Checklist: comece a tocar em minutos",
+  "conteudo": {
+    "titulo": "Checklist: comece a tocar em minutos",
+    "intro": "Eu sei bem a frustração de buscar recomendações de cursos on-line e travar logo no primeiro dia sem saber por onde começar. Preparei este guia rápido para você ativar seu som e destravar sua prática agora mesmo.",
+    "passos": [
+      {
+        "titulo": "Organize seu espaço de estudo",
+        "detalhe": "Deixe a guitarra no suporte, cabo pronto e palheta à mão para eliminar qualquer atrito antes de tocar."
+      },
+      {
+        "titulo": "Verifique a afinação do instrumento",
+        "detalhe": "Use um afinador digital gratuito no celular e garanta que todas as cordas estejam perfeitamente afinadas."
+      },
+      {
+        "titulo": "Ative seu som corretamente",
+        "detalhe": "Conecte a interface ou ligue o amplificador com o volume baixo, ajustando o ganho para um timbre limpo."
+      },
+      {
+        "titulo": "Execute o primeiro exercício de repetição",
+        "detalhe": "Faça a digitação básica nas quatro primeiras casas por apenas dois minutos, focando na precisão."
+      },
+      {
+        "titulo": "Avalie sua evolução imediata",
+        "detalhe": "Perceba como a reprodução correta depende muito mais da postura relaxada do que da força física."
+      }
+    ],
+    "fechamento": "Se você quer ir mais fundo e estruturar sua rotina de estudos, veja o guia completo na próxima etapa."
+  },
+  "texto_telegram_html": "<b>Checklist: comece a tocar em minutos</b>\n\n<i>Eu sei bem a frustração de buscar recomendações de cursos on-line e travar logo no primeiro dia sem saber por onde começar. Preparei este guia rápido para você ativar seu som e destravar sua prática agora mesmo.</i>\n\n<b>1. Organize seu espaço de estudo</b>\n<code>Deixe a guitarra no suporte, cabo pronto e palheta à mão para eliminar qualquer atrito antes de tocar.</code>\n\n<b>2. Verifique a afinação do instrumento</b>\n<code>Use um afinador digital gratuito no celular e garanta que todas as cordas estejam perfeitamente afinadas.</code>\n\n<b>3. Ative seu som corretamente</b>\n<code>Conecte a interface ou ligue o amplificador com o volume baixo, ajustando o ganho para um timbre limpo.</code>\n\n<b>4. Execute o primeiro exercício de repetição</b>\n<code>Faça a digitação básica nas quatro primeiras casas por apenas dois minutos, focando na precisão.</code>\n\n<b>5. Avalie sua evolução imediata</b>\n<code>Perceba como a reprodução correta depende muito mais da postura relaxada do que da força física.</code>\n\n<i>Se você quer ir mais fundo e estruturar sua rotina de estudos, veja o guia completo na próxima etapa.</i>",
+  "parse_mode": "HTML",
+  "dor_principal_ancorada": "Recomendações de cursos on-line! : r/guitarras",
+  "fonte_geracao": "gemini_ia",
+  "gerado_em": "2026-08-04T21:01:40"
+}
