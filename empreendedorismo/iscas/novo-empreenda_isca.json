@@ -1,0 +1,33 @@
+{
+  "produto_id": "novo-empreenda",
+  "hub_slug": "empreendedorismo",
+  "titulo": "Checklist: Primeiros 7 Dias",
+  "conteudo": {
+    "titulo": "Checklist: Primeiros 7 Dias",
+    "intro": "Eu sei que você já pensou em abrir o seu próprio negócio, mas tem medo de não ter certeza se vale a pena. Eu mesma já passei por isso e sei como é difícil dar o primeiro passo.",
+    "passos": [
+      {
+        "titulo": "Defina Seu Propósito",
+        "detalhe": "Pegue um papel e escreva o que você realmente deseja alcançar com o seu negócio. Seja claro e direto, sem rodeios."
+      },
+      {
+        "titulo": "Avalie Seu Mercado",
+        "detalhe": "Pense no seu público-alvo e no que ele realmente precisa. Faça uma pesquisa rápida online para entender melhor o mercado."
+      },
+      {
+        "titulo": "Desenvolva Um Plano",
+        "detalhe": "Esboce um plano simples de como você pretende começar e crescer. Não precisa ser perfeito, apenas um ponto de partida."
+      },
+      {
+        "titulo": "Aprenda Com Erros",
+        "detalhe": "Lembre-se de que erros são parte do processo. Estude casos de empreendedores que começaram do zero e use essas lições para evitar armadilhas comuns."
+      }
+    ],
+    "fechamento": "Agora que você tem um ponto de partida, que tal mergulhar mais fundo e descobrir como transformar sua ideia em realidade? Quer ir mais fundo? Veja o guia completo."
+  },
+  "texto_telegram_html": "<b>Checklist: Primeiros 7 Dias</b>\n\n<i>Eu sei que você já pensou em abrir o seu próprio negócio, mas tem medo de não ter certeza se vale a pena. Eu mesma já passei por isso e sei como é difícil dar o primeiro passo.</i>\n\n<b>1. Defina Seu Propósito</b>\n<code>Pegue um papel e escreva o que você realmente deseja alcançar com o seu negócio. Seja claro e direto, sem rodeios.</code>\n\n<b>2. Avalie Seu Mercado</b>\n<code>Pense no seu público-alvo e no que ele realmente precisa. Faça uma pesquisa rápida online para entender melhor o mercado.</code>\n\n<b>3. Desenvolva Um Plano</b>\n<code>Esboce um plano simples de como você pretende começar e crescer. Não precisa ser perfeito, apenas um ponto de partida.</code>\n\n<b>4. Aprenda Com Erros</b>\n<code>Lembre-se de que erros são parte do processo. Estude casos de empreendedores que começaram do zero e use essas lições para evitar armadilhas comuns.</code>\n\n<i>Agora que você tem um ponto de partida, que tal mergulhar mais fundo e descobrir como transformar sua ideia em realidade? Quer ir mais fundo? Veja o guia completo.</i>",
+  "parse_mode": "HTML",
+  "dor_principal_ancorada": "Empreender vale a pena? : r/empreendedorismo",
+  "fonte_geracao": "gemini_ia",
+  "gerado_em": "2026-08-07T00:11:35"
+}

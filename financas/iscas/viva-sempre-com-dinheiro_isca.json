@@ -1,0 +1,33 @@
+{
+  "produto_id": "viva-sempre-com-dinheiro",
+  "hub_slug": "financas",
+  "titulo": "Organize Sua Economia",
+  "conteudo": {
+    "titulo": "Organize Sua Economia",
+    "intro": "Se você está aqui, provavelmente já sentiu o peso de não ter controle sobre suas finanças. Eu sei como é, já estive lá. Mas o primeiro passo para mudar isso é começar a organizar sua economia, e é exatamente isso que vamos fazer agora.",
+    "passos": [
+      {
+        "titulo": "Reuni Todos Comprovantes",
+        "detalhe": "Pegue todos os comprovantes de gastos dos últimos 30 dias, incluindo contas de cartão de crédito, extratos bancários e notas fiscais. Isso vai te dar uma visão clara de onde seu dinheiro está indo."
+      },
+      {
+        "titulo": "Categorize Gastos",
+        "detalhe": "Separe seus gastos em categorias como alimentação, transporte, moradia, entretenimento, etc. Isso ajudará a entender melhor onde você pode cortar gastos desnecessários."
+      },
+      {
+        "titulo": "Defina Metas Financeiras",
+        "detalhe": "Pense no que você quer alcançar com seu dinheiro, seja pagar uma dívida, fazer uma reserva de emergência ou planejar um investimento. Ter metas claras te dará direção."
+      },
+      {
+        "titulo": "Crie um Plano de Ação",
+        "detalhe": "Com base nas suas metas e no que você descobriu sobre seus gastos, crie um plano simples de como você vai alcançar essas metas. Comece com pequenos passos que você possa dar já esta semana."
+      }
+    ],
+    "fechamento": "Agora que você tem esses primeiros passos, é hora de aprofundar seus conhecimentos e criar um plano personalizado para sua situação financeira. Quer ir mais fundo? Veja o guia completo para entender melhor como você pode viver sempre com dinheiro."
+  },
+  "texto_telegram_html": "<b>Organize Sua Economia</b>\n\n<i>Se você está aqui, provavelmente já sentiu o peso de não ter controle sobre suas finanças. Eu sei como é, já estive lá. Mas o primeiro passo para mudar isso é começar a organizar sua economia, e é exatamente isso que vamos fazer agora.</i>\n\n<b>1. Reuni Todos Comprovantes</b>\n<code>Pegue todos os comprovantes de gastos dos últimos 30 dias, incluindo contas de cartão de crédito, extratos bancários e notas fiscais. Isso vai te dar uma visão clara de onde seu dinheiro está indo.</code>\n\n<b>2. Categorize Gastos</b>\n<code>Separe seus gastos em categorias como alimentação, transporte, moradia, entretenimento, etc. Isso ajudará a entender melhor onde você pode cortar gastos desnecessários.</code>\n\n<b>3. Defina Metas Financeiras</b>\n<code>Pense no que você quer alcançar com seu dinheiro, seja pagar uma dívida, fazer uma reserva de emergência ou planejar um investimento. Ter metas claras te dará direção.</code>\n\n<b>4. Crie um Plano de Ação</b>\n<code>Com base nas suas metas e no que você descobriu sobre seus gastos, crie um plano simples de como você vai alcançar essas metas. Comece com pequenos passos que você possa dar já esta semana.</code>\n\n<i>Agora que você tem esses primeiros passos, é hora de aprofundar seus conhecimentos e criar um plano personalizado para sua situação financeira. Quer ir mais fundo? Veja o guia completo para entender melhor como você pode viver sempre com dinheiro.</i>",
+  "parse_mode": "HTML",
+  "dor_principal_ancorada": "Curso: Viva Sempre Com Dinheiro - Nádia Pace",
+  "fonte_geracao": "gemini_ia",
+  "gerado_em": "2026-08-07T00:11:56"
+}
