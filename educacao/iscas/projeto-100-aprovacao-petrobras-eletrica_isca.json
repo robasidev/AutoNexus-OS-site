@@ -1,0 +1,33 @@
+{
+  "produto_id": "projeto-100-aprovacao-petrobras-eletrica",
+  "hub_slug": "educacao",
+  "titulo": "Checklist: Organiza e Zero1",
+  "conteudo": {
+    "titulo": "Checklist: Organiza e Zero1",
+    "intro": "Já vi muitas pessoas perdidas nas comparações entre Organiza e Zero1 para o exame da Petrobras, e sei que isso pode ser estressante. Você precisa de uma preparação completa para se sentir seguro.",
+    "passos": [
+      {
+        "titulo": "Verifique Seu Conhecimento",
+        "detalhe": "Faça uma autoavaliação honesta do seu conhecimento em engenharia elétrica e eletrônica, focando nas áreas mais críticas para o exame. Isso ajudará a identificar onde você precisa se concentrar."
+      },
+      {
+        "titulo": "Priorize Tópicos Chave",
+        "detalhe": "Identifique os tópicos mais relevantes para o exame da Petrobras, como sistemas de distribuição de energia e controle de processos. Priorize esses tópicos em sua rotina de estudos."
+      },
+      {
+        "titulo": "Elabore um Plano de Estudos",
+        "detalhe": "Crie um plano de estudos personalizado com metas claras e prazos realistas. Isso ajudará a manter você no caminho certo e a garantir que você cubra todo o material necessário."
+      },
+      {
+        "titulo": "Pratique com Questões Realistas",
+        "detalhe": "Procure por questões de exame anteriores ou simulados para praticar e testar seu conhecimento. Isso ajudará a simular a experiência real do exame e a identificar áreas onde você precisa melhorar."
+      }
+    ],
+    "fechamento": "Se você está pronto para ir mais fundo e garantir sua preparação para o exame da Petrobras, veja o guia completo no Projeto 100% Aprovação para obter todas as ferramentas e orientações necessárias para o sucesso."
+  },
+  "texto_telegram_html": "<b>Checklist: Organiza e Zero1</b>\n\n<i>Já vi muitas pessoas perdidas nas comparações entre Organiza e Zero1 para o exame da Petrobras, e sei que isso pode ser estressante. Você precisa de uma preparação completa para se sentir seguro.</i>\n\n<b>1. Verifique Seu Conhecimento</b>\n<code>Faça uma autoavaliação honesta do seu conhecimento em engenharia elétrica e eletrônica, focando nas áreas mais críticas para o exame. Isso ajudará a identificar onde você precisa se concentrar.</code>\n\n<b>2. Priorize Tópicos Chave</b>\n<code>Identifique os tópicos mais relevantes para o exame da Petrobras, como sistemas de distribuição de energia e controle de processos. Priorize esses tópicos em sua rotina de estudos.</code>\n\n<b>3. Elabore um Plano de Estudos</b>\n<code>Crie um plano de estudos personalizado com metas claras e prazos realistas. Isso ajudará a manter você no caminho certo e a garantir que você cubra todo o material necessário.</code>\n\n<b>4. Pratique com Questões Realistas</b>\n<code>Procure por questões de exame anteriores ou simulados para praticar e testar seu conhecimento. Isso ajudará a simular a experiência real do exame e a identificar áreas onde você precisa melhorar.</code>\n\n<i>Se você está pronto para ir mais fundo e garantir sua preparação para o exame da Petrobras, veja o guia completo no Projeto 100% Aprovação para obter todas as ferramentas e orientações necessárias para o sucesso.</i>",
+  "parse_mode": "HTML",
+  "dor_principal_ancorada": "Comparação Organiza e Zero1 - Petrobras",
+  "fonte_geracao": "gemini_ia",
+  "gerado_em": "2026-08-08T08:35:52"
+}
