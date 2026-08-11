@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://cupomaplicado.site/sitemap.xml
+Sitemap: https://robasidev.github.io/AutoNexus-OS-site/sitemap.xml
