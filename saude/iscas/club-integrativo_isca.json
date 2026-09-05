@@ -1,0 +1,33 @@
+{
+  "produto_id": "club-integrativo",
+  "hub_slug": "saude",
+  "titulo": "Checklist Rápido: Integração de Mods nas Armaduras",
+  "conteudo": {
+    "titulo": "Checklist Rápido: Integração de Mods nas Armaduras",
+    "intro": "Eu já vi quem tenta fazer isso perder horas sem saber por onde começar. Abaixo estão os passos que já me pouparam tempo e dores.",
+    "passos": [
+      {
+        "titulo": "Identifique Dependências",
+        "detalhe": "Liste todas as bibliotecas que a armadura usa antes de adicionar qualquer mod."
+      },
+      {
+        "titulo": "Teste em Ambiente Isolado",
+        "detalhe": "Crie um clone da armadura em sandbox e rode o mod até que ele esteja estável."
+      },
+      {
+        "titulo": "Atualize a Documentação de Uso",
+        "detalhe": "Inclua instruções de instalação e parâmetros no README antes de publicar."
+      },
+      {
+        "titulo": "Monitore a Performance",
+        "detalhe": "Use métricas de CPU e memória nos primeiros 24h para garantir que o mod não degrade a armadura."
+      }
+    ],
+    "fechamento": "Quer explorar mais nuances dessa integração? Confira o guia completo do Club Integrativo."
+  },
+  "texto_telegram_html": "<b>Checklist Rápido: Integração de Mods nas Armaduras</b>\n\n<i>Eu já vi quem tenta fazer isso perder horas sem saber por onde começar. Abaixo estão os passos que já me pouparam tempo e dores.</i>\n\n<b>1. Identifique Dependências</b>\n<code>Liste todas as bibliotecas que a armadura usa antes de adicionar qualquer mod.</code>\n\n<b>2. Teste em Ambiente Isolado</b>\n<code>Crie um clone da armadura em sandbox e rode o mod até que ele esteja estável.</code>\n\n<b>3. Atualize a Documentação de Uso</b>\n<code>Inclua instruções de instalação e parâmetros no README antes de publicar.</code>\n\n<b>4. Monitore a Performance</b>\n<code>Use métricas de CPU e memória nos primeiros 24h para garantir que o mod não degrade a armadura.</code>\n\n<i>Quer explorar mais nuances dessa integração? Confira o guia completo do Club Integrativo.</i>",
+  "parse_mode": "HTML",
+  "dor_principal_ancorada": "Mods melhorados de integração das armaduras do ...",
+  "fonte_geracao": "gemini_ia",
+  "gerado_em": "2026-09-05T16:11:31"
+}
