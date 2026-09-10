@@ -22,95 +22,200 @@
       theme: { extend: { colors: { brandbg: "#f8fafc", brandtext: "#0f172a", brandmuted: "#475569" } } },
     };
   </script>
-</head>
-<body class="bg-brandbg text-brandtext font-sans antialiased">
 
-  <header class="border-b border-black/5 bg-white/90 backdrop-blur sticky top-0 z-40">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,600;8..60,700;8..60,800&family=Source+Sans+3:wght@400;500;600;700&display=swap">
+  <style>
+    :root {
+      --bg: #f5f6f3; --surface: #ffffff; --border: #dfe3dd;
+      --ink: #14181a; --ink-muted: #58625c; --ink-faint: #838d86;
+      --accent: #0c6b4f; --accent-ink: #063f2f; --accent-soft: #e1f0e9;
+    }
+    body { font-family: "Source Sans 3", system-ui, -apple-system, sans-serif; }
+    h1, h2, .font-display { font-family: "Source Serif 4", Georgia, serif; }
+    .site-header { border-bottom: 1px solid var(--border); background: rgba(245,246,243,0.92); }
+    .badge-verificado {
+      display: inline-flex; align-items: center; gap: 6px; font-size: 12px; font-weight: 600;
+      color: var(--accent-ink); background: var(--accent-soft); padding: 6px 12px; border-radius: 999px;
+    }
+    .stat-line { color: var(--ink-muted); font-size: 13.5px; font-variant-numeric: tabular-nums; }
+    .stat-line strong { color: var(--ink); font-weight: 700; }
+    .hero-grid { display: grid; grid-template-columns: 1fr; gap: 36px; align-items: center; }
+    @media (min-width: 900px) { .hero-grid { grid-template-columns: 1.05fr 0.95fr; } }
+    .hero-cards { position: relative; height: 300px; max-width: 380px; margin: 0 auto; }
+    @media (min-width: 900px) { .hero-cards { margin: 0; } }
+    .hc {
+      position: absolute; width: 240px; background: var(--surface); border: 1px solid var(--border);
+      border-radius: 14px; padding: 16px 18px; box-shadow: 0 10px 30px -12px rgba(20,24,26,0.18);
+    }
+    .hc-bar { height: 5px; width: 34px; border-radius: 99px; background: var(--c, var(--accent)); margin-bottom: 12px; }
+    .hc-stars { color: var(--c, var(--accent)); font-size: 13px; letter-spacing: 1px; margin-bottom: 10px; }
+    .hc-lines span { display: block; height: 7px; border-radius: 4px; background: var(--border); margin-bottom: 6px; }
+    .hc-lines span:nth-child(1) { width: 92%; } .hc-lines span:nth-child(2) { width: 76%; } .hc-lines span:nth-child(3) { width: 55%; }
+    .hc-check {
+      position: absolute; top: -10px; right: -10px; width: 28px; height: 28px; border-radius: 99px;
+      background: var(--c, var(--accent)); color: #fff; display: flex; align-items: center; justify-content: center;
+      font-size: 14px; box-shadow: 0 4px 10px -3px rgba(20,24,26,0.35);
+    }
+    .hc-1 { left: 6%; top: 4px; transform: rotate(-7deg); z-index: 1; }
+    .hc-2 { left: 30%; top: 78px; transform: rotate(4deg); z-index: 2; }
+    .hc-3 { left: 15%; top: 162px; transform: rotate(-3deg); z-index: 3; }
+    .niche-card { border: 1px solid var(--border); border-top: 3px solid var(--c, var(--accent)); background: var(--surface); }
+    .niche-dot { width: 9px; height: 9px; border-radius: 99px; background: var(--c, var(--accent)); flex: none; }
+    .recent-card { border: 1px solid var(--border); border-left: 3px solid var(--c, var(--accent)); background: var(--surface); }
+  </style>
+
+</head>
+<body class="antialiased" style="background:var(--bg);color:var(--ink)">
+
+  <header class="site-header sticky top-0 z-40 backdrop-blur">
     <div class="max-w-5xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between">
-      <span class="font-extrabold text-lg">Guias Verificados</span>
-      <span class="inline-flex items-center gap-1.5 text-[11px] sm:text-xs font-semibold text-brandmuted bg-black/5 px-2.5 sm:px-3 py-1.5 rounded-full">
-        <svg class="w-3.5 h-3.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+      <span class="font-display font-bold text-lg">Guias Verificados</span>
+      <span class="badge-verificado">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
         <span class="whitespace-nowrap">Conteúdo revisado por especialistas</span>
       </span>
     </div>
   </header>
 
   <main class="max-w-5xl mx-auto px-4 sm:px-6">
-    <section class="py-14 sm:py-20 text-center">
-      <h1 class="text-3xl sm:text-5xl font-extrabold leading-tight mb-5">Comparativos e guias honestos, por nicho</h1>
-      <p class="text-brandmuted text-base sm:text-lg max-w-2xl mx-auto">
-        Cada área abaixo é cuidada por um especialista dedicado ao assunto — análises reais,
-        prós e contras sem filtro, pra você decidir com informação de verdade.
-      </p>
+    <section class="pt-14 pb-16 sm:pt-20 sm:pb-24">
+      <div class="hero-grid">
+        <div>
+          <h1 class="font-display text-4xl sm:text-5xl font-bold leading-tight mb-5" style="text-wrap:balance">Comparativos e guias honestos, por nicho</h1>
+          <p class="text-base sm:text-lg mb-5" style="color:var(--ink-muted);max-width:52ch">
+            Cada área abaixo é cuidada por um especialista dedicado ao assunto — análises reais,
+            prós e contras sem filtro, pra você decidir com informação de verdade.
+          </p>
+          <p class="stat-line"><strong>6</strong> nicho(s) cobertos · <strong>8</strong> guia(s) publicado(s)</p>
+        </div>
+        <div class="hero-cards" aria-hidden="true">
+          <div class="hc hc-1" style="--c:#0f766e">
+            <div class="hc-check">&#10003;</div>
+            <div class="hc-bar"></div>
+            <div class="hc-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+            <div class="hc-lines"><span></span><span></span><span></span></div>
+          </div>
+          <div class="hc hc-2" style="--c:#4338ca">
+            <div class="hc-check">&#10003;</div>
+            <div class="hc-bar"></div>
+            <div class="hc-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+            <div class="hc-lines"><span></span><span></span><span></span></div>
+          </div>
+          <div class="hc hc-3" style="--c:#5b21b6">
+            <div class="hc-check">&#10003;</div>
+            <div class="hc-bar"></div>
+            <div class="hc-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+            <div class="hc-lines"><span></span><span></span><span></span></div>
+          </div>
+        </div>
+      </div>
     </section>
 
     <section class="pb-12 sm:pb-16">
-      <h2 class="text-sm font-bold uppercase tracking-wide text-brandmuted mb-5">Últimos guias publicados</h2>
+      <h2 class="text-sm font-bold uppercase tracking-wide text-[color:var(--ink-muted)] mb-5">Últimos guias publicados</h2>
       <div class="grid sm:grid-cols-2 gap-4 max-w-3xl mx-auto">
-        <a href="https://guiasverificados.com/saude/club-integrativo-vale-a-pena-review-honesta.html" class="group block rounded-xl border border-black/10 bg-white p-5 hover:shadow-lg transition">
-          <span class="text-xs font-semibold uppercase tracking-wide text-brandmuted">Bem Viver</span>
-          <h3 class="font-bold text-base mt-1 group-hover:underline">Club Integrativo vale a pena? Review honesta</h3>
+        <a href="https://guiasverificados.com/saude/club-integrativo-vale-a-pena-review-honesta.html" class="recent-card group block rounded-xl p-5 hover:shadow-lg transition" style="--c:#059669">
+          <span class="text-xs font-semibold uppercase tracking-wide text-[color:var(--ink-muted)]">Bem Viver</span>
+          <h3 class="font-display font-bold text-base mt-1 group-hover:underline">Club Integrativo vale a pena? Review honesta</h3>
         </a>
-        <a href="https://guiasverificados.com/educacao/projeto-100-aprovacao-petrobras-eng-eletrica-vale-a-pena.html" class="group block rounded-xl border border-black/10 bg-white p-5 hover:shadow-lg transition">
-          <span class="text-xs font-semibold uppercase tracking-wide text-brandmuted">Estuda Certo</span>
-          <h3 class="font-bold text-base mt-1 group-hover:underline">Projeto 100% Aprovação - PETROBRAS - Eng. Elétrica vale a pena?</h3>
+        <a href="https://guiasverificados.com/educacao/projeto-100-aprovacao-petrobras-eng-eletrica-vale-a-pena.html" class="recent-card group block rounded-xl p-5 hover:shadow-lg transition" style="--c:#4338ca">
+          <span class="text-xs font-semibold uppercase tracking-wide text-[color:var(--ink-muted)]">Estuda Certo</span>
+          <h3 class="font-display font-bold text-base mt-1 group-hover:underline">Projeto 100% Aprovação - PETROBRAS - Eng. Elétrica vale a pena?</h3>
         </a>
-        <a href="https://guiasverificados.com/automacao/leadlovers-mais-vendas-menos-esforco-vale-a-pena.html" class="group block rounded-xl border border-black/10 bg-white p-5 hover:shadow-lg transition">
-          <span class="text-xs font-semibold uppercase tracking-wide text-brandmuted">Vendas no Automático</span>
-          <h3 class="font-bold text-base mt-1 group-hover:underline">Leadlovers | Mais Vendas Menos Esforço vale a pena?</h3>
+        <a href="https://guiasverificados.com/automacao/leadlovers-mais-vendas-menos-esforco-vale-a-pena.html" class="recent-card group block rounded-xl p-5 hover:shadow-lg transition" style="--c:#0f766e">
+          <span class="text-xs font-semibold uppercase tracking-wide text-[color:var(--ink-muted)]">Vendas no Automático</span>
+          <h3 class="font-display font-bold text-base mt-1 group-hover:underline">Leadlovers | Mais Vendas Menos Esforço vale a pena?</h3>
         </a>
-        <a href="https://guiasverificados.com/financas/viva-sempre-com-dinheiro-vale-a-pena-analise-sincera.html" class="group block rounded-xl border border-black/10 bg-white p-5 hover:shadow-lg transition">
-          <span class="text-xs font-semibold uppercase tracking-wide text-brandmuted">Bolso Consciente</span>
-          <h3 class="font-bold text-base mt-1 group-hover:underline">Viva Sempre com Dinheiro Vale a Pena? Análise Sincera</h3>
+        <a href="https://guiasverificados.com/financas/viva-sempre-com-dinheiro-vale-a-pena-analise-sincera.html" class="recent-card group block rounded-xl p-5 hover:shadow-lg transition" style="--c:#0369a1">
+          <span class="text-xs font-semibold uppercase tracking-wide text-[color:var(--ink-muted)]">Bolso Consciente</span>
+          <h3 class="font-display font-bold text-base mt-1 group-hover:underline">Viva Sempre com Dinheiro Vale a Pena? Análise Sincera</h3>
         </a>
-        <a href="https://guiasverificados.com/empreendedorismo/novo-empreenda-vale-a-pena-analise-sincera-do-curso.html" class="group block rounded-xl border border-black/10 bg-white p-5 hover:shadow-lg transition">
-          <span class="text-xs font-semibold uppercase tracking-wide text-brandmuted">Empreende Certo</span>
-          <h3 class="font-bold text-base mt-1 group-hover:underline">Novo Empreenda Vale a Pena? Análise Sincera do Curso</h3>
+        <a href="https://guiasverificados.com/empreendedorismo/novo-empreenda-vale-a-pena-analise-sincera-do-curso.html" class="recent-card group block rounded-xl p-5 hover:shadow-lg transition" style="--c:#5b21b6">
+          <span class="text-xs font-semibold uppercase tracking-wide text-[color:var(--ink-muted)]">Empreende Certo</span>
+          <h3 class="font-display font-bold text-base mt-1 group-hover:underline">Novo Empreenda Vale a Pena? Análise Sincera do Curso</h3>
         </a>
-        <a href="https://guiasverificados.com/musica/guitarra-rock-academy-vale-a-pena-analise-de-professora.html" class="group block rounded-xl border border-black/10 bg-white p-5 hover:shadow-lg transition">
-          <span class="text-xs font-semibold uppercase tracking-wide text-brandmuted">Portal Afinado</span>
-          <h3 class="font-bold text-base mt-1 group-hover:underline">Guitarra Rock Academy Vale a Pena? Análise de Professora</h3>
+        <a href="https://guiasverificados.com/musica/guitarra-rock-academy-vale-a-pena-analise-de-professora.html" class="recent-card group block rounded-xl p-5 hover:shadow-lg transition" style="--c:#7c3aed">
+          <span class="text-xs font-semibold uppercase tracking-wide text-[color:var(--ink-muted)]">Portal Afinado</span>
+          <h3 class="font-display font-bold text-base mt-1 group-hover:underline">Guitarra Rock Academy Vale a Pena? Análise de Professora</h3>
         </a></div>
     </section>
 
     <section class="pb-16 sm:pb-24">
-      <h2 class="text-sm font-bold uppercase tracking-wide text-brandmuted mb-5">Nichos</h2>
+      <h2 class="text-sm font-bold uppercase tracking-wide text-[color:var(--ink-muted)] mb-5">Nichos</h2>
       <div class="grid sm:grid-cols-2 gap-5 max-w-3xl mx-auto">
-        <a href="https://guiasverificados.com/automacao/index.html" class="group block rounded-2xl border border-black/10 bg-white p-6 hover:shadow-lg transition">
-          <h3 class="font-bold text-lg mb-1">Vendas no Automático</h3>
-          <p class="text-sm text-brandmuted mb-4">Acompanha de perto esse nicho há 9 anos, testando e recomendando o que realmente funciona.</p>
-          <span class="text-sm font-semibold" style="color:#0f766e">Ver guias &rarr;</span>
+        <a href="https://guiasverificados.com/automacao/index.html" class="niche-card group block rounded-2xl p-6 hover:shadow-lg transition" style="--c:#0f766e">
+          <div class="flex items-center gap-2 mb-2">
+            <span class="niche-dot"></span>
+            <h3 class="font-display font-bold text-lg">Vendas no Automático</h3>
+          </div>
+          <p class="text-sm text-[color:var(--ink-muted)] mb-4">Acompanha de perto esse nicho há 9 anos, testando e recomendando o que realmente funciona.</p>
+          <div class="flex items-center justify-between">
+            <span class="text-xs text-[color:var(--ink-faint)]">1 guia(s)</span>
+            <span class="text-sm font-semibold" style="color:#0f766e">Ver guias &rarr;</span>
+          </div>
         </a>
-        <a href="https://guiasverificados.com/educacao/index.html" class="group block rounded-2xl border border-black/10 bg-white p-6 hover:shadow-lg transition">
-          <h3 class="font-bold text-lg mb-1">Estuda Certo</h3>
-          <p class="text-sm text-brandmuted mb-4">Orienta estudantes em técnicas de estudo e preparação pra provas há 9 anos.</p>
-          <span class="text-sm font-semibold" style="color:#4338ca">Ver guias &rarr;</span>
+        <a href="https://guiasverificados.com/educacao/index.html" class="niche-card group block rounded-2xl p-6 hover:shadow-lg transition" style="--c:#4338ca">
+          <div class="flex items-center gap-2 mb-2">
+            <span class="niche-dot"></span>
+            <h3 class="font-display font-bold text-lg">Estuda Certo</h3>
+          </div>
+          <p class="text-sm text-[color:var(--ink-muted)] mb-4">Orienta estudantes em técnicas de estudo e preparação pra provas há 9 anos.</p>
+          <div class="flex items-center justify-between">
+            <span class="text-xs text-[color:var(--ink-faint)]">1 guia(s)</span>
+            <span class="text-sm font-semibold" style="color:#4338ca">Ver guias &rarr;</span>
+          </div>
         </a>
-        <a href="https://guiasverificados.com/empreendedorismo/index.html" class="group block rounded-2xl border border-black/10 bg-white p-6 hover:shadow-lg transition">
-          <h3 class="font-bold text-lg mb-1">Empreende Certo</h3>
-          <p class="text-sm text-brandmuted mb-4">Acompanha de perto esse nicho há 10 anos, testando e recomendando o que realmente funciona.</p>
-          <span class="text-sm font-semibold" style="color:#5b21b6">Ver guias &rarr;</span>
+        <a href="https://guiasverificados.com/empreendedorismo/index.html" class="niche-card group block rounded-2xl p-6 hover:shadow-lg transition" style="--c:#5b21b6">
+          <div class="flex items-center gap-2 mb-2">
+            <span class="niche-dot"></span>
+            <h3 class="font-display font-bold text-lg">Empreende Certo</h3>
+          </div>
+          <p class="text-sm text-[color:var(--ink-muted)] mb-4">Acompanha de perto esse nicho há 10 anos, testando e recomendando o que realmente funciona.</p>
+          <div class="flex items-center justify-between">
+            <span class="text-xs text-[color:var(--ink-faint)]">1 guia(s)</span>
+            <span class="text-sm font-semibold" style="color:#5b21b6">Ver guias &rarr;</span>
+          </div>
         </a>
-        <a href="https://guiasverificados.com/financas/index.html" class="group block rounded-2xl border border-black/10 bg-white p-6 hover:shadow-lg transition">
-          <h3 class="font-bold text-lg mb-1">Bolso Consciente</h3>
-          <p class="text-sm text-brandmuted mb-4">Ajuda pessoas comuns a organizar as finanças e investir com consciência há 12 anos.</p>
-          <span class="text-sm font-semibold" style="color:#0369a1">Ver guias &rarr;</span>
+        <a href="https://guiasverificados.com/financas/index.html" class="niche-card group block rounded-2xl p-6 hover:shadow-lg transition" style="--c:#0369a1">
+          <div class="flex items-center gap-2 mb-2">
+            <span class="niche-dot"></span>
+            <h3 class="font-display font-bold text-lg">Bolso Consciente</h3>
+          </div>
+          <p class="text-sm text-[color:var(--ink-muted)] mb-4">Ajuda pessoas comuns a organizar as finanças e investir com consciência há 12 anos.</p>
+          <div class="flex items-center justify-between">
+            <span class="text-xs text-[color:var(--ink-faint)]">1 guia(s)</span>
+            <span class="text-sm font-semibold" style="color:#0369a1">Ver guias &rarr;</span>
+          </div>
         </a>
-        <a href="https://guiasverificados.com/musica/index.html" class="group block rounded-2xl border border-black/10 bg-white p-6 hover:shadow-lg transition">
-          <h3 class="font-bold text-lg mb-1">Portal Afinado</h3>
-          <p class="text-sm text-brandmuted mb-4">Ensina música há mais de 13 anos e já ajudou centenas de alunos a sair do zero até tocar as primeiras músicas.</p>
-          <span class="text-sm font-semibold" style="color:#7c3aed">Ver guias &rarr;</span>
+        <a href="https://guiasverificados.com/musica/index.html" class="niche-card group block rounded-2xl p-6 hover:shadow-lg transition" style="--c:#7c3aed">
+          <div class="flex items-center gap-2 mb-2">
+            <span class="niche-dot"></span>
+            <h3 class="font-display font-bold text-lg">Portal Afinado</h3>
+          </div>
+          <p class="text-sm text-[color:var(--ink-muted)] mb-4">Ensina música há mais de 13 anos e já ajudou centenas de alunos a sair do zero até tocar as primeiras músicas.</p>
+          <div class="flex items-center justify-between">
+            <span class="text-xs text-[color:var(--ink-faint)]">3 guia(s)</span>
+            <span class="text-sm font-semibold" style="color:#7c3aed">Ver guias &rarr;</span>
+          </div>
         </a>
-        <a href="https://guiasverificados.com/saude/index.html" class="group block rounded-2xl border border-black/10 bg-white p-6 hover:shadow-lg transition">
-          <h3 class="font-bold text-lg mb-1">Bem Viver</h3>
-          <p class="text-sm text-brandmuted mb-4">Atua com orientação de saúde preventiva e bem-estar há 15 anos.</p>
-          <span class="text-sm font-semibold" style="color:#059669">Ver guias &rarr;</span>
+        <a href="https://guiasverificados.com/saude/index.html" class="niche-card group block rounded-2xl p-6 hover:shadow-lg transition" style="--c:#059669">
+          <div class="flex items-center gap-2 mb-2">
+            <span class="niche-dot"></span>
+            <h3 class="font-display font-bold text-lg">Bem Viver</h3>
+          </div>
+          <p class="text-sm text-[color:var(--ink-muted)] mb-4">Atua com orientação de saúde preventiva e bem-estar há 15 anos.</p>
+          <div class="flex items-center justify-between">
+            <span class="text-xs text-[color:var(--ink-faint)]">1 guia(s)</span>
+            <span class="text-sm font-semibold" style="color:#059669">Ver guias &rarr;</span>
+          </div>
         </a></div>
     </section>
   </main>
 
-  <footer class="border-t border-black/10 bg-white">
-    <div class="max-w-5xl mx-auto px-4 sm:px-6 py-8 text-sm text-brandmuted">
+  <footer style="border-top:1px solid var(--border);background:var(--surface)">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 py-8 text-sm" style="color:var(--ink-muted)">
       <p class="mb-3">&copy; 2026 Guias Verificados. Alguns links neste site são de afiliado — podemos receber uma comissão por compras feitas através deles, sem custo adicional para você.</p>
       <div class="flex flex-wrap gap-x-4 gap-y-1 text-xs">
         <a href="/termos.html" class="hover:underline">Termos de Uso</a>
