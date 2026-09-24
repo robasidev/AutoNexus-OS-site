@@ -1,0 +1,37 @@
+{
+  "produto_id": "metodo-destrava-dedo-adeildo-lopes",
+  "hub_slug": "musica",
+  "titulo": "Check de 5 passos para destravar o dedo agora",
+  "conteudo": {
+    "titulo": "Check de 5 passos para destravar o dedo agora",
+    "intro": "Sei exatamente como é sentir que a idade já passou e os dedos não colhendo. Eu mesma passei por isso e encontrei formas simples para mudar.",
+    "passos": [
+      {
+        "titulo": "Calcule seu ritmo",
+        "detalhe": "Escolha uma música lenta e toque o acorde cinco vezes, contando cada batida. Isso ajuda a alinhar mente e mãos."
+      },
+      {
+        "titulo": "Aqueça com escalas",
+        "detalhe": "Faça escalas de dó maior por 30 segundos, focando na fluidez dos dedos. Use um metrônomo leve para não se atrapalhar."
+      },
+      {
+        "titulo": "Divida o acorde",
+        "detalhe": "Tente tocar o acorde em partes: primeiro a posição de três dedos, depois o quarto, assim você evita sobrecarga."
+      },
+      {
+        "titulo": "Pratique com 1 dedo",
+        "detalhe": "Mantenha apenas um dedo pressionando a corda por alguns segundos, depois solte. Repita até sentir leveza."
+      },
+      {
+        "titulo": "Registre seu progresso",
+        "detalhe": "Anote a cada sessão o que ficou mais fácil ou difícil. Isso dá clareza do seu caminho e mantém a motivação."
+      }
+    ],
+    "fechamento": "Quer ir mais fundo? Veja o guia completo do Método Destrava Dedo."
+  },
+  "texto_telegram_html": "<b>Check de 5 passos para destravar o dedo agora</b>\n\n<i>Sei exatamente como é sentir que a idade já passou e os dedos não colhendo. Eu mesma passei por isso e encontrei formas simples para mudar.</i>\n\n<b>1. Calcule seu ritmo</b>\n<code>Escolha uma música lenta e toque o acorde cinco vezes, contando cada batida. Isso ajuda a alinhar mente e mãos.</code>\n\n<b>2. Aqueça com escalas</b>\n<code>Faça escalas de dó maior por 30 segundos, focando na fluidez dos dedos. Use um metrônomo leve para não se atrapalhar.</code>\n\n<b>3. Divida o acorde</b>\n<code>Tente tocar o acorde em partes: primeiro a posição de três dedos, depois o quarto, assim você evita sobrecarga.</code>\n\n<b>4. Pratique com 1 dedo</b>\n<code>Mantenha apenas um dedo pressionando a corda por alguns segundos, depois solte. Repita até sentir leveza.</code>\n\n<b>5. Registre seu progresso</b>\n<code>Anote a cada sessão o que ficou mais fácil ou difícil. Isso dá clareza do seu caminho e mantém a motivação.</code>\n\n<i>Quer ir mais fundo? Veja o guia completo do Método Destrava Dedo.</i>",
+  "parse_mode": "HTML",
+  "dor_principal_ancorada": "Crença de que passou da idade pra aprender violão, reforçada por dificuldade real e documentada de coordenação/mobilidade dos dedos após os 50 anos",
+  "fonte_geracao": "gemini_ia",
+  "gerado_em": "2026-09-24T14:31:04"
+}
