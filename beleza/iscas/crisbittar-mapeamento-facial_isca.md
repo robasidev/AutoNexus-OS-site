@@ -1,11 +1,11 @@
-# Checklist Rápido: Mapeie a Maquiagem Ideal
+# Checklist rápido: Descubra sua maquiagem ideal em 5 passos
 
-_Chega de gastar dinheiro com produtos que não combinam com seu rosto e tom de pele, deixando você desanimada._
+_Cansado de gastar dinheiro em bases que não combinam com seu tom e nunca usar? Eu já passei por isso e criei um pequeno roteiro para encontrar a fórmula certa sem erro._
 
-1. **Avalie seu tom de pele** — Observe a cor dos vasos sanguíneos na parte interna do braço: se verde, quente; se azul, frio. Use isso para escolher bases neutros ou frios.
-2. **Identifique sua textura** — Toque a pele ao redor do nariz e testa. Se áspera, busque produtos com ácido glicólico; se oleosa, prefira formulações matte.
-3. **Determine proporção facial** — Meça a distância entre o centro dos olhos, a ponta do nariz e o centro da bochecha. Isso ajuda a escolher o formato de contorno que realça sua estrutura.
-4. **Teste no reflexo** — Aplique um pouco de base na lateral do rosto e veja como ela se mistura com seu tom natural. Ajuste se ficar muito clara ou escura.
-5. **Registre suas escolhas** — Anote os nomes dos produtos e a combinação de cores que funcionou. Isso evita repetir erros futuros.
+1. **Identifique seu subtom de pele** — Observe seu rosto ao sol e veja se o tom é quente (amarelo), frio (azul) ou neutro. Anote se as veias do pescoço ficam mais verdes ou azuis.
+2. **Teste a cor no canto interno do olho** — Aplique pequenas gotas de base em um pequeno ponto na margem interna do olho, onde a pele fica mais clara. Se a base não desaparecer com a sombra, está fora de tonalidade.
+3. **Meça a cobertura com o dedo** — Pressione o dedo na base e veja a sombra que fica no papel. Se ficar escura, a cobertura é alta; se quase nenhuma, a cobertura é leve.
+4. **Faça o teste de 24h** — Aplique a base e deixe por 24 horas. Se ela se encaixar bem depois de ficar com o dia inteiro, é a escolha certa. Se ficar rala ou escurecer, volte à busca.
+5. **Reveja sua lista de compras** — Anote os nomes dos produtos que passaram nos testes e evite repetições. Tenha um mini catálogo de base que você sabe que funciona.
 
-_Pronto, você já tem os primeiros passos práticos. Quer ir mais fundo? Confira o guia completo._
+_Se quiser ir mais fundo e aprender a combinar cores, iluminação e produtos, confira o guia completo._

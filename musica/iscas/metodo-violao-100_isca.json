@@ -1,33 +1,45 @@
 {
   "produto_id": "metodo-violao-100",
   "hub_slug": "musica",
-  "titulo": "Checklist prático: primeiros passos com aprender violão do zero",
+  "titulo": "Checklist Rápido: Domine a Acordes do Método 100",
   "conteudo": {
-    "titulo": "Checklist prático: primeiros passos com aprender violão do zero",
-    "intro": "Sabemos que começar em aprender violão do zero pode travar — esse checklist é o empurrão prático pra sair do zero hoje.",
+    "titulo": "Checklist Rápido: Domine a Acordes do Método 100",
+    "intro": "Sabe aquela sensação de ficar preso no meio do curso? Já vi muitos alunos no mesmo ponto e consegui simplificar tudo.",
     "passos": [
       {
-        "titulo": "Defina seu ponto de partida",
-        "detalhe": "Anote em uma frase onde você está hoje com aprender violão do zero — isso evita perder tempo com conteúdo que não serve pro seu nível."
+        "titulo": "Organize seu espaço",
+        "detalhe": "Separe o violão, a mesa, e um bloco de notas. Tente manter tudo à mão, sem distrações."
       },
       {
-        "titulo": "Separe 15 minutos por dia",
-        "detalhe": "Constância curta e diária bate sessão longa esporádica — bloqueia esse horário na agenda antes de qualquer coisa."
+        "titulo": "Alinhe as mãos",
+        "detalhe": "Coloque a mão esquerda nos trastes, a mão direita no braço. Faça um teste rápido de escala para sentir o posicionamento."
       },
       {
-        "titulo": "Escolha 1 fonte confiável",
-        "detalhe": "Evite pular entre vários materiais diferentes ao mesmo tempo — isso é o que mais trava iniciante."
+        "titulo": "Pratique acordes básicos",
+        "detalhe": "Escolha três acordes do módulo inicial e dedique 10 minutos apenas a eles, repetindo cada um cinco vezes."
       },
       {
-        "titulo": "Registre o progresso",
-        "detalhe": "Um caderno ou nota no celular já resolve — o objetivo é conseguir olhar pra trás e ver que avançou."
+        "titulo": "Use o metrônomo",
+        "detalhe": "Configure o ritmo em 80 BPM e toque cada acorde com o tempo, mantendo o pulso firme."
+      },
+      {
+        "titulo": "Grave e escute",
+        "detalhe": "Grave 30 segundos de sua prática e depois escute. Identifique os pontos que precisam de ajuste."
+      },
+      {
+        "titulo": "Repita sem falha",
+        "detalhe": "Refaça o exercício até que cada acorde soe limpo. Concentre-se na transição entre eles."
+      },
+      {
+        "titulo": "Aplique no contexto",
+        "detalhe": "Coloque os acordes em uma sequência simples da aula e toque sem olhar as tablaturas."
       }
     ],
-    "fechamento": "Quer ir mais fundo? O guia completo cobre cada um desses pontos com mais profundidade."
+    "fechamento": "Se quiser mergulhar mais fundo no Método 100, veja o guia completo no link abaixo."
   },
-  "texto_telegram_html": "<b>Checklist prático: primeiros passos com aprender violão do zero</b>\n\n<i>Sabemos que começar em aprender violão do zero pode travar — esse checklist é o empurrão prático pra sair do zero hoje.</i>\n\n<b>1. Defina seu ponto de partida</b>\n<code>Anote em uma frase onde você está hoje com aprender violão do zero — isso evita perder tempo com conteúdo que não serve pro seu nível.</code>\n\n<b>2. Separe 15 minutos por dia</b>\n<code>Constância curta e diária bate sessão longa esporádica — bloqueia esse horário na agenda antes de qualquer coisa.</code>\n\n<b>3. Escolha 1 fonte confiável</b>\n<code>Evite pular entre vários materiais diferentes ao mesmo tempo — isso é o que mais trava iniciante.</code>\n\n<b>4. Registre o progresso</b>\n<code>Um caderno ou nota no celular já resolve — o objetivo é conseguir olhar pra trás e ver que avançou.</code>\n\n<i>Quer ir mais fundo? O guia completo cobre cada um desses pontos com mais profundidade.</i>",
+  "texto_telegram_html": "<b>Checklist Rápido: Domine a Acordes do Método 100</b>\n\n<i>Sabe aquela sensação de ficar preso no meio do curso? Já vi muitos alunos no mesmo ponto e consegui simplificar tudo.</i>\n\n<b>1. Organize seu espaço</b>\n<code>Separe o violão, a mesa, e um bloco de notas. Tente manter tudo à mão, sem distrações.</code>\n\n<b>2. Alinhe as mãos</b>\n<code>Coloque a mão esquerda nos trastes, a mão direita no braço. Faça um teste rápido de escala para sentir o posicionamento.</code>\n\n<b>3. Pratique acordes básicos</b>\n<code>Escolha três acordes do módulo inicial e dedique 10 minutos apenas a eles, repetindo cada um cinco vezes.</code>\n\n<b>4. Use o metrônomo</b>\n<code>Configure o ritmo em 80 BPM e toque cada acorde com o tempo, mantendo o pulso firme.</code>\n\n<b>5. Grave e escute</b>\n<code>Grave 30 segundos de sua prática e depois escute. Identifique os pontos que precisam de ajuste.</code>\n\n<b>6. Repita sem falha</b>\n<code>Refaça o exercício até que cada acorde soe limpo. Concentre-se na transição entre eles.</code>\n\n<b>7. Aplique no contexto</b>\n<code>Coloque os acordes em uma sequência simples da aula e toque sem olhar as tablaturas.</code>\n\n<i>Se quiser mergulhar mais fundo no Método 100, veja o guia completo no link abaixo.</i>",
   "parse_mode": "HTML",
   "dor_principal_ancorada": "Curso Online de violão do Arthur Endo método 100",
-  "fonte_geracao": "fallback_template_api_falhou",
-  "gerado_em": "2026-08-04T02:32:06"
+  "fonte_geracao": "gemini_ia",
+  "gerado_em": "2026-09-24T18:40:50"
 }

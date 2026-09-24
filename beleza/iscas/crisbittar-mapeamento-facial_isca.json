@@ -1,37 +1,37 @@
 {
   "produto_id": "crisbittar-mapeamento-facial",
   "hub_slug": "beleza",
-  "titulo": "Checklist Rápido: Mapeie a Maquiagem Ideal",
+  "titulo": "Checklist rápido: Descubra sua maquiagem ideal em 5 passos",
   "conteudo": {
-    "titulo": "Checklist Rápido: Mapeie a Maquiagem Ideal",
-    "intro": "Chega de gastar dinheiro com produtos que não combinam com seu rosto e tom de pele, deixando você desanimada.",
+    "titulo": "Checklist rápido: Descubra sua maquiagem ideal em 5 passos",
+    "intro": "Cansado de gastar dinheiro em bases que não combinam com seu tom e nunca usar? Eu já passei por isso e criei um pequeno roteiro para encontrar a fórmula certa sem erro.",
     "passos": [
       {
-        "titulo": "Avalie seu tom de pele",
-        "detalhe": "Observe a cor dos vasos sanguíneos na parte interna do braço: se verde, quente; se azul, frio. Use isso para escolher bases neutros ou frios."
+        "titulo": "Identifique seu subtom de pele",
+        "detalhe": "Observe seu rosto ao sol e veja se o tom é quente (amarelo), frio (azul) ou neutro. Anote se as veias do pescoço ficam mais verdes ou azuis."
       },
       {
-        "titulo": "Identifique sua textura",
-        "detalhe": "Toque a pele ao redor do nariz e testa. Se áspera, busque produtos com ácido glicólico; se oleosa, prefira formulações matte."
+        "titulo": "Teste a cor no canto interno do olho",
+        "detalhe": "Aplique pequenas gotas de base em um pequeno ponto na margem interna do olho, onde a pele fica mais clara. Se a base não desaparecer com a sombra, está fora de tonalidade."
       },
       {
-        "titulo": "Determine proporção facial",
-        "detalhe": "Meça a distância entre o centro dos olhos, a ponta do nariz e o centro da bochecha. Isso ajuda a escolher o formato de contorno que realça sua estrutura."
+        "titulo": "Meça a cobertura com o dedo",
+        "detalhe": "Pressione o dedo na base e veja a sombra que fica no papel. Se ficar escura, a cobertura é alta; se quase nenhuma, a cobertura é leve."
       },
       {
-        "titulo": "Teste no reflexo",
-        "detalhe": "Aplique um pouco de base na lateral do rosto e veja como ela se mistura com seu tom natural. Ajuste se ficar muito clara ou escura."
+        "titulo": "Faça o teste de 24h",
+        "detalhe": "Aplique a base e deixe por 24 horas. Se ela se encaixar bem depois de ficar com o dia inteiro, é a escolha certa. Se ficar rala ou escurecer, volte à busca."
       },
       {
-        "titulo": "Registre suas escolhas",
-        "detalhe": "Anote os nomes dos produtos e a combinação de cores que funcionou. Isso evita repetir erros futuros."
+        "titulo": "Reveja sua lista de compras",
+        "detalhe": "Anote os nomes dos produtos que passaram nos testes e evite repetições. Tenha um mini catálogo de base que você sabe que funciona."
       }
     ],
-    "fechamento": "Pronto, você já tem os primeiros passos práticos. Quer ir mais fundo? Confira o guia completo."
+    "fechamento": "Se quiser ir mais fundo e aprender a combinar cores, iluminação e produtos, confira o guia completo."
   },
-  "texto_telegram_html": "<b>Checklist Rápido: Mapeie a Maquiagem Ideal</b>\n\n<i>Chega de gastar dinheiro com produtos que não combinam com seu rosto e tom de pele, deixando você desanimada.</i>\n\n<b>1. Avalie seu tom de pele</b>\n<code>Observe a cor dos vasos sanguíneos na parte interna do braço: se verde, quente; se azul, frio. Use isso para escolher bases neutros ou frios.</code>\n\n<b>2. Identifique sua textura</b>\n<code>Toque a pele ao redor do nariz e testa. Se áspera, busque produtos com ácido glicólico; se oleosa, prefira formulações matte.</code>\n\n<b>3. Determine proporção facial</b>\n<code>Meça a distância entre o centro dos olhos, a ponta do nariz e o centro da bochecha. Isso ajuda a escolher o formato de contorno que realça sua estrutura.</code>\n\n<b>4. Teste no reflexo</b>\n<code>Aplique um pouco de base na lateral do rosto e veja como ela se mistura com seu tom natural. Ajuste se ficar muito clara ou escura.</code>\n\n<b>5. Registre suas escolhas</b>\n<code>Anote os nomes dos produtos e a combinação de cores que funcionou. Isso evita repetir erros futuros.</code>\n\n<i>Pronto, você já tem os primeiros passos práticos. Quer ir mais fundo? Confira o guia completo.</i>",
+  "texto_telegram_html": "<b>Checklist rápido: Descubra sua maquiagem ideal em 5 passos</b>\n\n<i>Cansado de gastar dinheiro em bases que não combinam com seu tom e nunca usar? Eu já passei por isso e criei um pequeno roteiro para encontrar a fórmula certa sem erro.</i>\n\n<b>1. Identifique seu subtom de pele</b>\n<code>Observe seu rosto ao sol e veja se o tom é quente (amarelo), frio (azul) ou neutro. Anote se as veias do pescoço ficam mais verdes ou azuis.</code>\n\n<b>2. Teste a cor no canto interno do olho</b>\n<code>Aplique pequenas gotas de base em um pequeno ponto na margem interna do olho, onde a pele fica mais clara. Se a base não desaparecer com a sombra, está fora de tonalidade.</code>\n\n<b>3. Meça a cobertura com o dedo</b>\n<code>Pressione o dedo na base e veja a sombra que fica no papel. Se ficar escura, a cobertura é alta; se quase nenhuma, a cobertura é leve.</code>\n\n<b>4. Faça o teste de 24h</b>\n<code>Aplique a base e deixe por 24 horas. Se ela se encaixar bem depois de ficar com o dia inteiro, é a escolha certa. Se ficar rala ou escurecer, volte à busca.</code>\n\n<b>5. Reveja sua lista de compras</b>\n<code>Anote os nomes dos produtos que passaram nos testes e evite repetições. Tenha um mini catálogo de base que você sabe que funciona.</code>\n\n<i>Se quiser ir mais fundo e aprender a combinar cores, iluminação e produtos, confira o guia completo.</i>",
   "parse_mode": "HTML",
   "dor_principal_ancorada": "Gastar dinheiro comprando produto de maquiagem errado, que não serve pro seu rosto/tom de pele, e nunca mais usar",
   "fonte_geracao": "gemini_ia",
-  "gerado_em": "2026-09-24T15:27:02"
+  "gerado_em": "2026-09-24T18:42:47"
 }

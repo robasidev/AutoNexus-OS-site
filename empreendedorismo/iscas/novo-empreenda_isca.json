@@ -1,33 +1,37 @@
 {
   "produto_id": "novo-empreenda",
   "hub_slug": "empreendedorismo",
-  "titulo": "Checklist: Primeiros 7 Dias",
+  "titulo": "Checklist: 5 passos práticos para decidir empreender",
   "conteudo": {
-    "titulo": "Checklist: Primeiros 7 Dias",
-    "intro": "Eu sei que você já pensou em abrir o seu próprio negócio, mas tem medo de não ter certeza se vale a pena. Eu mesma já passei por isso e sei como é difícil dar o primeiro passo.",
+    "titulo": "Checklist: 5 passos práticos para decidir empreender",
+    "intro": "Chegou a hora de colocar a dúvida em prática. Cansado de ficar no vácuo, pulando de ideia em ideia sem saber se vale a pena abrir sua própria empresa?",
     "passos": [
       {
-        "titulo": "Defina Seu Propósito",
-        "detalhe": "Pegue um papel e escreva o que você realmente deseja alcançar com o seu negócio. Seja claro e direto, sem rodeios."
+        "titulo": "Reflita seu porquê",
+        "detalhe": "Escreva em 3 frases o que realmente te motiva a empreender e guarde as respostas para consultar sempre que a dúvida surgir."
       },
       {
-        "titulo": "Avalie Seu Mercado",
-        "detalhe": "Pense no seu público-alvo e no que ele realmente precisa. Faça uma pesquisa rápida online para entender melhor o mercado."
+        "titulo": "Teste a demanda online",
+        "detalhe": "Use Google Trends e fóruns como r/empreendedorismo para verificar se há interesse. Anote dois sinais claros de procura."
       },
       {
-        "titulo": "Desenvolva Um Plano",
-        "detalhe": "Esboce um plano simples de como você pretende começar e crescer. Não precisa ser perfeito, apenas um ponto de partida."
+        "titulo": "Construa um protótipo mínimo",
+        "detalhe": "Crie uma versão simples do produto ou serviço com ferramentas gratuitas e peça opinião de 10 amigos; o feedback imediato é ouro."
       },
       {
-        "titulo": "Aprenda Com Erros",
-        "detalhe": "Lembre-se de que erros são parte do processo. Estude casos de empreendedores que começaram do zero e use essas lições para evitar armadilhas comuns."
+        "titulo": "Calcule custos reais",
+        "detalhe": "Liste todas as despesas fixas e variáveis em uma planilha de 2 linhas e compare com seu orçamento atual; veja se o investimento cabe."
+      },
+      {
+        "titulo": "Defina um cronograma",
+        "detalhe": "Marque uma data de lançamento e estabeleça três marcos mensais, anotando no calendário. Comprometa-se a seguir."
       }
     ],
-    "fechamento": "Agora que você tem um ponto de partida, que tal mergulhar mais fundo e descobrir como transformar sua ideia em realidade? Quer ir mais fundo? Veja o guia completo."
+    "fechamento": "Pronto pra aprofundar cada ponto e transformar essa lista em um plano de ação completo? Descubra no guia completo."
   },
-  "texto_telegram_html": "<b>Checklist: Primeiros 7 Dias</b>\n\n<i>Eu sei que você já pensou em abrir o seu próprio negócio, mas tem medo de não ter certeza se vale a pena. Eu mesma já passei por isso e sei como é difícil dar o primeiro passo.</i>\n\n<b>1. Defina Seu Propósito</b>\n<code>Pegue um papel e escreva o que você realmente deseja alcançar com o seu negócio. Seja claro e direto, sem rodeios.</code>\n\n<b>2. Avalie Seu Mercado</b>\n<code>Pense no seu público-alvo e no que ele realmente precisa. Faça uma pesquisa rápida online para entender melhor o mercado.</code>\n\n<b>3. Desenvolva Um Plano</b>\n<code>Esboce um plano simples de como você pretende começar e crescer. Não precisa ser perfeito, apenas um ponto de partida.</code>\n\n<b>4. Aprenda Com Erros</b>\n<code>Lembre-se de que erros são parte do processo. Estude casos de empreendedores que começaram do zero e use essas lições para evitar armadilhas comuns.</code>\n\n<i>Agora que você tem um ponto de partida, que tal mergulhar mais fundo e descobrir como transformar sua ideia em realidade? Quer ir mais fundo? Veja o guia completo.</i>",
+  "texto_telegram_html": "<b>Checklist: 5 passos práticos para decidir empreender</b>\n\n<i>Chegou a hora de colocar a dúvida em prática. Cansado de ficar no vácuo, pulando de ideia em ideia sem saber se vale a pena abrir sua própria empresa?</i>\n\n<b>1. Reflita seu porquê</b>\n<code>Escreva em 3 frases o que realmente te motiva a empreender e guarde as respostas para consultar sempre que a dúvida surgir.</code>\n\n<b>2. Teste a demanda online</b>\n<code>Use Google Trends e fóruns como r/empreendedorismo para verificar se há interesse. Anote dois sinais claros de procura.</code>\n\n<b>3. Construa um protótipo mínimo</b>\n<code>Crie uma versão simples do produto ou serviço com ferramentas gratuitas e peça opinião de 10 amigos; o feedback imediato é ouro.</code>\n\n<b>4. Calcule custos reais</b>\n<code>Liste todas as despesas fixas e variáveis em uma planilha de 2 linhas e compare com seu orçamento atual; veja se o investimento cabe.</code>\n\n<b>5. Defina um cronograma</b>\n<code>Marque uma data de lançamento e estabeleça três marcos mensais, anotando no calendário. Comprometa-se a seguir.</code>\n\n<i>Pronto pra aprofundar cada ponto e transformar essa lista em um plano de ação completo? Descubra no guia completo.</i>",
   "parse_mode": "HTML",
   "dor_principal_ancorada": "Empreender vale a pena? : r/empreendedorismo",
   "fonte_geracao": "gemini_ia",
-  "gerado_em": "2026-08-07T00:11:35"
+  "gerado_em": "2026-09-24T18:41:46"
 }

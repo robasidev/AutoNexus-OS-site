@@ -1,10 +1,13 @@
-# Checklist prático: primeiros passos com aprender violão do zero
+# Checklist Rápido: Domine a Acordes do Método 100
 
-_Sabemos que começar em aprender violão do zero pode travar — esse checklist é o empurrão prático pra sair do zero hoje._
+_Sabe aquela sensação de ficar preso no meio do curso? Já vi muitos alunos no mesmo ponto e consegui simplificar tudo._
 
-1. **Defina seu ponto de partida** — Anote em uma frase onde você está hoje com aprender violão do zero — isso evita perder tempo com conteúdo que não serve pro seu nível.
-2. **Separe 15 minutos por dia** — Constância curta e diária bate sessão longa esporádica — bloqueia esse horário na agenda antes de qualquer coisa.
-3. **Escolha 1 fonte confiável** — Evite pular entre vários materiais diferentes ao mesmo tempo — isso é o que mais trava iniciante.
-4. **Registre o progresso** — Um caderno ou nota no celular já resolve — o objetivo é conseguir olhar pra trás e ver que avançou.
+1. **Organize seu espaço** — Separe o violão, a mesa, e um bloco de notas. Tente manter tudo à mão, sem distrações.
+2. **Alinhe as mãos** — Coloque a mão esquerda nos trastes, a mão direita no braço. Faça um teste rápido de escala para sentir o posicionamento.
+3. **Pratique acordes básicos** — Escolha três acordes do módulo inicial e dedique 10 minutos apenas a eles, repetindo cada um cinco vezes.
+4. **Use o metrônomo** — Configure o ritmo em 80 BPM e toque cada acorde com o tempo, mantendo o pulso firme.
+5. **Grave e escute** — Grave 30 segundos de sua prática e depois escute. Identifique os pontos que precisam de ajuste.
+6. **Repita sem falha** — Refaça o exercício até que cada acorde soe limpo. Concentre-se na transição entre eles.
+7. **Aplique no contexto** — Coloque os acordes em uma sequência simples da aula e toque sem olhar as tablaturas.
 
-_Quer ir mais fundo? O guia completo cobre cada um desses pontos com mais profundidade._
+_Se quiser mergulhar mais fundo no Método 100, veja o guia completo no link abaixo._

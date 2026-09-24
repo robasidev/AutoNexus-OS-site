@@ -1,37 +1,45 @@
 {
   "produto_id": "wsacupuntura-curso-acupuntura-formacao",
   "hub_slug": "saude",
-  "titulo": "Checklist: Conquistar e Manter Pacientes em 5 Passos",
+  "titulo": "Checklist rápido: atraia e mantenha pacientes de acupuntura",
   "conteudo": {
-    "titulo": "Checklist: Conquistar e Manter Pacientes em 5 Passos",
-    "intro": "Sei que você sente a frustração de tentar atrair novos pacientes sem saber por onde começar, e que a falta de marketing deixa sua clínica vazia.",
+    "titulo": "Checklist rápido: atraia e mantenha pacientes de acupuntura",
+    "intro": "Se você já cansou de ver horários vazios e se sente perdido ao tentar fechar novos pacientes, este é para você.",
     "passos": [
       {
-        "titulo": "Defina seu nicho de público",
-        "detalhe": "Escolha quem vai cuidar: mulheres gestantes, atletas, idosos... Crie um perfil de paciente ideal e guie todas as suas ações."
+        "titulo": "Defina seu público-alvo",
+        "detalhe": "Liste as principais dores que seu público busca tratar e escreva uma frase que fale direto com eles."
       },
       {
-        "titulo": "Crie uma promessa clara de resultado",
-        "detalhe": "Escreva uma frase curta que mostre o que o paciente ganha com sua sessão de acupuntura – não promessas vagas, mas benefícios específicos."
+        "titulo": "Crie um cartão de visita digital",
+        "detalhe": "Use Canva para montar um PDF com seu nome, especialidade, endereço, telefone e três depoimentos curtos."
       },
       {
-        "titulo": "Estabeleça canais de contato",
-        "detalhe": "Configure seu WhatsApp, e-mail e Instagram com links de agendamento direto; teste cada link para garantir funcionamento."
+        "titulo": "Aproveite grupos de nicho",
+        "detalhe": "Participe de grupos de Facebook e Telegram focados em saúde alternativa e compartilhe dicas de acupuntura uma vez por semana."
       },
       {
-        "titulo": "Ofereça conteúdo gratuito",
-        "detalhe": "Publique vídeos curtos explicando um ponto de acupuntura ou benefícios da medicina tradicional chinesa; peça ao final um contato para mais informações."
+        "titulo": "Solicite indicações de quem já foi atendido",
+        "detalhe": "Depois de cada sessão, peça ao paciente para indicar amigos e familiares em troca de um desconto no próximo procedimento."
       },
       {
-        "titulo": "Solicite referências de forma sutil",
-        "detalhe": "Após a sessão, pergunte se o paciente conhece alguém que também precise de acupuntura e ofereça um cartão de visita com um convite."
+        "titulo": "Monitore sua presença online",
+        "detalhe": "Use o Google Meu Negócio para publicar fotos de seu consultório e responder rapidamente a avaliações."
+      },
+      {
+        "titulo": "Estabeleça um horário de consulta fixo",
+        "detalhe": "Reserve a mesma faixa horária toda semana, assim os pacientes sabem quando podem marcar e você evita sobrecarga."
+      },
+      {
+        "titulo": "Faça follow-up pós‑consulta",
+        "detalhe": "Envie uma mensagem automática com um lembrete de cuidados e um link para agendar a próxima sessão."
       }
     ],
-    "fechamento": "Se quiser aprofundar cada passo e transformar esses primeiros resultados em uma rotina de crescimento, dê uma olhada no nosso guia completo."
+    "fechamento": "Se quiser aprofundar, descubra o guia completo que preparamos."
   },
-  "texto_telegram_html": "<b>Checklist: Conquistar e Manter Pacientes em 5 Passos</b>\n\n<i>Sei que você sente a frustração de tentar atrair novos pacientes sem saber por onde começar, e que a falta de marketing deixa sua clínica vazia.</i>\n\n<b>1. Defina seu nicho de público</b>\n<code>Escolha quem vai cuidar: mulheres gestantes, atletas, idosos... Crie um perfil de paciente ideal e guie todas as suas ações.</code>\n\n<b>2. Crie uma promessa clara de resultado</b>\n<code>Escreva uma frase curta que mostre o que o paciente ganha com sua sessão de acupuntura – não promessas vagas, mas benefícios específicos.</code>\n\n<b>3. Estabeleça canais de contato</b>\n<code>Configure seu WhatsApp, e-mail e Instagram com links de agendamento direto; teste cada link para garantir funcionamento.</code>\n\n<b>4. Ofereça conteúdo gratuito</b>\n<code>Publique vídeos curtos explicando um ponto de acupuntura ou benefícios da medicina tradicional chinesa; peça ao final um contato para mais informações.</code>\n\n<b>5. Solicite referências de forma sutil</b>\n<code>Após a sessão, pergunte se o paciente conhece alguém que também precise de acupuntura e ofereça um cartão de visita com um convite.</code>\n\n<i>Se quiser aprofundar cada passo e transformar esses primeiros resultados em uma rotina de crescimento, dê uma olhada no nosso guia completo.</i>",
+  "texto_telegram_html": "<b>Checklist rápido: atraia e mantenha pacientes de acupuntura</b>\n\n<i>Se você já cansou de ver horários vazios e se sente perdido ao tentar fechar novos pacientes, este é para você.</i>\n\n<b>1. Defina seu público-alvo</b>\n<code>Liste as principais dores que seu público busca tratar e escreva uma frase que fale direto com eles.</code>\n\n<b>2. Crie um cartão de visita digital</b>\n<code>Use Canva para montar um PDF com seu nome, especialidade, endereço, telefone e três depoimentos curtos.</code>\n\n<b>3. Aproveite grupos de nicho</b>\n<code>Participe de grupos de Facebook e Telegram focados em saúde alternativa e compartilhe dicas de acupuntura uma vez por semana.</code>\n\n<b>4. Solicite indicações de quem já foi atendido</b>\n<code>Depois de cada sessão, peça ao paciente para indicar amigos e familiares em troca de um desconto no próximo procedimento.</code>\n\n<b>5. Monitore sua presença online</b>\n<code>Use o Google Meu Negócio para publicar fotos de seu consultório e responder rapidamente a avaliações.</code>\n\n<b>6. Estabeleça um horário de consulta fixo</b>\n<code>Reserve a mesma faixa horária toda semana, assim os pacientes sabem quando podem marcar e você evita sobrecarga.</code>\n\n<b>7. Faça follow-up pós‑consulta</b>\n<code>Envie uma mensagem automática com um lembrete de cuidados e um link para agendar a próxima sessão.</code>\n\n<i>Se quiser aprofundar, descubra o guia completo que preparamos.</i>",
   "parse_mode": "HTML",
   "dor_principal_ancorada": "Dificuldade real e documentada de terapeutas/acupunturistas em conquistar e manter pacientes sem conhecimento de gestão/marketing",
   "fonte_geracao": "gemini_ia",
-  "gerado_em": "2026-09-24T14:50:38"
+  "gerado_em": "2026-09-24T18:42:33"
 }

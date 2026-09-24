@@ -1,12 +1,11 @@
-# Checklist de Primeira Sessão no ASUS TUF Gaming A16
+# Checklist rápido para otimizar seu ASUS TUF A16 no Linux
 
-_Depois de tantas partidas que não saíam no pico de 60fps, eu descobri que tudo que precisava era de ajustes simples antes de ligar o notebook._
+_Quando acessei o notebook, os jogos travavam e a tela piscava. Descobri que o Linux KeepOS precisava de alguns ajustes práticos._
 
-1. **Teste a placa gráfica no modo alto desempenho** — Acesse o NVIDIA Control Panel e selecione "Max Performance" na aba de gerenciamento de energia.
-2. **Configure o resfriamento ativo** — No BIOS, ative o perfil "Gaming" e ajuste a curva de temperatura para que o ventilador entre em ação a partir de 55°C.
-3. **Limpe os drivers Linux** — Use "sudo apt remove nvidia-driver-*" e depois instale a versão mais recente via PPAs para garantir estabilidade.
-4. **Desative recursos visuais desnecessários** — No jogo, reduza sombras, anti-aliasing e efeitos de partículas para manter a taxa de quadros alta.
-5. **Monitore o consumo de energia** — Instale o "tlp" ou "powertop" para ver se a CPU está realmente no modo turbo; ajuste se necessário.
-6. **Teste a performance com benchmarks** — Execute o 3DMark Fire Strike ou Unigine Heaven para comparar antes e depois dos ajustes.
+1. **Instale drivers NVIDIA** — Baixe o pacote oficial da NVIDIA e instale via terminal: sudo pacman -S nvidia nvidia-utils. Reinicie para que o driver carregue corretamente.
+2. **Configure resolução e taxa** — Abra o gerenciador de display, escolha 1920x1080 e ative 144Hz. Salve as alterações e teste com um jogo de teste.
+3. **Habilite o modo de jogo** — Edite /etc/systemd/system/gameservice.service para incluir "ExecStart=/usr/bin/gamescope" e ative com systemctl enable --now gameservice. Isso prioriza recursos do sistema para jogos.
+4. **Instale monitoramento de desempenho** — Instale o pacote gkrellm ou Conky: sudo pacman -S gkrellm. Configure para exibir FPS, temperatura da GPU e uso da CPU.
+5. **Mantenha kernel e drivers atualizados** — Verifique atualizações regulares com sudo pacman -Syu. Se notar queda de desempenho, experimente versões mais recentes do kernel que tragam melhorias para hardware AMD.
 
-_Se quiser aprofundar nos detalhes e evitar armadilhas comuns, o guia completo cobre tudo de forma prática._
+_Se quiser aprofundar e resolver cada detalhe, confira o guia completo._

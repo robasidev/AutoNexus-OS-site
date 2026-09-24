@@ -1,33 +1,37 @@
 {
   "produto_id": "club-integrativo",
   "hub_slug": "saude",
-  "titulo": "Checklist Rápido: Integração de Mods nas Armaduras",
+  "titulo": "Checklist: Integração Rápida dos Mods de Armadura",
   "conteudo": {
-    "titulo": "Checklist Rápido: Integração de Mods nas Armaduras",
-    "intro": "Eu já vi quem tenta fazer isso perder horas sem saber por onde começar. Abaixo estão os passos que já me pouparam tempo e dores.",
+    "titulo": "Checklist: Integração Rápida dos Mods de Armadura",
+    "intro": "Já cansou de ter mods que não se encaixam nos sistemas de armadura? Eu já passei por isso e encontrei um caminho que funciona rápido.",
     "passos": [
       {
-        "titulo": "Identifique Dependências",
-        "detalhe": "Liste todas as bibliotecas que a armadura usa antes de adicionar qualquer mod."
+        "titulo": "Confirme a Compatibilidade do Mod",
+        "detalhe": "Verifique a versão do mod e compare com a sua base de armadura. Se não bater, procure a versão correta antes de instalar."
       },
       {
-        "titulo": "Teste em Ambiente Isolado",
-        "detalhe": "Crie um clone da armadura em sandbox e rode o mod até que ele esteja estável."
+        "titulo": "Ajuste o Arquivo de Configuração",
+        "detalhe": "Edite o config.yaml adicionando o caminho do mod e habilitando as flags necessárias. Salve e feche."
       },
       {
-        "titulo": "Atualize a Documentação de Uso",
-        "detalhe": "Inclua instruções de instalação e parâmetros no README antes de publicar."
+        "titulo": "Teste em Ambiente de Staging",
+        "detalhe": "Inicie o servidor em staging e verifique se o mod carrega sem erros. Use logs para identificar problemas."
       },
       {
-        "titulo": "Monitore a Performance",
-        "detalhe": "Use métricas de CPU e memória nos primeiros 24h para garantir que o mod não degrade a armadura."
+        "titulo": "Integre os Dados de Armadura",
+        "detalhe": "Combine as tabelas do mod com as existentes, garantindo chaves únicas e sem duplicatas. Rode scripts de migração se necessário."
+      },
+      {
+        "titulo": "Implante e Monitore",
+        "detalhe": "Coloque o mod na produção, habilite a rota de monitoramento e verifique métricas de desempenho. Ajuste se houver queda."
       }
     ],
-    "fechamento": "Quer explorar mais nuances dessa integração? Confira o guia completo do Club Integrativo."
+    "fechamento": "Quer ir mais fundo? Veja o guia completo de integração no Club Integrativo."
   },
-  "texto_telegram_html": "<b>Checklist Rápido: Integração de Mods nas Armaduras</b>\n\n<i>Eu já vi quem tenta fazer isso perder horas sem saber por onde começar. Abaixo estão os passos que já me pouparam tempo e dores.</i>\n\n<b>1. Identifique Dependências</b>\n<code>Liste todas as bibliotecas que a armadura usa antes de adicionar qualquer mod.</code>\n\n<b>2. Teste em Ambiente Isolado</b>\n<code>Crie um clone da armadura em sandbox e rode o mod até que ele esteja estável.</code>\n\n<b>3. Atualize a Documentação de Uso</b>\n<code>Inclua instruções de instalação e parâmetros no README antes de publicar.</code>\n\n<b>4. Monitore a Performance</b>\n<code>Use métricas de CPU e memória nos primeiros 24h para garantir que o mod não degrade a armadura.</code>\n\n<i>Quer explorar mais nuances dessa integração? Confira o guia completo do Club Integrativo.</i>",
+  "texto_telegram_html": "<b>Checklist: Integração Rápida dos Mods de Armadura</b>\n\n<i>Já cansou de ter mods que não se encaixam nos sistemas de armadura? Eu já passei por isso e encontrei um caminho que funciona rápido.</i>\n\n<b>1. Confirme a Compatibilidade do Mod</b>\n<code>Verifique a versão do mod e compare com a sua base de armadura. Se não bater, procure a versão correta antes de instalar.</code>\n\n<b>2. Ajuste o Arquivo de Configuração</b>\n<code>Edite o config.yaml adicionando o caminho do mod e habilitando as flags necessárias. Salve e feche.</code>\n\n<b>3. Teste em Ambiente de Staging</b>\n<code>Inicie o servidor em staging e verifique se o mod carrega sem erros. Use logs para identificar problemas.</code>\n\n<b>4. Integre os Dados de Armadura</b>\n<code>Combine as tabelas do mod com as existentes, garantindo chaves únicas e sem duplicatas. Rode scripts de migração se necessário.</code>\n\n<b>5. Implante e Monitore</b>\n<code>Coloque o mod na produção, habilite a rota de monitoramento e verifique métricas de desempenho. Ajuste se houver queda.</code>\n\n<i>Quer ir mais fundo? Veja o guia completo de integração no Club Integrativo.</i>",
   "parse_mode": "HTML",
   "dor_principal_ancorada": "Mods melhorados de integração das armaduras do ...",
   "fonte_geracao": "gemini_ia",
-  "gerado_em": "2026-09-05T16:11:31"
+  "gerado_em": "2026-09-24T18:41:58"
 }

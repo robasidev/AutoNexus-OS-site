@@ -1,37 +1,45 @@
 {
   "produto_id": "metodo-destrava-dedo-adeildo-lopes",
   "hub_slug": "musica",
-  "titulo": "Check de 5 passos para destravar o dedo agora",
+  "titulo": "Checklist Rápido: Liberte o Violão Depois dos 50",
   "conteudo": {
-    "titulo": "Check de 5 passos para destravar o dedo agora",
-    "intro": "Sei exatamente como é sentir que a idade já passou e os dedos não colhendo. Eu mesma passei por isso e encontrei formas simples para mudar.",
+    "titulo": "Checklist Rápido: Liberte o Violão Depois dos 50",
+    "intro": "Já senti que o violão era só para jovens e que meus dedos não respondiam. Descobri que, com pequenos ajustes, posso tocar de novo.",
     "passos": [
       {
-        "titulo": "Calcule seu ritmo",
-        "detalhe": "Escolha uma música lenta e toque o acorde cinco vezes, contando cada batida. Isso ajuda a alinhar mente e mãos."
+        "titulo": "Ajuste a posição do braço",
+        "detalhe": "Posicione o violão com o braço levemente curvo, evitando tensão nos dedos. Use uma cadeira confortável para manter o corpo relaxado."
       },
       {
-        "titulo": "Aqueça com escalas",
-        "detalhe": "Faça escalas de dó maior por 30 segundos, focando na fluidez dos dedos. Use um metrônomo leve para não se atrapalhar."
+        "titulo": "Quebre os acordes em partes",
+        "detalhe": "Seja apenas as três primeiras cordas de cada acorde. Assim você evita sobrecarregar os dedos e mantém a motivação."
       },
       {
-        "titulo": "Divida o acorde",
-        "detalhe": "Tente tocar o acorde em partes: primeiro a posição de três dedos, depois o quarto, assim você evita sobrecarga."
+        "titulo": "Pratique movimentos isolados",
+        "detalhe": "Faça exercícios de digitação de cada dedo, focando na mobilidade. Repita 5 vezes por dia, sem pressa."
       },
       {
-        "titulo": "Pratique com 1 dedo",
-        "detalhe": "Mantenha apenas um dedo pressionando a corda por alguns segundos, depois solte. Repita até sentir leveza."
+        "titulo": "Use suporte de braço",
+        "detalhe": "Coloque um suporte ou almofada para o braço direito, reduzindo a carga nos dedos. Isso ajuda a evitar o bloqueio."
       },
       {
-        "titulo": "Registre seu progresso",
-        "detalhe": "Anote a cada sessão o que ficou mais fácil ou difícil. Isso dá clareza do seu caminho e mantém a motivação."
+        "titulo": "Alimente sua coordenação",
+        "detalhe": "Faça alongamentos específicos para mãos antes e depois de tocar. Um pequeno alongamento de 30 segundos já faz diferença."
+      },
+      {
+        "titulo": "Regrava o progresso",
+        "detalhe": "Grave 15 segundos de sua prática diária. Ouça para identificar gargalos e ajuste a técnica."
+      },
+      {
+        "titulo": "Celebre cada mini conquista",
+        "detalhe": "Anote no diário que conseguiu manter o acorde por 5 segundos. Isso reforça a confiança e mantém o ritmo."
       }
     ],
-    "fechamento": "Quer ir mais fundo? Veja o guia completo do Método Destrava Dedo."
+    "fechamento": "Se quiser aprofundar esses passos e descobrir mais segredos para tocar com facilidade, confira o guia completo do Método Destrava Dedo."
   },
-  "texto_telegram_html": "<b>Check de 5 passos para destravar o dedo agora</b>\n\n<i>Sei exatamente como é sentir que a idade já passou e os dedos não colhendo. Eu mesma passei por isso e encontrei formas simples para mudar.</i>\n\n<b>1. Calcule seu ritmo</b>\n<code>Escolha uma música lenta e toque o acorde cinco vezes, contando cada batida. Isso ajuda a alinhar mente e mãos.</code>\n\n<b>2. Aqueça com escalas</b>\n<code>Faça escalas de dó maior por 30 segundos, focando na fluidez dos dedos. Use um metrônomo leve para não se atrapalhar.</code>\n\n<b>3. Divida o acorde</b>\n<code>Tente tocar o acorde em partes: primeiro a posição de três dedos, depois o quarto, assim você evita sobrecarga.</code>\n\n<b>4. Pratique com 1 dedo</b>\n<code>Mantenha apenas um dedo pressionando a corda por alguns segundos, depois solte. Repita até sentir leveza.</code>\n\n<b>5. Registre seu progresso</b>\n<code>Anote a cada sessão o que ficou mais fácil ou difícil. Isso dá clareza do seu caminho e mantém a motivação.</code>\n\n<i>Quer ir mais fundo? Veja o guia completo do Método Destrava Dedo.</i>",
+  "texto_telegram_html": "<b>Checklist Rápido: Liberte o Violão Depois dos 50</b>\n\n<i>Já senti que o violão era só para jovens e que meus dedos não respondiam. Descobri que, com pequenos ajustes, posso tocar de novo.</i>\n\n<b>1. Ajuste a posição do braço</b>\n<code>Posicione o violão com o braço levemente curvo, evitando tensão nos dedos. Use uma cadeira confortável para manter o corpo relaxado.</code>\n\n<b>2. Quebre os acordes em partes</b>\n<code>Seja apenas as três primeiras cordas de cada acorde. Assim você evita sobrecarregar os dedos e mantém a motivação.</code>\n\n<b>3. Pratique movimentos isolados</b>\n<code>Faça exercícios de digitação de cada dedo, focando na mobilidade. Repita 5 vezes por dia, sem pressa.</code>\n\n<b>4. Use suporte de braço</b>\n<code>Coloque um suporte ou almofada para o braço direito, reduzindo a carga nos dedos. Isso ajuda a evitar o bloqueio.</code>\n\n<b>5. Alimente sua coordenação</b>\n<code>Faça alongamentos específicos para mãos antes e depois de tocar. Um pequeno alongamento de 30 segundos já faz diferença.</code>\n\n<b>6. Regrava o progresso</b>\n<code>Grave 15 segundos de sua prática diária. Ouça para identificar gargalos e ajuste a técnica.</code>\n\n<b>7. Celebre cada mini conquista</b>\n<code>Anote no diário que conseguiu manter o acorde por 5 segundos. Isso reforça a confiança e mantém o ritmo.</code>\n\n<i>Se quiser aprofundar esses passos e descobrir mais segredos para tocar com facilidade, confira o guia completo do Método Destrava Dedo.</i>",
   "parse_mode": "HTML",
   "dor_principal_ancorada": "Crença de que passou da idade pra aprender violão, reforçada por dificuldade real e documentada de coordenação/mobilidade dos dedos após os 50 anos",
   "fonte_geracao": "gemini_ia",
-  "gerado_em": "2026-09-24T14:31:04"
+  "gerado_em": "2026-09-24T18:42:58"
 }

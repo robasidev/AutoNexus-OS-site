@@ -1,33 +1,37 @@
 {
   "produto_id": "viva-sempre-com-dinheiro",
   "hub_slug": "financas",
-  "titulo": "Organize Sua Economia",
+  "titulo": "Checklist rápido: comece o Viva Sempre em 5 passos",
   "conteudo": {
-    "titulo": "Organize Sua Economia",
-    "intro": "Se você está aqui, provavelmente já sentiu o peso de não ter controle sobre suas finanças. Eu sei como é, já estive lá. Mas o primeiro passo para mudar isso é começar a organizar sua economia, e é exatamente isso que vamos fazer agora.",
+    "titulo": "Checklist rápido: comece o Viva Sempre em 5 passos",
+    "intro": "Sabemos que o curso Viva Sempre com Dinheiro pode parecer denso, mas a primeira fase ainda é a mais desafiadora. Aqui está um plano simples para você já colocar a teoria em prática.",
     "passos": [
       {
-        "titulo": "Reuni Todos Comprovantes",
-        "detalhe": "Pegue todos os comprovantes de gastos dos últimos 30 dias, incluindo contas de cartão de crédito, extratos bancários e notas fiscais. Isso vai te dar uma visão clara de onde seu dinheiro está indo."
+        "titulo": "Ajusta seu objetivo",
+        "detalhe": "Anote 1 meta de renda que queira alcançar em 6 meses e defina um valor exato. Esse número será seu norte."
       },
       {
-        "titulo": "Categorize Gastos",
-        "detalhe": "Separe seus gastos em categorias como alimentação, transporte, moradia, entretenimento, etc. Isso ajudará a entender melhor onde você pode cortar gastos desnecessários."
+        "titulo": "Cobra os ganhos atuais",
+        "detalhe": "Faça um levantamento de todos os rendimentos mensais: salário, freelances, investimentos. Coloque em planilha ou aplicativo de controle."
       },
       {
-        "titulo": "Defina Metas Financeiras",
-        "detalhe": "Pense no que você quer alcançar com seu dinheiro, seja pagar uma dívida, fazer uma reserva de emergência ou planejar um investimento. Ter metas claras te dará direção."
+        "titulo": "Identifica despesas fixas",
+        "detalhe": "Liste tudo que tem que pagar todo mês (casa, contas, escola). Separe o que pode reduzir, se necessário."
       },
       {
-        "titulo": "Crie um Plano de Ação",
-        "detalhe": "Com base nas suas metas e no que você descobriu sobre seus gastos, crie um plano simples de como você vai alcançar essas metas. Comece com pequenos passos que você possa dar já esta semana."
+        "titulo": "Define a alocação de recursos",
+        "detalhe": "Decida quanto do seu dinheiro vai para investimento, poupança e lazer. Use a regra 50/30/20 como base e ajuste."
+      },
+      {
+        "titulo": "Planeja o próximo mês",
+        "detalhe": "Monte um orçamento mensal, inserindo suas metas, renda e despesas. Revise diariamente para manter o foco."
       }
     ],
-    "fechamento": "Agora que você tem esses primeiros passos, é hora de aprofundar seus conhecimentos e criar um plano personalizado para sua situação financeira. Quer ir mais fundo? Veja o guia completo para entender melhor como você pode viver sempre com dinheiro."
+    "fechamento": "Quer aprofundar cada passo e transformar esses números em ações reais? Confira o guia completo no nosso canal."
   },
-  "texto_telegram_html": "<b>Organize Sua Economia</b>\n\n<i>Se você está aqui, provavelmente já sentiu o peso de não ter controle sobre suas finanças. Eu sei como é, já estive lá. Mas o primeiro passo para mudar isso é começar a organizar sua economia, e é exatamente isso que vamos fazer agora.</i>\n\n<b>1. Reuni Todos Comprovantes</b>\n<code>Pegue todos os comprovantes de gastos dos últimos 30 dias, incluindo contas de cartão de crédito, extratos bancários e notas fiscais. Isso vai te dar uma visão clara de onde seu dinheiro está indo.</code>\n\n<b>2. Categorize Gastos</b>\n<code>Separe seus gastos em categorias como alimentação, transporte, moradia, entretenimento, etc. Isso ajudará a entender melhor onde você pode cortar gastos desnecessários.</code>\n\n<b>3. Defina Metas Financeiras</b>\n<code>Pense no que você quer alcançar com seu dinheiro, seja pagar uma dívida, fazer uma reserva de emergência ou planejar um investimento. Ter metas claras te dará direção.</code>\n\n<b>4. Crie um Plano de Ação</b>\n<code>Com base nas suas metas e no que você descobriu sobre seus gastos, crie um plano simples de como você vai alcançar essas metas. Comece com pequenos passos que você possa dar já esta semana.</code>\n\n<i>Agora que você tem esses primeiros passos, é hora de aprofundar seus conhecimentos e criar um plano personalizado para sua situação financeira. Quer ir mais fundo? Veja o guia completo para entender melhor como você pode viver sempre com dinheiro.</i>",
+  "texto_telegram_html": "<b>Checklist rápido: comece o Viva Sempre em 5 passos</b>\n\n<i>Sabemos que o curso Viva Sempre com Dinheiro pode parecer denso, mas a primeira fase ainda é a mais desafiadora. Aqui está um plano simples para você já colocar a teoria em prática.</i>\n\n<b>1. Ajusta seu objetivo</b>\n<code>Anote 1 meta de renda que queira alcançar em 6 meses e defina um valor exato. Esse número será seu norte.</code>\n\n<b>2. Cobra os ganhos atuais</b>\n<code>Faça um levantamento de todos os rendimentos mensais: salário, freelances, investimentos. Coloque em planilha ou aplicativo de controle.</code>\n\n<b>3. Identifica despesas fixas</b>\n<code>Liste tudo que tem que pagar todo mês (casa, contas, escola). Separe o que pode reduzir, se necessário.</code>\n\n<b>4. Define a alocação de recursos</b>\n<code>Decida quanto do seu dinheiro vai para investimento, poupança e lazer. Use a regra 50/30/20 como base e ajuste.</code>\n\n<b>5. Planeja o próximo mês</b>\n<code>Monte um orçamento mensal, inserindo suas metas, renda e despesas. Revise diariamente para manter o foco.</code>\n\n<i>Quer aprofundar cada passo e transformar esses números em ações reais? Confira o guia completo no nosso canal.</i>",
   "parse_mode": "HTML",
   "dor_principal_ancorada": "Curso: Viva Sempre Com Dinheiro - Nádia Pace",
   "fonte_geracao": "gemini_ia",
-  "gerado_em": "2026-08-07T00:11:56"
+  "gerado_em": "2026-09-24T17:54:24"
 }

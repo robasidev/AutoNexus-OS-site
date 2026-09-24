@@ -1,10 +1,11 @@
-# Organize Sua Economia
+# Checklist rápido: comece o Viva Sempre em 5 passos
 
-_Se você está aqui, provavelmente já sentiu o peso de não ter controle sobre suas finanças. Eu sei como é, já estive lá. Mas o primeiro passo para mudar isso é começar a organizar sua economia, e é exatamente isso que vamos fazer agora._
+_Sabemos que o curso Viva Sempre com Dinheiro pode parecer denso, mas a primeira fase ainda é a mais desafiadora. Aqui está um plano simples para você já colocar a teoria em prática._
 
-1. **Reuni Todos Comprovantes** — Pegue todos os comprovantes de gastos dos últimos 30 dias, incluindo contas de cartão de crédito, extratos bancários e notas fiscais. Isso vai te dar uma visão clara de onde seu dinheiro está indo.
-2. **Categorize Gastos** — Separe seus gastos em categorias como alimentação, transporte, moradia, entretenimento, etc. Isso ajudará a entender melhor onde você pode cortar gastos desnecessários.
-3. **Defina Metas Financeiras** — Pense no que você quer alcançar com seu dinheiro, seja pagar uma dívida, fazer uma reserva de emergência ou planejar um investimento. Ter metas claras te dará direção.
-4. **Crie um Plano de Ação** — Com base nas suas metas e no que você descobriu sobre seus gastos, crie um plano simples de como você vai alcançar essas metas. Comece com pequenos passos que você possa dar já esta semana.
+1. **Ajusta seu objetivo** — Anote 1 meta de renda que queira alcançar em 6 meses e defina um valor exato. Esse número será seu norte.
+2. **Cobra os ganhos atuais** — Faça um levantamento de todos os rendimentos mensais: salário, freelances, investimentos. Coloque em planilha ou aplicativo de controle.
+3. **Identifica despesas fixas** — Liste tudo que tem que pagar todo mês (casa, contas, escola). Separe o que pode reduzir, se necessário.
+4. **Define a alocação de recursos** — Decida quanto do seu dinheiro vai para investimento, poupança e lazer. Use a regra 50/30/20 como base e ajuste.
+5. **Planeja o próximo mês** — Monte um orçamento mensal, inserindo suas metas, renda e despesas. Revise diariamente para manter o foco.
 
-_Agora que você tem esses primeiros passos, é hora de aprofundar seus conhecimentos e criar um plano personalizado para sua situação financeira. Quer ir mais fundo? Veja o guia completo para entender melhor como você pode viver sempre com dinheiro._
+_Quer aprofundar cada passo e transformar esses números em ações reais? Confira o guia completo no nosso canal._

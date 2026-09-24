@@ -1,41 +1,37 @@
 {
   "produto_id": "notebook-asus-tuf-gaming-a16-fa607nuq",
   "hub_slug": "games",
-  "titulo": "Checklist de Primeira Sessão no ASUS TUF Gaming A16",
+  "titulo": "Checklist rápido para otimizar seu ASUS TUF A16 no Linux",
   "conteudo": {
-    "titulo": "Checklist de Primeira Sessão no ASUS TUF Gaming A16",
-    "intro": "Depois de tantas partidas que não saíam no pico de 60fps, eu descobri que tudo que precisava era de ajustes simples antes de ligar o notebook.",
+    "titulo": "Checklist rápido para otimizar seu ASUS TUF A16 no Linux",
+    "intro": "Quando acessei o notebook, os jogos travavam e a tela piscava. Descobri que o Linux KeepOS precisava de alguns ajustes práticos.",
     "passos": [
       {
-        "titulo": "Teste a placa gráfica no modo alto desempenho",
-        "detalhe": "Acesse o NVIDIA Control Panel e selecione \"Max Performance\" na aba de gerenciamento de energia."
+        "titulo": "Instale drivers NVIDIA",
+        "detalhe": "Baixe o pacote oficial da NVIDIA e instale via terminal: sudo pacman -S nvidia nvidia-utils. Reinicie para que o driver carregue corretamente."
       },
       {
-        "titulo": "Configure o resfriamento ativo",
-        "detalhe": "No BIOS, ative o perfil \"Gaming\" e ajuste a curva de temperatura para que o ventilador entre em ação a partir de 55°C."
+        "titulo": "Configure resolução e taxa",
+        "detalhe": "Abra o gerenciador de display, escolha 1920x1080 e ative 144Hz. Salve as alterações e teste com um jogo de teste."
       },
       {
-        "titulo": "Limpe os drivers Linux",
-        "detalhe": "Use \"sudo apt remove nvidia-driver-*\" e depois instale a versão mais recente via PPAs para garantir estabilidade."
+        "titulo": "Habilite o modo de jogo",
+        "detalhe": "Edite /etc/systemd/system/gameservice.service para incluir \"ExecStart=/usr/bin/gamescope\" e ative com systemctl enable --now gameservice. Isso prioriza recursos do sistema para jogos."
       },
       {
-        "titulo": "Desative recursos visuais desnecessários",
-        "detalhe": "No jogo, reduza sombras, anti-aliasing e efeitos de partículas para manter a taxa de quadros alta."
+        "titulo": "Instale monitoramento de desempenho",
+        "detalhe": "Instale o pacote gkrellm ou Conky: sudo pacman -S gkrellm. Configure para exibir FPS, temperatura da GPU e uso da CPU."
       },
       {
-        "titulo": "Monitore o consumo de energia",
-        "detalhe": "Instale o \"tlp\" ou \"powertop\" para ver se a CPU está realmente no modo turbo; ajuste se necessário."
-      },
-      {
-        "titulo": "Teste a performance com benchmarks",
-        "detalhe": "Execute o 3DMark Fire Strike ou Unigine Heaven para comparar antes e depois dos ajustes."
+        "titulo": "Mantenha kernel e drivers atualizados",
+        "detalhe": "Verifique atualizações regulares com sudo pacman -Syu. Se notar queda de desempenho, experimente versões mais recentes do kernel que tragam melhorias para hardware AMD."
       }
     ],
-    "fechamento": "Se quiser aprofundar nos detalhes e evitar armadilhas comuns, o guia completo cobre tudo de forma prática."
+    "fechamento": "Se quiser aprofundar e resolver cada detalhe, confira o guia completo."
   },
-  "texto_telegram_html": "<b>Checklist de Primeira Sessão no ASUS TUF Gaming A16</b>\n\n<i>Depois de tantas partidas que não saíam no pico de 60fps, eu descobri que tudo que precisava era de ajustes simples antes de ligar o notebook.</i>\n\n<b>1. Teste a placa gráfica no modo alto desempenho</b>\n<code>Acesse o NVIDIA Control Panel e selecione \"Max Performance\" na aba de gerenciamento de energia.</code>\n\n<b>2. Configure o resfriamento ativo</b>\n<code>No BIOS, ative o perfil \"Gaming\" e ajuste a curva de temperatura para que o ventilador entre em ação a partir de 55°C.</code>\n\n<b>3. Limpe os drivers Linux</b>\n<code>Use \"sudo apt remove nvidia-driver-*\" e depois instale a versão mais recente via PPAs para garantir estabilidade.</code>\n\n<b>4. Desative recursos visuais desnecessários</b>\n<code>No jogo, reduza sombras, anti-aliasing e efeitos de partículas para manter a taxa de quadros alta.</code>\n\n<b>5. Monitore o consumo de energia</b>\n<code>Instale o \"tlp\" ou \"powertop\" para ver se a CPU está realmente no modo turbo; ajuste se necessário.</code>\n\n<b>6. Teste a performance com benchmarks</b>\n<code>Execute o 3DMark Fire Strike ou Unigine Heaven para comparar antes e depois dos ajustes.</code>\n\n<i>Se quiser aprofundar nos detalhes e evitar armadilhas comuns, o guia completo cobre tudo de forma prática.</i>",
+  "texto_telegram_html": "<b>Checklist rápido para otimizar seu ASUS TUF A16 no Linux</b>\n\n<i>Quando acessei o notebook, os jogos travavam e a tela piscava. Descobri que o Linux KeepOS precisava de alguns ajustes práticos.</i>\n\n<b>1. Instale drivers NVIDIA</b>\n<code>Baixe o pacote oficial da NVIDIA e instale via terminal: sudo pacman -S nvidia nvidia-utils. Reinicie para que o driver carregue corretamente.</code>\n\n<b>2. Configure resolução e taxa</b>\n<code>Abra o gerenciador de display, escolha 1920x1080 e ative 144Hz. Salve as alterações e teste com um jogo de teste.</code>\n\n<b>3. Habilite o modo de jogo</b>\n<code>Edite /etc/systemd/system/gameservice.service para incluir \"ExecStart=/usr/bin/gamescope\" e ative com systemctl enable --now gameservice. Isso prioriza recursos do sistema para jogos.</code>\n\n<b>4. Instale monitoramento de desempenho</b>\n<code>Instale o pacote gkrellm ou Conky: sudo pacman -S gkrellm. Configure para exibir FPS, temperatura da GPU e uso da CPU.</code>\n\n<b>5. Mantenha kernel e drivers atualizados</b>\n<code>Verifique atualizações regulares com sudo pacman -Syu. Se notar queda de desempenho, experimente versões mais recentes do kernel que tragam melhorias para hardware AMD.</code>\n\n<i>Se quiser aprofundar e resolver cada detalhe, confira o guia completo.</i>",
   "parse_mode": "HTML",
   "dor_principal_ancorada": null,
   "fonte_geracao": "gemini_ia",
-  "gerado_em": "2026-09-14T20:43:17"
+  "gerado_em": "2026-09-24T17:55:34"
 }

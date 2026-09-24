@@ -1,37 +1,45 @@
 {
   "produto_id": "guitarra-rock-academy",
   "hub_slug": "musica",
-  "titulo": "Checklist: comece a tocar em minutos",
+  "titulo": "Checklist: Comece a tocar guitarra online agora",
   "conteudo": {
-    "titulo": "Checklist: comece a tocar em minutos",
-    "intro": "Eu sei bem a frustração de buscar recomendações de cursos on-line e travar logo no primeiro dia sem saber por onde começar. Preparei este guia rápido para você ativar seu som e destravar sua prática agora mesmo.",
+    "titulo": "Checklist: Comece a tocar guitarra online agora",
+    "intro": "Já cansou de navegar por recomendações sem saber por onde começar? Nós já estivemos aí e sabemos que o primeiro passo é o mais difícil.",
     "passos": [
       {
-        "titulo": "Organize seu espaço de estudo",
-        "detalhe": "Deixe a guitarra no suporte, cabo pronto e palheta à mão para eliminar qualquer atrito antes de tocar."
+        "titulo": "Escolha a plataforma certa",
+        "detalhe": "Abra o site do curso, verifique se tem aulas para iniciantes e se o instrutor usa gravações em alta qualidade. Se não, mude."
       },
       {
-        "titulo": "Verifique a afinação do instrumento",
-        "detalhe": "Use um afinador digital gratuito no celular e garanta que todas as cordas estejam perfeitamente afinadas."
+        "titulo": "Configure seu equipamento",
+        "detalhe": "Conecte o microfone ou interface ao computador, ative o áudio nas configurações do navegador e teste o volume."
       },
       {
-        "titulo": "Ative seu som corretamente",
-        "detalhe": "Conecte a interface ou ligue o amplificador com o volume baixo, ajustando o ganho para um timbre limpo."
+        "titulo": "Copie o link do vídeo",
+        "detalhe": "Na página do vídeo, clique no botão de compartilhar, copie o link e cole em uma aba nova para ter acesso direto."
       },
       {
-        "titulo": "Execute o primeiro exercício de repetição",
-        "detalhe": "Faça a digitação básica nas quatro primeiras casas por apenas dois minutos, focando na precisão."
+        "titulo": "Salve o arquivo de áudio",
+        "detalhe": "Use a extensão de captura de áudio, clique em gravar, reproduza o trecho e salve como mp3; isso facilita o estudo offline."
       },
       {
-        "titulo": "Avalie sua evolução imediata",
-        "detalhe": "Perceba como a reprodução correta depende muito mais da postura relaxada do que da força física."
+        "titulo": "Pratique a escala inicial",
+        "detalhe": "Reproduza o trecho 5 vezes, focando na posição dos dedos; faça isso sem interromper o áudio."
+      },
+      {
+        "titulo": "Grave sua execução",
+        "detalhe": "Abra o software de gravação, toque o trecho e pause para ouvir a própria performance, anotando pontos de ajuste."
+      },
+      {
+        "titulo": "Compartilhe o progresso",
+        "detalhe": "Envie a gravação para o grupo de apoio do curso, peça feedback rápido e ajuste conforme orientação."
       }
     ],
-    "fechamento": "Se você quer ir mais fundo e estruturar sua rotina de estudos, veja o guia completo na próxima etapa."
+    "fechamento": "Se quiser mergulhar mais a fundo, tem um guia completo que mostra como dominar cada técnica passo a passo."
   },
-  "texto_telegram_html": "<b>Checklist: comece a tocar em minutos</b>\n\n<i>Eu sei bem a frustração de buscar recomendações de cursos on-line e travar logo no primeiro dia sem saber por onde começar. Preparei este guia rápido para você ativar seu som e destravar sua prática agora mesmo.</i>\n\n<b>1. Organize seu espaço de estudo</b>\n<code>Deixe a guitarra no suporte, cabo pronto e palheta à mão para eliminar qualquer atrito antes de tocar.</code>\n\n<b>2. Verifique a afinação do instrumento</b>\n<code>Use um afinador digital gratuito no celular e garanta que todas as cordas estejam perfeitamente afinadas.</code>\n\n<b>3. Ative seu som corretamente</b>\n<code>Conecte a interface ou ligue o amplificador com o volume baixo, ajustando o ganho para um timbre limpo.</code>\n\n<b>4. Execute o primeiro exercício de repetição</b>\n<code>Faça a digitação básica nas quatro primeiras casas por apenas dois minutos, focando na precisão.</code>\n\n<b>5. Avalie sua evolução imediata</b>\n<code>Perceba como a reprodução correta depende muito mais da postura relaxada do que da força física.</code>\n\n<i>Se você quer ir mais fundo e estruturar sua rotina de estudos, veja o guia completo na próxima etapa.</i>",
+  "texto_telegram_html": "<b>Checklist: Comece a tocar guitarra online agora</b>\n\n<i>Já cansou de navegar por recomendações sem saber por onde começar? Nós já estivemos aí e sabemos que o primeiro passo é o mais difícil.</i>\n\n<b>1. Escolha a plataforma certa</b>\n<code>Abra o site do curso, verifique se tem aulas para iniciantes e se o instrutor usa gravações em alta qualidade. Se não, mude.</code>\n\n<b>2. Configure seu equipamento</b>\n<code>Conecte o microfone ou interface ao computador, ative o áudio nas configurações do navegador e teste o volume.</code>\n\n<b>3. Copie o link do vídeo</b>\n<code>Na página do vídeo, clique no botão de compartilhar, copie o link e cole em uma aba nova para ter acesso direto.</code>\n\n<b>4. Salve o arquivo de áudio</b>\n<code>Use a extensão de captura de áudio, clique em gravar, reproduza o trecho e salve como mp3; isso facilita o estudo offline.</code>\n\n<b>5. Pratique a escala inicial</b>\n<code>Reproduza o trecho 5 vezes, focando na posição dos dedos; faça isso sem interromper o áudio.</code>\n\n<b>6. Grave sua execução</b>\n<code>Abra o software de gravação, toque o trecho e pause para ouvir a própria performance, anotando pontos de ajuste.</code>\n\n<b>7. Compartilhe o progresso</b>\n<code>Envie a gravação para o grupo de apoio do curso, peça feedback rápido e ajuste conforme orientação.</code>\n\n<i>Se quiser mergulhar mais a fundo, tem um guia completo que mostra como dominar cada técnica passo a passo.</i>",
   "parse_mode": "HTML",
   "dor_principal_ancorada": "Recomendações de cursos on-line! : r/guitarras",
   "fonte_geracao": "gemini_ia",
-  "gerado_em": "2026-08-04T21:01:40"
+  "gerado_em": "2026-09-24T18:41:07"
 }
