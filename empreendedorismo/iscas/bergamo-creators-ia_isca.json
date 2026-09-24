@@ -1,0 +1,37 @@
+{
+  "produto_id": "bergamo-creators-ia",
+  "hub_slug": "empreendedorismo",
+  "titulo": "Checklist: Começando de Vidas com IA em 5 Min",
+  "conteudo": {
+    "titulo": "Checklist: Começando de Vidas com IA em 5 Min",
+    "intro": "Quase todo mundo já viu anúncios vazios sobre IA e ficou desiludido. Aqui eu traço os passos reais que já usei para colocar algo de verdade no meu canal.",
+    "passos": [
+      {
+        "titulo": "Escolha o nicho",
+        "detalhe": "Defina um tema que você conhece bem e tem paixão; isso reduz a curva de aprendizado."
+      },
+      {
+        "titulo": "Ferramenta de IA",
+        "detalhe": "Baixe o ChatGPT e o Synthesia, teste os planos gratuitos e veja qual entrega vídeo de qualidade."
+      },
+      {
+        "titulo": "Roteiro simples",
+        "detalhe": "Escreva um roteiro de 4 a 6 pontos; cada ponto vira uma cena de 15 segundos."
+      },
+      {
+        "titulo": "Clone digital",
+        "detalhe": "Crie um avatar com a ferramenta escolhida, configure voz, ajuste tom e teste em poucos cliques."
+      },
+      {
+        "titulo": "Publique e repita",
+        "detalhe": "Faça upload no YouTube, use um título chamativo e meta-tags; depois faça a mesma rotina semanalmente."
+      }
+    ],
+    "fechamento": "Se quiser detalhar cada etapa e evitar armadilhas comuns, dá uma olhada no guia completo."
+  },
+  "texto_telegram_html": "<b>Checklist: Começando de Vidas com IA em 5 Min</b>\n\n<i>Quase todo mundo já viu anúncios vazios sobre IA e ficou desiludido. Aqui eu traço os passos reais que já usei para colocar algo de verdade no meu canal.</i>\n\n<b>1. Escolha o nicho</b>\n<code>Defina um tema que você conhece bem e tem paixão; isso reduz a curva de aprendizado.</code>\n\n<b>2. Ferramenta de IA</b>\n<code>Baixe o ChatGPT e o Synthesia, teste os planos gratuitos e veja qual entrega vídeo de qualidade.</code>\n\n<b>3. Roteiro simples</b>\n<code>Escreva um roteiro de 4 a 6 pontos; cada ponto vira uma cena de 15 segundos.</code>\n\n<b>4. Clone digital</b>\n<code>Crie um avatar com a ferramenta escolhida, configure voz, ajuste tom e teste em poucos cliques.</code>\n\n<b>5. Publique e repita</b>\n<code>Faça upload no YouTube, use um título chamativo e meta-tags; depois faça a mesma rotina semanalmente.</code>\n\n<i>Se quiser detalhar cada etapa e evitar armadilhas comuns, dá uma olhada no guia completo.</i>",
+  "parse_mode": "HTML",
+  "dor_principal_ancorada": "Ceticismo real sobre promessas de ganhar dinheiro rápido com IA, alimentado por casos documentados de propaganda enganosa em cursos do mesmo nicho (produtor diferente)",
+  "fonte_geracao": "gemini_ia",
+  "gerado_em": "2026-09-24T14:22:10"
+}
