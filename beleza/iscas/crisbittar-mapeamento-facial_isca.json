@@ -1,0 +1,37 @@
+{
+  "produto_id": "crisbittar-mapeamento-facial",
+  "hub_slug": "beleza",
+  "titulo": "Checklist: Escolha Correta de Maquiagem",
+  "conteudo": {
+    "titulo": "Checklist: Escolha Correta de Maquiagem",
+    "intro": "Já gasto caro em produtos que não combinam com meu rosto? Eu já estive aí, e o que aprendi mudou tudo.",
+    "passos": [
+      {
+        "titulo": "Defina seu tom base",
+        "detalhe": "Observe a zona de contorno natural e escolha base que iguale a pele, não a sombra."
+      },
+      {
+        "titulo": "Identifique o ponto de foco",
+        "detalhe": "Aproveite a área que chama mais atenção; use corretivo ou iluminador para destacar."
+      },
+      {
+        "titulo": "Separe por cores de suporte",
+        "detalhe": "Aplique blush, bronzer ou iluminador que reforcem a sua proporção facial."
+      },
+      {
+        "titulo": "Teste na luz natural",
+        "detalhe": "Fique perto de uma janela ou peça alguém para avaliar; ajuste se algo parecer fora do lugar."
+      },
+      {
+        "titulo": "Registre as combinações",
+        "detalhe": "Guarde as escolhas que funcionam em um caderno; isso economiza tempo e dinheiro futuro."
+      }
+    ],
+    "fechamento": "Se quiser aprofundar, o guia completo mostra como mapear seu rosto passo a passo."
+  },
+  "texto_telegram_html": "<b>Checklist: Escolha Correta de Maquiagem</b>\n\n<i>Já gasto caro em produtos que não combinam com meu rosto? Eu já estive aí, e o que aprendi mudou tudo.</i>\n\n<b>1. Defina seu tom base</b>\n<code>Observe a zona de contorno natural e escolha base que iguale a pele, não a sombra.</code>\n\n<b>2. Identifique o ponto de foco</b>\n<code>Aproveite a área que chama mais atenção; use corretivo ou iluminador para destacar.</code>\n\n<b>3. Separe por cores de suporte</b>\n<code>Aplique blush, bronzer ou iluminador que reforcem a sua proporção facial.</code>\n\n<b>4. Teste na luz natural</b>\n<code>Fique perto de uma janela ou peça alguém para avaliar; ajuste se algo parecer fora do lugar.</code>\n\n<b>5. Registre as combinações</b>\n<code>Guarde as escolhas que funcionam em um caderno; isso economiza tempo e dinheiro futuro.</code>\n\n<i>Se quiser aprofundar, o guia completo mostra como mapear seu rosto passo a passo.</i>",
+  "parse_mode": "HTML",
+  "dor_principal_ancorada": "Gastar dinheiro comprando produto de maquiagem errado, que não serve pro seu rosto/tom de pele, e nunca mais usar",
+  "fonte_geracao": "gemini_ia",
+  "gerado_em": "2026-09-24T14:13:35"
+}
