@@ -1,0 +1,37 @@
+{
+  "produto_id": "wsacupuntura-curso-acupuntura-formacao",
+  "hub_slug": "saude",
+  "titulo": "Checklist: 5 passos para conquistar clientes de acupuntura",
+  "conteudo": {
+    "titulo": "Checklist: 5 passos para conquistar clientes de acupuntura",
+    "intro": "Sabe aquele ciclo de buscar pacientes e não conseguir mantê-los? Eu já passei por isso e encontrei passos simples que funcionam.",
+    "passos": [
+      {
+        "titulo": "Crie um perfil de cliente ideal",
+        "detalhe": "Escreva quem procura seus serviços, seus problemas e onde ele costuma buscar ajuda."
+      },
+      {
+        "titulo": "Disponibilize atendimento online",
+        "detalhe": "Configure agenda virtual e ofereça consultas por vídeo; facilita o acesso e aumenta a frequência de visitas."
+      },
+      {
+        "titulo": "Solicite indicações após cada sessão",
+        "detalhe": "Peça ao paciente que indique amigos se ele ficou satisfeito. Indicações são o melhor tipo de divulgação."
+      },
+      {
+        "titulo": "Mantenha contato via lembretes",
+        "detalhe": "Envie mensagens de lembrete de consultas e dicas curtas de autocuidado. Isso mantém você na memória do paciente."
+      },
+      {
+        "titulo": "Ofereça pacotes de sessões",
+        "detalhe": "Monte combos de sessões com desconto. Pacientes que já compram um pacote tendem a continuar."
+      }
+    ],
+    "fechamento": "Se quiser aprofundar esses passos, basta acessar o guia completo que acompanha o Curso de Acupuntura – Formação (WSAcupuntura)."
+  },
+  "texto_telegram_html": "<b>Checklist: 5 passos para conquistar clientes de acupuntura</b>\n\n<i>Sabe aquele ciclo de buscar pacientes e não conseguir mantê-los? Eu já passei por isso e encontrei passos simples que funcionam.</i>\n\n<b>1. Crie um perfil de cliente ideal</b>\n<code>Escreva quem procura seus serviços, seus problemas e onde ele costuma buscar ajuda.</code>\n\n<b>2. Disponibilize atendimento online</b>\n<code>Configure agenda virtual e ofereça consultas por vídeo; facilita o acesso e aumenta a frequência de visitas.</code>\n\n<b>3. Solicite indicações após cada sessão</b>\n<code>Peça ao paciente que indique amigos se ele ficou satisfeito. Indicações são o melhor tipo de divulgação.</code>\n\n<b>4. Mantenha contato via lembretes</b>\n<code>Envie mensagens de lembrete de consultas e dicas curtas de autocuidado. Isso mantém você na memória do paciente.</code>\n\n<b>5. Ofereça pacotes de sessões</b>\n<code>Monte combos de sessões com desconto. Pacientes que já compram um pacote tendem a continuar.</code>\n\n<i>Se quiser aprofundar esses passos, basta acessar o guia completo que acompanha o Curso de Acupuntura – Formação (WSAcupuntura).</i>",
+  "parse_mode": "HTML",
+  "dor_principal_ancorada": "Dificuldade real e documentada de terapeutas/acupunturistas em conquistar e manter pacientes sem conhecimento de gestão/marketing",
+  "fonte_geracao": "gemini_ia",
+  "gerado_em": "2026-09-24T13:38:01"
+}
