@@ -1,37 +1,37 @@
 {
   "produto_id": "crisbittar-mapeamento-facial",
   "hub_slug": "beleza",
-  "titulo": "Checklist: Escolha Correta de Maquiagem",
+  "titulo": "Checklist Rápido: Mapeie a Maquiagem Ideal",
   "conteudo": {
-    "titulo": "Checklist: Escolha Correta de Maquiagem",
-    "intro": "Já gasto caro em produtos que não combinam com meu rosto? Eu já estive aí, e o que aprendi mudou tudo.",
+    "titulo": "Checklist Rápido: Mapeie a Maquiagem Ideal",
+    "intro": "Chega de gastar dinheiro com produtos que não combinam com seu rosto e tom de pele, deixando você desanimada.",
     "passos": [
       {
-        "titulo": "Defina seu tom base",
-        "detalhe": "Observe a zona de contorno natural e escolha base que iguale a pele, não a sombra."
+        "titulo": "Avalie seu tom de pele",
+        "detalhe": "Observe a cor dos vasos sanguíneos na parte interna do braço: se verde, quente; se azul, frio. Use isso para escolher bases neutros ou frios."
       },
       {
-        "titulo": "Identifique o ponto de foco",
-        "detalhe": "Aproveite a área que chama mais atenção; use corretivo ou iluminador para destacar."
+        "titulo": "Identifique sua textura",
+        "detalhe": "Toque a pele ao redor do nariz e testa. Se áspera, busque produtos com ácido glicólico; se oleosa, prefira formulações matte."
       },
       {
-        "titulo": "Separe por cores de suporte",
-        "detalhe": "Aplique blush, bronzer ou iluminador que reforcem a sua proporção facial."
+        "titulo": "Determine proporção facial",
+        "detalhe": "Meça a distância entre o centro dos olhos, a ponta do nariz e o centro da bochecha. Isso ajuda a escolher o formato de contorno que realça sua estrutura."
       },
       {
-        "titulo": "Teste na luz natural",
-        "detalhe": "Fique perto de uma janela ou peça alguém para avaliar; ajuste se algo parecer fora do lugar."
+        "titulo": "Teste no reflexo",
+        "detalhe": "Aplique um pouco de base na lateral do rosto e veja como ela se mistura com seu tom natural. Ajuste se ficar muito clara ou escura."
       },
       {
-        "titulo": "Registre as combinações",
-        "detalhe": "Guarde as escolhas que funcionam em um caderno; isso economiza tempo e dinheiro futuro."
+        "titulo": "Registre suas escolhas",
+        "detalhe": "Anote os nomes dos produtos e a combinação de cores que funcionou. Isso evita repetir erros futuros."
       }
     ],
-    "fechamento": "Se quiser aprofundar, o guia completo mostra como mapear seu rosto passo a passo."
+    "fechamento": "Pronto, você já tem os primeiros passos práticos. Quer ir mais fundo? Confira o guia completo."
   },
-  "texto_telegram_html": "<b>Checklist: Escolha Correta de Maquiagem</b>\n\n<i>Já gasto caro em produtos que não combinam com meu rosto? Eu já estive aí, e o que aprendi mudou tudo.</i>\n\n<b>1. Defina seu tom base</b>\n<code>Observe a zona de contorno natural e escolha base que iguale a pele, não a sombra.</code>\n\n<b>2. Identifique o ponto de foco</b>\n<code>Aproveite a área que chama mais atenção; use corretivo ou iluminador para destacar.</code>\n\n<b>3. Separe por cores de suporte</b>\n<code>Aplique blush, bronzer ou iluminador que reforcem a sua proporção facial.</code>\n\n<b>4. Teste na luz natural</b>\n<code>Fique perto de uma janela ou peça alguém para avaliar; ajuste se algo parecer fora do lugar.</code>\n\n<b>5. Registre as combinações</b>\n<code>Guarde as escolhas que funcionam em um caderno; isso economiza tempo e dinheiro futuro.</code>\n\n<i>Se quiser aprofundar, o guia completo mostra como mapear seu rosto passo a passo.</i>",
+  "texto_telegram_html": "<b>Checklist Rápido: Mapeie a Maquiagem Ideal</b>\n\n<i>Chega de gastar dinheiro com produtos que não combinam com seu rosto e tom de pele, deixando você desanimada.</i>\n\n<b>1. Avalie seu tom de pele</b>\n<code>Observe a cor dos vasos sanguíneos na parte interna do braço: se verde, quente; se azul, frio. Use isso para escolher bases neutros ou frios.</code>\n\n<b>2. Identifique sua textura</b>\n<code>Toque a pele ao redor do nariz e testa. Se áspera, busque produtos com ácido glicólico; se oleosa, prefira formulações matte.</code>\n\n<b>3. Determine proporção facial</b>\n<code>Meça a distância entre o centro dos olhos, a ponta do nariz e o centro da bochecha. Isso ajuda a escolher o formato de contorno que realça sua estrutura.</code>\n\n<b>4. Teste no reflexo</b>\n<code>Aplique um pouco de base na lateral do rosto e veja como ela se mistura com seu tom natural. Ajuste se ficar muito clara ou escura.</code>\n\n<b>5. Registre suas escolhas</b>\n<code>Anote os nomes dos produtos e a combinação de cores que funcionou. Isso evita repetir erros futuros.</code>\n\n<i>Pronto, você já tem os primeiros passos práticos. Quer ir mais fundo? Confira o guia completo.</i>",
   "parse_mode": "HTML",
   "dor_principal_ancorada": "Gastar dinheiro comprando produto de maquiagem errado, que não serve pro seu rosto/tom de pele, e nunca mais usar",
   "fonte_geracao": "gemini_ia",
-  "gerado_em": "2026-09-24T14:13:35"
+  "gerado_em": "2026-09-24T15:27:02"
 }
