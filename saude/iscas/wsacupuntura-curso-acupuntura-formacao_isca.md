@@ -1,11 +1,11 @@
-# Checklist: 5 passos para conquistar clientes de acupuntura
+# Checklist: Conquistar e Manter Pacientes em 5 Passos
 
-_Sabe aquele ciclo de buscar pacientes e não conseguir mantê-los? Eu já passei por isso e encontrei passos simples que funcionam._
+_Sei que você sente a frustração de tentar atrair novos pacientes sem saber por onde começar, e que a falta de marketing deixa sua clínica vazia._
 
-1. **Crie um perfil de cliente ideal** — Escreva quem procura seus serviços, seus problemas e onde ele costuma buscar ajuda.
-2. **Disponibilize atendimento online** — Configure agenda virtual e ofereça consultas por vídeo; facilita o acesso e aumenta a frequência de visitas.
-3. **Solicite indicações após cada sessão** — Peça ao paciente que indique amigos se ele ficou satisfeito. Indicações são o melhor tipo de divulgação.
-4. **Mantenha contato via lembretes** — Envie mensagens de lembrete de consultas e dicas curtas de autocuidado. Isso mantém você na memória do paciente.
-5. **Ofereça pacotes de sessões** — Monte combos de sessões com desconto. Pacientes que já compram um pacote tendem a continuar.
+1. **Defina seu nicho de público** — Escolha quem vai cuidar: mulheres gestantes, atletas, idosos... Crie um perfil de paciente ideal e guie todas as suas ações.
+2. **Crie uma promessa clara de resultado** — Escreva uma frase curta que mostre o que o paciente ganha com sua sessão de acupuntura – não promessas vagas, mas benefícios específicos.
+3. **Estabeleça canais de contato** — Configure seu WhatsApp, e-mail e Instagram com links de agendamento direto; teste cada link para garantir funcionamento.
+4. **Ofereça conteúdo gratuito** — Publique vídeos curtos explicando um ponto de acupuntura ou benefícios da medicina tradicional chinesa; peça ao final um contato para mais informações.
+5. **Solicite referências de forma sutil** — Após a sessão, pergunte se o paciente conhece alguém que também precise de acupuntura e ofereça um cartão de visita com um convite.
 
-_Se quiser aprofundar esses passos, basta acessar o guia completo que acompanha o Curso de Acupuntura – Formação (WSAcupuntura)._
+_Se quiser aprofundar cada passo e transformar esses primeiros resultados em uma rotina de crescimento, dê uma olhada no nosso guia completo._

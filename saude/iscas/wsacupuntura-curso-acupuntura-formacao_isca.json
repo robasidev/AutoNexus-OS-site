@@ -1,37 +1,37 @@
 {
   "produto_id": "wsacupuntura-curso-acupuntura-formacao",
   "hub_slug": "saude",
-  "titulo": "Checklist: 5 passos para conquistar clientes de acupuntura",
+  "titulo": "Checklist: Conquistar e Manter Pacientes em 5 Passos",
   "conteudo": {
-    "titulo": "Checklist: 5 passos para conquistar clientes de acupuntura",
-    "intro": "Sabe aquele ciclo de buscar pacientes e não conseguir mantê-los? Eu já passei por isso e encontrei passos simples que funcionam.",
+    "titulo": "Checklist: Conquistar e Manter Pacientes em 5 Passos",
+    "intro": "Sei que você sente a frustração de tentar atrair novos pacientes sem saber por onde começar, e que a falta de marketing deixa sua clínica vazia.",
     "passos": [
       {
-        "titulo": "Crie um perfil de cliente ideal",
-        "detalhe": "Escreva quem procura seus serviços, seus problemas e onde ele costuma buscar ajuda."
+        "titulo": "Defina seu nicho de público",
+        "detalhe": "Escolha quem vai cuidar: mulheres gestantes, atletas, idosos... Crie um perfil de paciente ideal e guie todas as suas ações."
       },
       {
-        "titulo": "Disponibilize atendimento online",
-        "detalhe": "Configure agenda virtual e ofereça consultas por vídeo; facilita o acesso e aumenta a frequência de visitas."
+        "titulo": "Crie uma promessa clara de resultado",
+        "detalhe": "Escreva uma frase curta que mostre o que o paciente ganha com sua sessão de acupuntura – não promessas vagas, mas benefícios específicos."
       },
       {
-        "titulo": "Solicite indicações após cada sessão",
-        "detalhe": "Peça ao paciente que indique amigos se ele ficou satisfeito. Indicações são o melhor tipo de divulgação."
+        "titulo": "Estabeleça canais de contato",
+        "detalhe": "Configure seu WhatsApp, e-mail e Instagram com links de agendamento direto; teste cada link para garantir funcionamento."
       },
       {
-        "titulo": "Mantenha contato via lembretes",
-        "detalhe": "Envie mensagens de lembrete de consultas e dicas curtas de autocuidado. Isso mantém você na memória do paciente."
+        "titulo": "Ofereça conteúdo gratuito",
+        "detalhe": "Publique vídeos curtos explicando um ponto de acupuntura ou benefícios da medicina tradicional chinesa; peça ao final um contato para mais informações."
       },
       {
-        "titulo": "Ofereça pacotes de sessões",
-        "detalhe": "Monte combos de sessões com desconto. Pacientes que já compram um pacote tendem a continuar."
+        "titulo": "Solicite referências de forma sutil",
+        "detalhe": "Após a sessão, pergunte se o paciente conhece alguém que também precise de acupuntura e ofereça um cartão de visita com um convite."
       }
     ],
-    "fechamento": "Se quiser aprofundar esses passos, basta acessar o guia completo que acompanha o Curso de Acupuntura – Formação (WSAcupuntura)."
+    "fechamento": "Se quiser aprofundar cada passo e transformar esses primeiros resultados em uma rotina de crescimento, dê uma olhada no nosso guia completo."
   },
-  "texto_telegram_html": "<b>Checklist: 5 passos para conquistar clientes de acupuntura</b>\n\n<i>Sabe aquele ciclo de buscar pacientes e não conseguir mantê-los? Eu já passei por isso e encontrei passos simples que funcionam.</i>\n\n<b>1. Crie um perfil de cliente ideal</b>\n<code>Escreva quem procura seus serviços, seus problemas e onde ele costuma buscar ajuda.</code>\n\n<b>2. Disponibilize atendimento online</b>\n<code>Configure agenda virtual e ofereça consultas por vídeo; facilita o acesso e aumenta a frequência de visitas.</code>\n\n<b>3. Solicite indicações após cada sessão</b>\n<code>Peça ao paciente que indique amigos se ele ficou satisfeito. Indicações são o melhor tipo de divulgação.</code>\n\n<b>4. Mantenha contato via lembretes</b>\n<code>Envie mensagens de lembrete de consultas e dicas curtas de autocuidado. Isso mantém você na memória do paciente.</code>\n\n<b>5. Ofereça pacotes de sessões</b>\n<code>Monte combos de sessões com desconto. Pacientes que já compram um pacote tendem a continuar.</code>\n\n<i>Se quiser aprofundar esses passos, basta acessar o guia completo que acompanha o Curso de Acupuntura – Formação (WSAcupuntura).</i>",
+  "texto_telegram_html": "<b>Checklist: Conquistar e Manter Pacientes em 5 Passos</b>\n\n<i>Sei que você sente a frustração de tentar atrair novos pacientes sem saber por onde começar, e que a falta de marketing deixa sua clínica vazia.</i>\n\n<b>1. Defina seu nicho de público</b>\n<code>Escolha quem vai cuidar: mulheres gestantes, atletas, idosos... Crie um perfil de paciente ideal e guie todas as suas ações.</code>\n\n<b>2. Crie uma promessa clara de resultado</b>\n<code>Escreva uma frase curta que mostre o que o paciente ganha com sua sessão de acupuntura – não promessas vagas, mas benefícios específicos.</code>\n\n<b>3. Estabeleça canais de contato</b>\n<code>Configure seu WhatsApp, e-mail e Instagram com links de agendamento direto; teste cada link para garantir funcionamento.</code>\n\n<b>4. Ofereça conteúdo gratuito</b>\n<code>Publique vídeos curtos explicando um ponto de acupuntura ou benefícios da medicina tradicional chinesa; peça ao final um contato para mais informações.</code>\n\n<b>5. Solicite referências de forma sutil</b>\n<code>Após a sessão, pergunte se o paciente conhece alguém que também precise de acupuntura e ofereça um cartão de visita com um convite.</code>\n\n<i>Se quiser aprofundar cada passo e transformar esses primeiros resultados em uma rotina de crescimento, dê uma olhada no nosso guia completo.</i>",
   "parse_mode": "HTML",
   "dor_principal_ancorada": "Dificuldade real e documentada de terapeutas/acupunturistas em conquistar e manter pacientes sem conhecimento de gestão/marketing",
   "fonte_geracao": "gemini_ia",
-  "gerado_em": "2026-09-24T13:38:01"
+  "gerado_em": "2026-09-24T14:50:38"
 }
