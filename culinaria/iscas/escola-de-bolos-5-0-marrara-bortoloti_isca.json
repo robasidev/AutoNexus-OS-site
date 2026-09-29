@@ -1,0 +1,45 @@
+{
+  "produto_id": "escola-de-bolos-5-0-marrara-bortoloti",
+  "hub_slug": "culinaria",
+  "titulo": "Checklist Rápido: Bolo de Andar sem Erros",
+  "conteudo": {
+    "titulo": "Checklist Rápido: Bolo de Andar sem Erros",
+    "intro": "Você já tentou montar aquele bolo de andar e acabou com chantilly desandando ou a estrutura tombando? Já viu o vídeo e se perguntou se o curso pago resolve esse caos.",
+    "passos": [
+      {
+        "titulo": "Verifique a temperatura dos ingredientes",
+        "detalhe": "Assegure que ovos, leite e manteiga estejam em temperatura ambiente; isso evita choque térmico na massa."
+      },
+      {
+        "titulo": "Use a proporção correta de farinha",
+        "detalhe": "Pese 100g de farinha para cada 200g de massa; medir ao invés de colher ajuda a manter a leveza."
+      },
+      {
+        "titulo": "Bata a massa no ritmo certo",
+        "detalhe": "Misture rapidamente por 30 segundos, depois deixe descansar 5 minutos antes de montar; isso previne a perda de ar."
+      },
+      {
+        "titulo": "Monte em camadas uniformes",
+        "detalhe": "Espalhe cada bolo com espátula de aço, pressione levemente e deixe firme; não sobrecarregue o centro para evitar queda."
+      },
+      {
+        "titulo": "Espere a refrigeração completa",
+        "detalhe": "Coloque no freezer 20 min antes de aplicar chantilly; a massa firme mantém a forma."
+      },
+      {
+        "titulo": "Finalize com chantilly fresco",
+        "detalhe": "Bata chantilly na velocidade média, adicione açúcar apenas quando atingir picos suaves; aplique com espátula, mantendo o centro firme."
+      },
+      {
+        "titulo": "Faça o teste de estabilidade",
+        "detalhe": "Sobe um dedo no centro; se a massa cede, deixe descansar 5 minutos antes de servir; isso garante que não desanda."
+      }
+    ],
+    "fechamento": "Quer ir mais fundo? Confira nosso guia completo para dominar bolos de andar sem surpresas."
+  },
+  "texto_telegram_html": "<b>Checklist Rápido: Bolo de Andar sem Erros</b>\n\n<i>Você já tentou montar aquele bolo de andar e acabou com chantilly desandando ou a estrutura tombando? Já viu o vídeo e se perguntou se o curso pago resolve esse caos.</i>\n\n<b>1. Verifique a temperatura dos ingredientes</b>\n<code>Assegure que ovos, leite e manteiga estejam em temperatura ambiente; isso evita choque térmico na massa.</code>\n\n<b>2. Use a proporção correta de farinha</b>\n<code>Pese 100g de farinha para cada 200g de massa; medir ao invés de colher ajuda a manter a leveza.</code>\n\n<b>3. Bata a massa no ritmo certo</b>\n<code>Misture rapidamente por 30 segundos, depois deixe descansar 5 minutos antes de montar; isso previne a perda de ar.</code>\n\n<b>4. Monte em camadas uniformes</b>\n<code>Espalhe cada bolo com espátula de aço, pressione levemente e deixe firme; não sobrecarregue o centro para evitar queda.</code>\n\n<b>5. Espere a refrigeração completa</b>\n<code>Coloque no freezer 20 min antes de aplicar chantilly; a massa firme mantém a forma.</code>\n\n<b>6. Finalize com chantilly fresco</b>\n<code>Bata chantilly na velocidade média, adicione açúcar apenas quando atingir picos suaves; aplique com espátula, mantendo o centro firme.</code>\n\n<b>7. Faça o teste de estabilidade</b>\n<code>Sobe um dedo no centro; se a massa cede, deixe descansar 5 minutos antes de servir; isso garante que não desanda.</code>\n\n<i>Quer ir mais fundo? Confira nosso guia completo para dominar bolos de andar sem surpresas.</i>",
+  "parse_mode": "HTML",
+  "dor_principal_ancorada": "Errar receita (chantilly desandando, bolo de andar tombando) juntando vídeo solto, sem saber se o curso pago organiza melhor e se o valor volta vendendo",
+  "fonte_geracao": "gemini_ia",
+  "gerado_em": "2026-09-29T11:16:31"
+}

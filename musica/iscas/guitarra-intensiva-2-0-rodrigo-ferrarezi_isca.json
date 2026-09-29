@@ -1,0 +1,37 @@
+{
+  "produto_id": "guitarra-intensiva-2-0-rodrigo-ferrarezi",
+  "hub_slug": "musica",
+  "titulo": "Checklist Rápido: 5 Passos para Dominar Acordes",
+  "conteudo": {
+    "titulo": "Checklist Rápido: 5 Passos para Dominar Acordes",
+    "intro": "Cansado de vídeos soltos e não saber por onde começar? Eu já passei por isso e encontrei o método que resolve.",
+    "passos": [
+      {
+        "titulo": "Organize seu Estúdio",
+        "detalhe": "Escolha um local silencioso, coloque a guitarra em posição confortável, ajuste o amplificador ou fones para ouvir cada detalhe."
+      },
+      {
+        "titulo": "Aprenda 3 Acordes Básicos",
+        "detalhe": "Pratique Dó, Sol e Ré em velocidade lenta, focando na transição suave entre eles."
+      },
+      {
+        "titulo": "Defina uma Meta de Tempo",
+        "detalhe": "Estabeleça 10 minutos diários de prática focada apenas nesses acordes, sem distrações."
+      },
+      {
+        "titulo": "Use um Metronomo",
+        "detalhe": "Ajuste a batida para 60 BPM, mexa a mão e a corda ao mesmo tempo até a cadência ficar natural."
+      },
+      {
+        "titulo": "Grave e Reavalie",
+        "detalhe": "Faça gravações rápidas de sua prática e ouça para identificar falhas de ritmo ou afinação."
+      }
+    ],
+    "fechamento": "Se quiser mergulhar mais fundo em escalas e solos, o guia completo da Guitarra Intensiva 2.0 tem tudo isso."
+  },
+  "texto_telegram_html": "<b>Checklist Rápido: 5 Passos para Dominar Acordes</b>\n\n<i>Cansado de vídeos soltos e não saber por onde começar? Eu já passei por isso e encontrei o método que resolve.</i>\n\n<b>1. Organize seu Estúdio</b>\n<code>Escolha um local silencioso, coloque a guitarra em posição confortável, ajuste o amplificador ou fones para ouvir cada detalhe.</code>\n\n<b>2. Aprenda 3 Acordes Básicos</b>\n<code>Pratique Dó, Sol e Ré em velocidade lenta, focando na transição suave entre eles.</code>\n\n<b>3. Defina uma Meta de Tempo</b>\n<code>Estabeleça 10 minutos diários de prática focada apenas nesses acordes, sem distrações.</code>\n\n<b>4. Use um Metronomo</b>\n<code>Ajuste a batida para 60 BPM, mexa a mão e a corda ao mesmo tempo até a cadência ficar natural.</code>\n\n<b>5. Grave e Reavalie</b>\n<code>Faça gravações rápidas de sua prática e ouça para identificar falhas de ritmo ou afinação.</code>\n\n<i>Se quiser mergulhar mais fundo em escalas e solos, o guia completo da Guitarra Intensiva 2.0 tem tudo isso.</i>",
+  "parse_mode": "HTML",
+  "dor_principal_ancorada": "Aprender guitarra sozinho com vídeos soltos, travar no básico por falta de método e de alguém corrigindo, e desistir",
+  "fonte_geracao": "gemini_ia",
+  "gerado_em": "2026-09-29T12:03:29"
+}

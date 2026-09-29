@@ -1,0 +1,37 @@
+{
+  "produto_id": "bem-me-quero-pamela-magalhaes",
+  "hub_slug": "saude",
+  "titulo": "Checklist Rápido: Reforçando Autoestima em 5 Passos",
+  "conteudo": {
+    "titulo": "Checklist Rápido: Reforçando Autoestima em 5 Passos",
+    "intro": "Já sentiu que a comparação te impede de dizer não? Descobri que pequenos ajustes já mudam o jogo.",
+    "passos": [
+      {
+        "titulo": "Liste suas vitórias",
+        "detalhe": "Anote 3 conquistas de hoje, mesmo as pequenas, e guardá‑las num caderno. Isso muda a percepção do seu valor."
+      },
+      {
+        "titulo": "Identifique gatilhos",
+        "detalhe": "Observe em que situações você sente baixa autoestima e anote o que dispara. Reconhecer ajuda a evitá‑lo."
+      },
+      {
+        "titulo": "Pratique o ‘eu mereço’",
+        "detalhe": "Repita, em voz alta, frases afirmativas como ‘Eu mereço respeito’ três vezes ao dia, antes de dormir. Reforça o amor próprio."
+      },
+      {
+        "titulo": "Defina limite simples",
+        "detalhe": "Escolha uma área, como responder mensagens, e estabeleça um horário limite. Aplique e ajuste depois."
+      },
+      {
+        "titulo": "Busque apoio real",
+        "detalhe": "Conecte‑se com alguém de confiança e converse sobre suas inseguranças. Conversa fora da tela dá perspectiva."
+      }
+    ],
+    "fechamento": "Quer ir mais fundo? Veja o guia completo."
+  },
+  "texto_telegram_html": "<b>Checklist Rápido: Reforçando Autoestima em 5 Passos</b>\n\n<i>Já sentiu que a comparação te impede de dizer não? Descobri que pequenos ajustes já mudam o jogo.</i>\n\n<b>1. Liste suas vitórias</b>\n<code>Anote 3 conquistas de hoje, mesmo as pequenas, e guardá‑las num caderno. Isso muda a percepção do seu valor.</code>\n\n<b>2. Identifique gatilhos</b>\n<code>Observe em que situações você sente baixa autoestima e anote o que dispara. Reconhecer ajuda a evitá‑lo.</code>\n\n<b>3. Pratique o ‘eu mereço’</b>\n<code>Repita, em voz alta, frases afirmativas como ‘Eu mereço respeito’ três vezes ao dia, antes de dormir. Reforça o amor próprio.</code>\n\n<b>4. Defina limite simples</b>\n<code>Escolha uma área, como responder mensagens, e estabeleça um horário limite. Aplique e ajuste depois.</code>\n\n<b>5. Busque apoio real</b>\n<code>Conecte‑se com alguém de confiança e converse sobre suas inseguranças. Conversa fora da tela dá perspectiva.</code>\n\n<i>Quer ir mais fundo? Veja o guia completo.</i>",
+  "parse_mode": "HTML",
+  "dor_principal_ancorada": "Baixa autoestima que se traduz em comparação constante, dificuldade de impor limites e repetição de relações ruins, sem saber se um curso online resolve mais que frase motivacional",
+  "fonte_geracao": "gemini_ia",
+  "gerado_em": "2026-09-29T11:18:52"
+}
