@@ -1,0 +1,37 @@
+{
+  "produto_id": "formacao-massoterapia-online-webhoje",
+  "hub_slug": "saude",
+  "titulo": "Checklist rápido: certificado reconhecido?",
+  "conteudo": {
+    "titulo": "Checklist rápido: certificado reconhecido?",
+    "intro": "Sabe aquela dúvida de saber se o certificado online te abre portas para atender? Já vi gente ficar perdida por falta de reconhecimento e prática supervisionada.",
+    "passos": [
+      {
+        "titulo": "Confirme a acreditação",
+        "detalhe": "Procure a lista de cursos aprovados pelo MEC na página do órgão. Se o nome não aparecer, a credibilidade é questionável."
+      },
+      {
+        "titulo": "Verifique a grade curricular",
+        "detalhe": "O curso deve ter pelo menos 1.200 horas, com módulos práticos e teóricos. Se faltar horas, a formação não cobre a prática."
+      },
+      {
+        "titulo": "Teste a prática supervisionada",
+        "detalhe": "Peça ao instrutor um relatório de prática supervisionada ou acompanhe uma aula ao vivo. A falta de supervisão indica risco de técnicas inseguras."
+      },
+      {
+        "titulo": "Avalie o conteúdo de técnicas",
+        "detalhe": "Liste as técnicas ensinadas. Se o curso cobrir apenas massagens básicas, você não terá o nível necessário para clientes avançados."
+      },
+      {
+        "titulo": "Cheque o certificado final",
+        "detalhe": "O documento deve ter carimbo, assinatura e número de série. Se não houver, solicite esclarecimentos antes de aceitar."
+      }
+    ],
+    "fechamento": "Quer ir mais fundo? Veja o guia completo."
+  },
+  "texto_telegram_html": "<b>Checklist rápido: certificado reconhecido?</b>\n\n<i>Sabe aquela dúvida de saber se o certificado online te abre portas para atender? Já vi gente ficar perdida por falta de reconhecimento e prática supervisionada.</i>\n\n<b>1. Confirme a acreditação</b>\n<code>Procure a lista de cursos aprovados pelo MEC na página do órgão. Se o nome não aparecer, a credibilidade é questionável.</code>\n\n<b>2. Verifique a grade curricular</b>\n<code>O curso deve ter pelo menos 1.200 horas, com módulos práticos e teóricos. Se faltar horas, a formação não cobre a prática.</code>\n\n<b>3. Teste a prática supervisionada</b>\n<code>Peça ao instrutor um relatório de prática supervisionada ou acompanhe uma aula ao vivo. A falta de supervisão indica risco de técnicas inseguras.</code>\n\n<b>4. Avalie o conteúdo de técnicas</b>\n<code>Liste as técnicas ensinadas. Se o curso cobrir apenas massagens básicas, você não terá o nível necessário para clientes avançados.</code>\n\n<b>5. Cheque o certificado final</b>\n<code>O documento deve ter carimbo, assinatura e número de série. Se não houver, solicite esclarecimentos antes de aceitar.</code>\n\n<i>Quer ir mais fundo? Veja o guia completo.</i>",
+  "parse_mode": "HTML",
+  "dor_principal_ancorada": "Não saber se um certificado de curso online de massoterapia é reconhecido e permite atender clientes, nem se dá pra aprender pressão e toque sem prática supervisionada",
+  "fonte_geracao": "gemini_ia",
+  "gerado_em": "2026-10-02T10:41:30"
+}

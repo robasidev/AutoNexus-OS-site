@@ -1,0 +1,41 @@
+{
+  "produto_id": "academia-de-portugues-alvaro-ferreira",
+  "hub_slug": "educacao",
+  "titulo": "Checklist Rápido de Crase e Concordância",
+  "conteudo": {
+    "titulo": "Checklist Rápido de Crase e Concordância",
+    "intro": "Sabe aquele sentimento de ter estudado demais e ainda cair na crase ou na concordância na prova? Eu já passei por isso e resolvi dar um jeito.",
+    "passos": [
+      {
+        "titulo": "Verifique o tipo de palavra",
+        "detalhe": "Antes de usar a crase, confirme se o termo seguinte é feminino e exigível. Se for nome próprio ou pronome, pule."
+      },
+      {
+        "titulo": "Rastreie a regência na frase",
+        "detalhe": "Leia a frase de trás para frente, encontre o verbo e veja se ele pede preposição 'de' ou 'a'. Se não, a crase não entra."
+      },
+      {
+        "titulo": "Use o teste do 'sem' e 'a'",
+        "detalhe": "Substitua a palavra por 'sem + substantivo' ou 'a + substantivo' e veja se a preposição muda. Se mudar, a crase está correta."
+      },
+      {
+        "titulo": "Ajuste a concordância verbal",
+        "detalhe": "Conte os sujeitos, verifique se o verbo está em singular ou plural e alinhe. Se houver verbo de ligação, lembre que o predicativo concorda com o sujeito."
+      },
+      {
+        "titulo": "Cheque a pontuação antes de fechar",
+        "detalhe": "Identifique vírgulas que separam orações, pois a crase não ocorre entre palavras separadas por vírgula. Se houver, ajuste."
+      },
+      {
+        "titulo": "Revise no contexto do texto",
+        "detalhe": "Leia a frase inteira de novo, garanta que a crase faça sentido no fluxo. Se parecer forçado, teste outra construção."
+      }
+    ],
+    "fechamento": "Pronto! Se quiser aprofundar essas regras e ter um guia completo, dá uma olhada no nosso material completo."
+  },
+  "texto_telegram_html": "<b>Checklist Rápido de Crase e Concordância</b>\n\n<i>Sabe aquele sentimento de ter estudado demais e ainda cair na crase ou na concordância na prova? Eu já passei por isso e resolvi dar um jeito.</i>\n\n<b>1. Verifique o tipo de palavra</b>\n<code>Antes de usar a crase, confirme se o termo seguinte é feminino e exigível. Se for nome próprio ou pronome, pule.</code>\n\n<b>2. Rastreie a regência na frase</b>\n<code>Leia a frase de trás para frente, encontre o verbo e veja se ele pede preposição 'de' ou 'a'. Se não, a crase não entra.</code>\n\n<b>3. Use o teste do 'sem' e 'a'</b>\n<code>Substitua a palavra por 'sem + substantivo' ou 'a + substantivo' e veja se a preposição muda. Se mudar, a crase está correta.</code>\n\n<b>4. Ajuste a concordância verbal</b>\n<code>Conte os sujeitos, verifique se o verbo está em singular ou plural e alinhe. Se houver verbo de ligação, lembre que o predicativo concorda com o sujeito.</code>\n\n<b>5. Cheque a pontuação antes de fechar</b>\n<code>Identifique vírgulas que separam orações, pois a crase não ocorre entre palavras separadas por vírgula. Se houver, ajuste.</code>\n\n<b>6. Revise no contexto do texto</b>\n<code>Leia a frase inteira de novo, garanta que a crase faça sentido no fluxo. Se parecer forçado, teste outra construção.</code>\n\n<i>Pronto! Se quiser aprofundar essas regras e ter um guia completo, dá uma olhada no nosso material completo.</i>",
+  "parse_mode": "HTML",
+  "dor_principal_ancorada": "Estudar gramática e continuar errando crase, concordância e pontuação na prova porque responde pela intuição, sem método",
+  "fonte_geracao": "gemini_ia",
+  "gerado_em": "2026-10-02T10:43:53"
+}
