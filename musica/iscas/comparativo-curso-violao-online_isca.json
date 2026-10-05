@@ -1,0 +1,45 @@
+{
+  "produto_id": "comparativo-curso-violao-online",
+  "hub_slug": "musica",
+  "titulo": "Checklist rápido para quem aprende violão do YouTube",
+  "conteudo": {
+    "titulo": "Checklist rápido para quem aprende violão do YouTube",
+    "intro": "Se você já ficou preso depois de montar a primeira escala ou tentar mudar de acorde sem saber por onde começar, eu já passei por isso.",
+    "passos": [
+      {
+        "titulo": "Revisar o básico do instrumento",
+        "detalhe": "Faça um pulso completo: afinação, postura, e o toque de cada corda sem olhar para o braço."
+      },
+      {
+        "titulo": "Definir metas claras de curto prazo",
+        "detalhe": "Escolha um trecho de música ou acorde que quer dominar nos próximos 7 dias e anote o objetivo."
+      },
+      {
+        "titulo": "Criar cronograma diário",
+        "detalhe": "Aloque 15 minutos para prática focada, 5 minutos para revisão de acordes e 5 minutos para escutar a referência."
+      },
+      {
+        "titulo": "Utilizar recursos de feedback",
+        "detalhe": "Grave suas sessões e compare com a gravação original ou peça opinião de um amigo que toca."
+      },
+      {
+        "titulo": "Estudar teoria aplicada",
+        "detalhe": "Leia 2 páginas de teoria que explicam a progressão escolhida e aplique no seu exercício."
+      },
+      {
+        "titulo": "Aumentar a variedade de gêneros",
+        "detalhe": "Tente transpor a mesma progressão para blues, pop ou sertanejo; isso mantém o interesse e ensina novas nuances."
+      },
+      {
+        "titulo": "Documentar o progresso",
+        "detalhe": "Mantenha um diário de treinos com notas sobre dificuldades e conquistas, revisite no final da semana."
+      }
+    ],
+    "fechamento": "Se quiser aprofundar essas estratégias e descobrir um caminho estruturado, dê uma olhada no guia completo."
+  },
+  "texto_telegram_html": "<b>Checklist rápido para quem aprende violão do YouTube</b>\n\n<i>Se você já ficou preso depois de montar a primeira escala ou tentar mudar de acorde sem saber por onde começar, eu já passei por isso.</i>\n\n<b>1. Revisar o básico do instrumento</b>\n<code>Faça um pulso completo: afinação, postura, e o toque de cada corda sem olhar para o braço.</code>\n\n<b>2. Definir metas claras de curto prazo</b>\n<code>Escolha um trecho de música ou acorde que quer dominar nos próximos 7 dias e anote o objetivo.</code>\n\n<b>3. Criar cronograma diário</b>\n<code>Aloque 15 minutos para prática focada, 5 minutos para revisão de acordes e 5 minutos para escutar a referência.</code>\n\n<b>4. Utilizar recursos de feedback</b>\n<code>Grave suas sessões e compare com a gravação original ou peça opinião de um amigo que toca.</code>\n\n<b>5. Estudar teoria aplicada</b>\n<code>Leia 2 páginas de teoria que explicam a progressão escolhida e aplique no seu exercício.</code>\n\n<b>6. Aumentar a variedade de gêneros</b>\n<code>Tente transpor a mesma progressão para blues, pop ou sertanejo; isso mantém o interesse e ensina novas nuances.</code>\n\n<b>7. Documentar o progresso</b>\n<code>Mantenha um diário de treinos com notas sobre dificuldades e conquistas, revisite no final da semana.</code>\n\n<i>Se quiser aprofundar essas estratégias e descobrir um caminho estruturado, dê uma olhada no guia completo.</i>",
+  "parse_mode": "HTML",
+  "dor_principal_ancorada": "Aprender violão sozinho pelo YouTube sem saber o que estudar em seguida",
+  "fonte_geracao": "gemini_ia",
+  "gerado_em": "2026-10-05T12:46:22"
+}
