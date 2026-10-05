@@ -1,13 +1,12 @@
-# Checklist rápido para quem aprende violão do YouTube
+# Checklist Rápido: Próximos Passos no Violão
 
-_Se você já ficou preso depois de montar a primeira escala ou tentar mudar de acorde sem saber por onde começar, eu já passei por isso._
+_Cansado de ficar preso ao YouTube sem saber por onde avançar?_
 
-1. **Revisar o básico do instrumento** — Faça um pulso completo: afinação, postura, e o toque de cada corda sem olhar para o braço.
-2. **Definir metas claras de curto prazo** — Escolha um trecho de música ou acorde que quer dominar nos próximos 7 dias e anote o objetivo.
-3. **Criar cronograma diário** — Aloque 15 minutos para prática focada, 5 minutos para revisão de acordes e 5 minutos para escutar a referência.
-4. **Utilizar recursos de feedback** — Grave suas sessões e compare com a gravação original ou peça opinião de um amigo que toca.
-5. **Estudar teoria aplicada** — Leia 2 páginas de teoria que explicam a progressão escolhida e aplique no seu exercício.
-6. **Aumentar a variedade de gêneros** — Tente transpor a mesma progressão para blues, pop ou sertanejo; isso mantém o interesse e ensina novas nuances.
-7. **Documentar o progresso** — Mantenha um diário de treinos com notas sobre dificuldades e conquistas, revisite no final da semana.
+1. **Organize seu repertório** — Escolha três músicas simples e anote os acordes para praticar.
+2. **Defina metas semanais** — Estabeleça que vai dominar três acordes novos toda semana.
+3. **Estude escalas simples** — Pratique a escala de Dó maior nas quatro primeiras posições do braço.
+4. **Pratique ritmo com metrônomo** — Toque cada acorde com o metrônomo em 60 bpm e mantenha o tempo.
+5. **Grave e escute sua execução** — Grave uma sessão de 5 minutos e ouça para notar pontos de melhoria.
+6. **Peça feedback curto** — Envie a gravação para um amigo ou em um fórum e receba comentários rápidos.
 
-_Se quiser aprofundar essas estratégias e descobrir um caminho estruturado, dê uma olhada no guia completo._
+_Pronto para aprofundar? Confira o guia completo._

@@ -1,0 +1,37 @@
+{
+  "produto_id": "como-aprender-violao-sozinho",
+  "hub_slug": "musica",
+  "titulo": "Checklist rápido: 5 passos para continuar seu aprendizado de violão",
+  "conteudo": {
+    "titulo": "Checklist rápido: 5 passos para continuar seu aprendizado de violão",
+    "intro": "Chega de ficar preso na mesma playlist do YouTube; já sei o que fazer quando não sei o que estudar depois.",
+    "passos": [
+      {
+        "titulo": "Identifique seu objetivo musical",
+        "detalhe": "Anote em um caderno o estilo ou a música que quer tocar em 30 dias – isso vai direcionar suas escolhas de acordes e escalas."
+      },
+      {
+        "titulo": "Escolha um método de ritmo consistente",
+        "detalhe": "Defina um cronograma de 15–20 minutos diários e use um metrônomo para manter o tempo firme."
+      },
+      {
+        "titulo": "Foque nos acordes mais usados",
+        "detalhe": "Trabalhe só os 8 acordes que aparecem em 90% das faixas de iniciantes; pratique trocas rápidas entre eles."
+      },
+      {
+        "titulo": "Aplique a técnica de variação de mão",
+        "detalhe": "Varie o dedilhado de cada acorde (por exemplo, palm‑mute, arpejo, batida) para ganhar controle e expressão."
+      },
+      {
+        "titulo": "Registre seu progresso",
+        "detalhe": "Grave um vídeo curto a cada semana e compare; isso ajuda a perceber erros e mantém a motivação."
+      }
+    ],
+    "fechamento": "Se quiser aprofundar cada etapa e ter um plano de 30 dias estruturado, dê uma olhada no guia completo."
+  },
+  "texto_telegram_html": "<b>Checklist rápido: 5 passos para continuar seu aprendizado de violão</b>\n\n<i>Chega de ficar preso na mesma playlist do YouTube; já sei o que fazer quando não sei o que estudar depois.</i>\n\n<b>1. Identifique seu objetivo musical</b>\n<code>Anote em um caderno o estilo ou a música que quer tocar em 30 dias – isso vai direcionar suas escolhas de acordes e escalas.</code>\n\n<b>2. Escolha um método de ritmo consistente</b>\n<code>Defina um cronograma de 15–20 minutos diários e use um metrônomo para manter o tempo firme.</code>\n\n<b>3. Foque nos acordes mais usados</b>\n<code>Trabalhe só os 8 acordes que aparecem em 90% das faixas de iniciantes; pratique trocas rápidas entre eles.</code>\n\n<b>4. Aplique a técnica de variação de mão</b>\n<code>Varie o dedilhado de cada acorde (por exemplo, palm‑mute, arpejo, batida) para ganhar controle e expressão.</code>\n\n<b>5. Registre seu progresso</b>\n<code>Grave um vídeo curto a cada semana e compare; isso ajuda a perceber erros e mantém a motivação.</code>\n\n<i>Se quiser aprofundar cada etapa e ter um plano de 30 dias estruturado, dê uma olhada no guia completo.</i>",
+  "parse_mode": "HTML",
+  "dor_principal_ancorada": "Aprender violão sozinho pelo YouTube sem saber o que estudar em seguida",
+  "fonte_geracao": "gemini_ia",
+  "gerado_em": "2026-10-05T13:03:12"
+}
