@@ -1,13 +1,13 @@
-# Checklist Rápido: Bolo de Andar sem Erros
+# Checklist rápido: Evite o desastre do bolo de andar
 
-_Você já tentou montar aquele bolo de andar e acabou com chantilly desandando ou a estrutura tombando? Já viu o vídeo e se perguntou se o curso pago resolve esse caos._
+_Eu já vi bolos derrubarem e chantilly desandar na hora do evento. Sei que cada erro custa tempo e dinheiro._
 
-1. **Verifique a temperatura dos ingredientes** — Assegure que ovos, leite e manteiga estejam em temperatura ambiente; isso evita choque térmico na massa.
-2. **Use a proporção correta de farinha** — Pese 100g de farinha para cada 200g de massa; medir ao invés de colher ajuda a manter a leveza.
-3. **Bata a massa no ritmo certo** — Misture rapidamente por 30 segundos, depois deixe descansar 5 minutos antes de montar; isso previne a perda de ar.
-4. **Monte em camadas uniformes** — Espalhe cada bolo com espátula de aço, pressione levemente e deixe firme; não sobrecarregue o centro para evitar queda.
-5. **Espere a refrigeração completa** — Coloque no freezer 20 min antes de aplicar chantilly; a massa firme mantém a forma.
-6. **Finalize com chantilly fresco** — Bata chantilly na velocidade média, adicione açúcar apenas quando atingir picos suaves; aplique com espátula, mantendo o centro firme.
-7. **Faça o teste de estabilidade** — Sobe um dedo no centro; se a massa cede, deixe descansar 5 minutos antes de servir; isso garante que não desanda.
+1. **Verifique a temperatura** — Ajuste o forno 10°C abaixo da receita e faça um teste com um ovo antes de assar o bolo completo.
+2. **Teste a massa** — Faça um pequeno pão de massa no forno; se não der, ajuste líquidos/fermento e refaça.
+3. **Nivelar antes de encher** — Espalhe a massa com espátula, leve à superfície, faça o nível com faca e corte um quadrado.
+4. **Recheie com base leve** — Faça um recheio de creme de manteiga em vez de chantilly, ele mantém a estrutura.
+5. **Resfrie bem antes** — Espere o bolo esfriar completamente (pelo menos 30 min) para evitar que a cobertura escorra.
+6. **Monte em camadas equilibradas** — Coloque a primeira camada, espalhe o recheio, leve à mesa, repita, mas não sobrecarregue.
+7. **Finalize com cobertura firme** — Use chantilly estabilizado ou ganache de chocolate para selar as bordas.
 
-_Quer ir mais fundo? Confira nosso guia completo para dominar bolos de andar sem surpresas._
+_Quer ir mais fundo? veja o guia completo que vai além desse checklist._
