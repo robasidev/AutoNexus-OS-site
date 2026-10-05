@@ -1,11 +1,11 @@
-# Checklist rápido: 5 passos para continuar seu aprendizado de violão
+# Checklist: Próximo Passo Após o YouTube
 
-_Chega de ficar preso na mesma playlist do YouTube; já sei o que fazer quando não sei o que estudar depois._
+_Você já se sentiu perdido entre vídeos de acordes e não sabe qual teoria estudar a seguir. Eu passei por isso e descobri um caminho rápido e direto._
 
-1. **Identifique seu objetivo musical** — Anote em um caderno o estilo ou a música que quer tocar em 30 dias – isso vai direcionar suas escolhas de acordes e escalas.
-2. **Escolha um método de ritmo consistente** — Defina um cronograma de 15–20 minutos diários e use um metrônomo para manter o tempo firme.
-3. **Foque nos acordes mais usados** — Trabalhe só os 8 acordes que aparecem em 90% das faixas de iniciantes; pratique trocas rápidas entre eles.
-4. **Aplique a técnica de variação de mão** — Varie o dedilhado de cada acorde (por exemplo, palm‑mute, arpejo, batida) para ganhar controle e expressão.
-5. **Registre seu progresso** — Grave um vídeo curto a cada semana e compare; isso ajuda a perceber erros e mantém a motivação.
+1. **Escolha um acorde-chave** — Selecione um acorde que você usa mais que 70% das vezes nas músicas que quer tocar e anote sua forma no braço.
+2. **Mapeie a transição** — Faça um exercício de 5 minutos mudando do acorde escolhido para o próximo na progressão mais comum que você encontrou.
+3. **Defina a frequência** — Decida, em um horário fixo, tocar esses acordes em sequência de 15 minutos, 3 vezes por dia.
+4. **Registre os tempos** — Use um timer no celular para controlar a duração de cada troca, anotando na mesma folha o tempo que demorou.
+5. **Revisite e ajuste** — A cada 3 dias, confira o progresso, corrija os erros e aumente a velocidade em 5% se conseguir manter a clareza.
 
-_Se quiser aprofundar cada etapa e ter um plano de 30 dias estruturado, dê uma olhada no guia completo._
+_Se quiser aprofundar esses conceitos e transformar esse hábito em um plano diário, o guia completo está pronto para você._

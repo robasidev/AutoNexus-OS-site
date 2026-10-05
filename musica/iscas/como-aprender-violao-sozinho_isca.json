@@ -1,37 +1,37 @@
 {
   "produto_id": "como-aprender-violao-sozinho",
   "hub_slug": "musica",
-  "titulo": "Checklist rápido: 5 passos para continuar seu aprendizado de violão",
+  "titulo": "Checklist: Próximo Passo Após o YouTube",
   "conteudo": {
-    "titulo": "Checklist rápido: 5 passos para continuar seu aprendizado de violão",
-    "intro": "Chega de ficar preso na mesma playlist do YouTube; já sei o que fazer quando não sei o que estudar depois.",
+    "titulo": "Checklist: Próximo Passo Após o YouTube",
+    "intro": "Você já se sentiu perdido entre vídeos de acordes e não sabe qual teoria estudar a seguir. Eu passei por isso e descobri um caminho rápido e direto.",
     "passos": [
       {
-        "titulo": "Identifique seu objetivo musical",
-        "detalhe": "Anote em um caderno o estilo ou a música que quer tocar em 30 dias – isso vai direcionar suas escolhas de acordes e escalas."
+        "titulo": "Escolha um acorde-chave",
+        "detalhe": "Selecione um acorde que você usa mais que 70% das vezes nas músicas que quer tocar e anote sua forma no braço."
       },
       {
-        "titulo": "Escolha um método de ritmo consistente",
-        "detalhe": "Defina um cronograma de 15–20 minutos diários e use um metrônomo para manter o tempo firme."
+        "titulo": "Mapeie a transição",
+        "detalhe": "Faça um exercício de 5 minutos mudando do acorde escolhido para o próximo na progressão mais comum que você encontrou."
       },
       {
-        "titulo": "Foque nos acordes mais usados",
-        "detalhe": "Trabalhe só os 8 acordes que aparecem em 90% das faixas de iniciantes; pratique trocas rápidas entre eles."
+        "titulo": "Defina a frequência",
+        "detalhe": "Decida, em um horário fixo, tocar esses acordes em sequência de 15 minutos, 3 vezes por dia."
       },
       {
-        "titulo": "Aplique a técnica de variação de mão",
-        "detalhe": "Varie o dedilhado de cada acorde (por exemplo, palm‑mute, arpejo, batida) para ganhar controle e expressão."
+        "titulo": "Registre os tempos",
+        "detalhe": "Use um timer no celular para controlar a duração de cada troca, anotando na mesma folha o tempo que demorou."
       },
       {
-        "titulo": "Registre seu progresso",
-        "detalhe": "Grave um vídeo curto a cada semana e compare; isso ajuda a perceber erros e mantém a motivação."
+        "titulo": "Revisite e ajuste",
+        "detalhe": "A cada 3 dias, confira o progresso, corrija os erros e aumente a velocidade em 5% se conseguir manter a clareza."
       }
     ],
-    "fechamento": "Se quiser aprofundar cada etapa e ter um plano de 30 dias estruturado, dê uma olhada no guia completo."
+    "fechamento": "Se quiser aprofundar esses conceitos e transformar esse hábito em um plano diário, o guia completo está pronto para você."
   },
-  "texto_telegram_html": "<b>Checklist rápido: 5 passos para continuar seu aprendizado de violão</b>\n\n<i>Chega de ficar preso na mesma playlist do YouTube; já sei o que fazer quando não sei o que estudar depois.</i>\n\n<b>1. Identifique seu objetivo musical</b>\n<code>Anote em um caderno o estilo ou a música que quer tocar em 30 dias – isso vai direcionar suas escolhas de acordes e escalas.</code>\n\n<b>2. Escolha um método de ritmo consistente</b>\n<code>Defina um cronograma de 15–20 minutos diários e use um metrônomo para manter o tempo firme.</code>\n\n<b>3. Foque nos acordes mais usados</b>\n<code>Trabalhe só os 8 acordes que aparecem em 90% das faixas de iniciantes; pratique trocas rápidas entre eles.</code>\n\n<b>4. Aplique a técnica de variação de mão</b>\n<code>Varie o dedilhado de cada acorde (por exemplo, palm‑mute, arpejo, batida) para ganhar controle e expressão.</code>\n\n<b>5. Registre seu progresso</b>\n<code>Grave um vídeo curto a cada semana e compare; isso ajuda a perceber erros e mantém a motivação.</code>\n\n<i>Se quiser aprofundar cada etapa e ter um plano de 30 dias estruturado, dê uma olhada no guia completo.</i>",
+  "texto_telegram_html": "<b>Checklist: Próximo Passo Após o YouTube</b>\n\n<i>Você já se sentiu perdido entre vídeos de acordes e não sabe qual teoria estudar a seguir. Eu passei por isso e descobri um caminho rápido e direto.</i>\n\n<b>1. Escolha um acorde-chave</b>\n<code>Selecione um acorde que você usa mais que 70% das vezes nas músicas que quer tocar e anote sua forma no braço.</code>\n\n<b>2. Mapeie a transição</b>\n<code>Faça um exercício de 5 minutos mudando do acorde escolhido para o próximo na progressão mais comum que você encontrou.</code>\n\n<b>3. Defina a frequência</b>\n<code>Decida, em um horário fixo, tocar esses acordes em sequência de 15 minutos, 3 vezes por dia.</code>\n\n<b>4. Registre os tempos</b>\n<code>Use um timer no celular para controlar a duração de cada troca, anotando na mesma folha o tempo que demorou.</code>\n\n<b>5. Revisite e ajuste</b>\n<code>A cada 3 dias, confira o progresso, corrija os erros e aumente a velocidade em 5% se conseguir manter a clareza.</code>\n\n<i>Se quiser aprofundar esses conceitos e transformar esse hábito em um plano diário, o guia completo está pronto para você.</i>",
   "parse_mode": "HTML",
   "dor_principal_ancorada": "Aprender violão sozinho pelo YouTube sem saber o que estudar em seguida",
   "fonte_geracao": "gemini_ia",
-  "gerado_em": "2026-10-05T13:03:12"
+  "gerado_em": "2026-10-05T13:26:51"
 }
