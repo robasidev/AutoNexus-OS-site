@@ -1,0 +1,37 @@
+{
+  "produto_id": "certificacao-online-drywash",
+  "hub_slug": "empreendedorismo",
+  "titulo": "Checklist Rápido: Começando Lavagem a Seco sem Perder Carro",
+  "conteudo": {
+    "titulo": "Checklist Rápido: Começando Lavagem a Seco sem Perder Carro",
+    "intro": "Sabe aquele medo de ralar a pintura ou ficar sem saber quanto cobrar? Já passei por isso e tenho um plano simples.",
+    "passos": [
+      {
+        "titulo": "Verifique a Ferramenta",
+        "detalhe": "Teste o produto em um canto discreto do carro. Se não deixa marcas, já deu a sinal verde."
+      },
+      {
+        "titulo": "Prepare a Área",
+        "detalhe": "Abra janelas, use proteção de tecidos e defina zona de trabalho. Isso evita contaminação cruzada."
+      },
+      {
+        "titulo": "Teste de Custo",
+        "detalhe": "Calcule o preço por quilômetro de lavagem: material, mão de obra e tempo. Ajuste pra ficar competitivo."
+      },
+      {
+        "titulo": "Documente o Processo",
+        "detalhe": "Faça um registro rápido em foto e nota: marca, quantidade de produto e tempo. Isso ajuda no futuro."
+      },
+      {
+        "titulo": "Obtenha o Alvará",
+        "detalhe": "Verifique no órgão municipal se precisa de licença de comércio ou apenas atestado de atividade. Não desperdice tempo."
+      }
+    ],
+    "fechamento": "Se quiser saber tudo que faltou, tenho um guia completo com todas as nuances."
+  },
+  "texto_telegram_html": "<b>Checklist Rápido: Começando Lavagem a Seco sem Perder Carro</b>\n\n<i>Sabe aquele medo de ralar a pintura ou ficar sem saber quanto cobrar? Já passei por isso e tenho um plano simples.</i>\n\n<b>1. Verifique a Ferramenta</b>\n<code>Teste o produto em um canto discreto do carro. Se não deixa marcas, já deu a sinal verde.</code>\n\n<b>2. Prepare a Área</b>\n<code>Abra janelas, use proteção de tecidos e defina zona de trabalho. Isso evita contaminação cruzada.</code>\n\n<b>3. Teste de Custo</b>\n<code>Calcule o preço por quilômetro de lavagem: material, mão de obra e tempo. Ajuste pra ficar competitivo.</code>\n\n<b>4. Documente o Processo</b>\n<code>Faça um registro rápido em foto e nota: marca, quantidade de produto e tempo. Isso ajuda no futuro.</code>\n\n<b>5. Obtenha o Alvará</b>\n<code>Verifique no órgão municipal se precisa de licença de comércio ou apenas atestado de atividade. Não desperdice tempo.</code>\n\n<i>Se quiser saber tudo que faltou, tenho um guia completo com todas as nuances.</i>",
+  "parse_mode": "HTML",
+  "dor_principal_ancorada": "Querer começar com lavagem a seco sem saber se a técnica risca a pintura, quanto cobrar e se precisa de franquia ou alvará",
+  "fonte_geracao": "gemini_ia",
+  "gerado_em": "2026-10-05T09:43:38"
+}
